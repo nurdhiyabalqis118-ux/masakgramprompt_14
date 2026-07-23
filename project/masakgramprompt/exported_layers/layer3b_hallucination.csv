@@ -1,0 +1,6732 @@
+experiment_id,ingredient_id,name_en,estimated_weight_g
+1,1,,500.0
+1,2,flour,90.0
+1,3,sugar,100.0
+1,4,salt,5.0
+1,5,baking powder,10.0
+1,6,yeast,10.0
+1,7,egg,50.0
+1,8,warm milk,200.0
+1,9,tomato,150.0
+1,10,mozzarella,115.0
+1,11,prosciutto,110.0
+1,12,arugula,20.0
+1,13,olive oil,50.0
+1,14,cured egg yolks,80.0
+1,15,black pepper,5.0
+2,16,Apple,120.0
+2,17,,0.0
+3,18,Bagel,450.0
+3,19,Butter,250.0
+3,20,Honey,100.0
+3,21,Salt,5.0
+3,22,MSG,5.0
+3,23,Parsley Powder,10.0
+4,24,Potatoes,200.0
+4,25,Garlic Oil,20.0
+4,26,Salt,5.0
+4,27,Salmon,100.0
+4,28,Japanese Mayo,80.0
+4,29,Spring Onions,20.0
+4,30,Tobiko,10.0
+5,31,banana,120.0
+5,32,milk,80.0
+5,33,whipping cream,80.0
+5,34,vanilla,5.0
+5,35,cinnamon powder,3.0
+5,36,egg yolks,60.0
+5,37,sugar,80.0
+6,38,Fried Dace,250.0
+6,39,Salted Black Beans,100.0
+6,40,Garlic Oil,100.0
+6,41,Pasta,250.0
+7,42,Eggs,120.0
+7,43,Sugar,400.0
+7,44,Milk,1800.0
+7,45,Butter,225.0
+7,46,Vanilla,10.0
+7,47,Glutinous Rice Flour,150.0
+7,48,Tapioca Flour,125.0
+7,49,Baking Powder,30.0
+8,50,Milo powder,50.0
+8,51,cocoa powder,25.0
+8,52,salt,5.0
+8,53,condensed milk,1000.0
+8,54,vanilla extract,10.0
+8,55,cream,200.0
+8,56,biscuits,300.0
+8,57,chocolate sauce,500.0
+9,58,Butter,50.0
+9,59,Milk,80.0
+9,60,Cake Flour,150.0
+9,61,Egg Yolks,120.0
+9,62,Vanilla,2.0
+9,63,Salt,2.0
+9,64,Egg Whites,120.0
+9,65,Sugar,100.0
+10,66,Century Egg,120.0
+10,67,Egg,100.0
+10,68,Cheese,100.0
+10,69,Bacon,50.0
+11,70,Chicken,500.0
+11,71,Coconut Milk,350.0
+11,72,Ginger,50.0
+11,73,Chili Sauce,50.0
+11,74,Salt,10.0
+11,75,Spring Onion,50.0
+12,76,,500.0
+12,77,,20.0
+12,78,,50.0
+12,79,,10.0
+12,80,,30.0
+12,81,,100.0
+13,82,chicken breast or thighs,500.0
+13,83,onion,200.0
+13,84,apple,200.0
+13,85,carrot,100.0
+13,86,napa cabbage,200.0
+13,87,spring onions,100.0
+13,88,ginger,100.0
+13,89,goji berries,100.0
+14,90,,150.0
+14,91,,100.0
+14,92,,50.0
+14,93,,20.0
+14,94,,200.0
+14,95,,100.0
+14,96,,50.0
+14,97,,50.0
+15,98,Frosted Wheat Flakes,100.0
+15,99,Strawberry,100.0
+15,100,Sugar,100.0
+15,101,Cocoa,100.0
+15,102,Salt,10.0
+16,103,corn,200.0
+16,104,milk,100.0
+16,105,brown butter,50.0
+16,106,flour,100.0
+16,107,cornstarch,20.0
+16,108,sugar,100.0
+16,109,egg yolks,50.0
+16,110,vanilla,5.0
+16,111,rum,10.0
+16,112,whipped cream,200.0
+16,113,oats,100.0
+17,114,All-Purpose Flour,225.0
+17,115,Unsalted Butter,100.0
+17,116,Granulated Sugar,18.0
+17,117,Salt,5.0
+17,118,Milk,125.0
+18,119,,120.0
+18,120,,80.0
+18,121,black sesame seeds,50.0
+18,122,black sesame paste,20.0
+18,123,,10.0
+19,124,Chicken breast,500.0
+19,125,Potatoes,200.0
+19,126,Carrots,150.0
+19,127,Curry paste,50.0
+19,128,Durian flesh,120.0
+20,129,Gula Melaka,50.0
+20,130,Pandan Leaves,20.0
+20,131,Lo-Hon-Gor or Manfurt,50.0
+20,132,Longan Fruit,20.0
+20,133,Nescafe Espresso Concentrate (Sweet Vanilla),100.0
+21,134,potatoes,500.0
+21,135,oil,60.0
+21,136,salt,10.0
+21,137,pepper,5.0
+21,138,baking powder,5.0
+22,,,
+23,139,Kante,500.0
+23,140,Sweetened Condensed Milk,300.0
+23,141,Heavy Whipping Cream,250.0
+23,142,Miso Paste,50.0
+23,143,Kante Powder,20.0
+23,144,Kelp Sheets,20.0
+24,145,Gula Melaka,200.0
+24,146,Coconut Milk,750.0
+24,147,Butter,225.0
+24,148,Sugar,200.0
+24,149,Eggs,120.0
+24,150,Longans (Rum Soaked),200.0
+25,,,
+26,151,Kimchi,250.0
+26,152,Bread,80.0
+26,153,Cheese,100.0
+27,154,Flour,364.0
+27,155,All Purpose Flour,227.0
+27,156,Sugar,114.0
+27,157,Salt,7.0
+27,158,Yeast,28.0
+27,159,Water,368.0
+27,160,Butter,284.0
+28,161,Pandan leaves,20.0
+28,162,Coconut milk,750.0
+28,163,Egg,50.0
+28,164,Palm sugar,200.0
+28,165,Salt,2.0
+28,166,Oil,170.0
+28,167,Flour,364.0
+29,168,Kopi Kau Kau,100.0
+29,169,Gula Melaka,250.0
+29,170,All-purpose Flour,130.0
+29,171,,900.0
+29,172,Jaggery,120.0
+29,173,Peanuts,60.0
+29,174,Tapioca Flour,90.0
+29,175,Milk,150.0
+29,176,Pandan Cream,30.0
+30,177,Garlic,18.0
+30,178,Ginger,6.0
+30,179,Chilies,6.0
+30,180,Sichuan Peppercorns,3.0
+30,181,Five-Spice Powder,10.0
+30,182,Lao Gan Ma,30.0
+30,183,Egg,50.0
+30,184,Cream,120.0
+30,185,Soy Sauce,25.0
+30,186,Sesame Oil,10.0
+30,187,Spaghetti,360.0
+30,188,Spring Onions,20.0
+31,189,,200.0
+31,190,,100.0
+31,191,,50.0
+31,192,,100.0
+31,193,,100.0
+31,194,,200.0
+32,195,egg,50.0
+32,196,pasta,200.0
+32,197,mentaiko,30.0
+32,198,mayo,10.0
+32,199,soy sauce,5.0
+32,200,cheese,15.0
+32,201,black pepper,2.0
+33,202,Flour,250.0
+33,203,Golden Syrup,120.0
+33,204,Lye Water,55.0
+33,205,Oil,22.0
+33,206,Beef,180.0
+33,207,Mushroom Duxelles,90.0
+33,208,Parma Ham,40.0
+33,209,Mustard,7.0
+33,210,Pastry,220.0
+34,211,Ground Beef,200.0
+34,212,Onion,150.0
+34,213,Kimchi,50.0
+34,214,Broken Up Pasta,100.0
+34,215,Ricotta Cheese,150.0
+34,216,Mozzarella Cheese,100.0
+34,217,Tomato Sauce,200.0
+35,218,Egg Whites,120.0
+35,219,Sugar,60.0
+35,220,Corn Flour,200.0
+35,221,Egg Yolks,60.0
+35,222,Salt,10.0
+35,223,Milk,170.0
+35,224,Honey,50.0
+35,225,Butter,100.0
+35,226,Soy Sauce,50.0
+35,227,Vanilla,10.0
+36,228,Snow Fungus,50.0
+36,229,Red Dates,20.0
+36,230,Goji Berries,10.0
+36,231,Dried Longans,10.0
+36,232,Papaya,30.0
+37,233,Peanut Butter,50.0
+37,234,All-Purpose Flour,100.0
+37,235,Sugar,50.0
+37,236,Salt,5.0
+37,237,Baking Powder,5.0
+37,238,Oil,20.0
+37,239,Sesame Oil,5.0
+37,240,Peanuts,50.0
+38,241,Sweet Cream,120.0
+38,242,Berries,150.0
+38,243,Caramel,40.0
+38,244,Pickles,250.0
+39,245,Flour,100.0
+39,246,Yeast,10.0
+39,247,Sugar,20.0
+39,248,Salt,5.0
+39,249,Butter,25.0
+39,250,Pineapple Juice,80.0
+39,251,Egg,50.0
+39,252,Sugar,50.0
+40,253,Chicken,200.0
+40,254,Abalone,80.0
+40,255,Ginger,15.0
+40,256,Spring Onions,20.0
+40,257,Rice,180.0
+40,258,Soy Sauce,50.0
+40,259,Sesame Oil,20.0
+40,260,Puff Pastry,120.0
+41,,,
+42,261,Potatoes,200.0
+42,262,Onions,100.0
+42,263,Carrots,50.0
+42,264,Whipped Cream,100.0
+42,265,Japanese Curry Powder,20.0
+42,266,Udon Noodles,100.0
+42,267,Chicken Breast,50.0
+43,,,
+44,268,Butter,35.0
+44,269,Sugar,6.48
+44,270,Instant Coffee,6.0
+44,271,Egg,50.0
+44,272,Vanilla,6.0
+44,273,Flour,140.5
+44,274,Baking Powder,3.125
+44,275,Salt,1.25
+44,276,Flaky Salt,6.3
+45,277,Butter,28.35
+45,278,Sugar,6.25
+45,279,Egg,50.0
+45,280,Coffee,10.0
+45,281,Water,0.0
+45,282,Vanilla,5.0
+45,283,Flour,364.0
+46,284,Japanese Salmon,150.0
+46,285,Garlic Oil,15.0
+46,286,Salt,5.0
+46,287,Japanese Mayo,10.0
+46,288,Spring Onions,15.0
+46,289,Tobiko,5.0
+46,290,Potatoes,250.0
+46,291,Garlic,10.0
+47,292,Mandarin Oranges,1000.0
+47,293,Sugar,180.0
+47,294,Eggs,120.0
+47,295,Flour,90.0
+47,296,Baking Powder,5.0
+47,297,Baking Soda,5.0
+47,298,Salt,5.0
+47,299,Butter,45.0
+47,300,Palm Sugar,90.0
+47,301,Cream,40.0
+48,302,Super Ring,50.0
+48,303,Rice,400.0
+48,304,Seaweed,20.0
+48,305,Sesame Seeds,20.0
+48,306,Sesame Oil,20.0
+49,307,Thai Tea Leaves,2.5
+49,308,Sugar,114.0
+49,309,Eggs,120.0
+49,310,Heavy Cream,280.0
+49,311,Toasted Coconut Flakes,120.0
+49,312,Unsweetened Almond Milk,260.0
+49,313,Unsalted Butter,55.0
+49,314,Sabayon Thickener,5.0
+49,315,Vanilla Extract,5.0
+49,316,Salt,3.0
+50,317,watermelon,400.0
+50,318,tomatoes,120.0
+50,319,mozzarella,80.0
+50,320,basil,10.0
+50,321,olive oil,20.0
+50,322,balsamic vinegar,50.0
+50,323,flaky salt,5.0
+50,324,prosciutto,60.0
+51,325,egg,50.0
+51,326,gula melaka syrup,180.0
+51,327,cooking oil,14.0
+51,328,dried persimmons,35.0
+51,329,longans,50.0
+51,330,red dates,50.0
+51,331,raisins,30.0
+51,332,baking powder,10.0
+51,333,Korean pear,20.0
+51,334,granulated sugar,350.0
+51,335,baking powder,10.0
+51,336,egg,50.0
+51,337,Korean pear,20.0
+51,338,cooking oil,14.0
+51,339,dried persimmons,35.0
+51,340,longans,50.0
+51,341,red dates,50.0
+51,342,raisins,30.0
+51,343,baking powder,10.0
+51,344,cooking oil,14.0
+52,345,egg,100.0
+52,346,sugar,50.0
+52,347,salt,5.0
+52,348,baking powder,10.0
+52,349,yeast,10.0
+52,350,milk,800.0
+52,351,tomato,120.0
+52,352,mozzarella cheese,200.0
+52,353,prosciutto,50.0
+52,354,arugula,20.0
+52,355,olive oil,28.0
+52,356,homemade cured egg yolks,100.0
+52,357,black pepper,5.0
+53,358,apple,150.0
+53,359,,0.0
+53,360,,0.0
+53,361,,0.0
+54,362,bagel,250.0
+54,363,butter,70.0
+54,364,honey,150.0
+54,365,salt,5.0
+54,366,MSG,5.0
+54,367,parsley powder,5.0
+55,368,potato,150.0
+55,369,garlic oil,14.0
+55,370,salt,5.0
+55,371,salmon,100.0
+55,372,Japanese mayo,50.0
+55,373,spring onions,20.0
+55,374,tobiko,20.0
+56,,,
+57,375,fried dace,250.0
+57,376,black beans,150.0
+57,377,cooking oil,28.0
+57,378,rice,200.0
+57,379,garlic,10.0
+57,380,shredded fish,120.0
+58,381,egg,400.0
+58,382,sugar,200.0
+58,383,warm milk,250.0
+58,384,melted butter,115.0
+58,385,vanilla,5.0
+58,386,all-purpose flour,250.0
+58,387,tapioca flour,100.0
+58,388,kuih balu mold,200.0
+58,389,confectioner's sugar,100.0
+58,390,unsalted butter,115.0
+59,391,biscuits,3000.0
+59,392,Milo powder,100.0
+59,393,cocoa powder,100.0
+59,394,salt,10.0
+59,395,condensed milk,800.0
+59,396,vanilla,10.0
+59,397,cream,400.0
+59,398,chocolate sauce,4000.0
+59,399,butter,500.0
+60,400,butter,100.0
+60,401,milk,250.0
+60,402,sugar,150.0
+60,403,cake flour,200.0
+60,404,egg yolks,120.0
+60,405,vanilla,5.0
+60,406,salt,2.0
+60,407,egg whites,120.0
+60,408,,150.0
+61,409,century egg,200.0
+61,410,egg,50.0
+61,411,cheese,200.0
+61,412,cooking oil,14.0
+61,413,bacon,100.0
+62,414,chicken,500.0
+62,415,palm sugar,100.0
+62,416,curry powder,20.0
+62,417,coconut milk,400.0
+62,418,chili sauce,50.0
+62,419,sesame oil,20.0
+62,420,salt,10.0
+62,421,onion,100.0
+62,422,ginger,20.0
+63,423, chicken,500.0
+63,424, ginger,20.0
+63,425, garlic,15.0
+63,426, butter,20.0
+63,427, rice,800.0
+63,428, chicken broth,200.0
+63,429, ginger,15.0
+63,430, garlic,15.0
+63,431, lime,20.0
+63,432, chili sauce,100.0
+63,433, oil,20.0
+64,434,vegetables,200.0
+64,435,onion,150.0
+64,436,apple,150.0
+64,437,carrot,200.0
+64,438,napa cabbage,150.0
+64,439,spring onion,50.0
+64,440,ginger,50.0
+64,441,goji berries,100.0
+64,442,chicken,1500.0
+65,443,,100.0
+65,444,,50.0
+65,445,,30.0
+65,446,,50.0
+65,447,,100.0
+66,448,chocolate,300.0
+66,449,egg,100.0
+66,450,strawberry,100.0
+66,451,air,0.0
+67,,,
+68,452,puff pastry,250.0
+68,453,cinnamon sugar,50.0
+68,454,milk,200.0
+68,455,croissant,1000.0
+69,456,butter,28.0
+69,457,sugar,200.0
+69,458,egg,50.0
+69,459,vanilla flour,30.0
+69,460,salt,3.0
+69,461,black sesame seeds,20.0
+69,462,black sesame paste,15.0
+69,463,tong yuen,100.0
+70,464,Durian,200.0
+70,465,Chicken,200.0
+70,466,Potatoes,400.0
+70,467,Carrots,400.0
+70,468,Curry Paste,30.0
+70,469,Water,500.0
+71,470,,20.0
+71,471,longan,100.0
+71,472,lo-hon-gor,50.0
+71,473,pandana,20.0
+71,474,jaggery,20.0
+71,475,espresso,50.0
+72,476,,100.0
+72,477,,0.0
+72,478,,50.0
+73,479,Kante,50.0
+73,480,condensed milk,800.0
+73,481,miso,50.0
+73,482,kante powder,10.0
+73,483,seaweed snack,50.0
+73,484,whipped cream,800.0
+73,485,kante sheets,50.0
+74,486,,200.0
+74,487,gula melaka,150.0
+74,488,coconut milk,150.0
+74,489,butter,100.0
+74,490,sugar,200.0
+74,491,eggs,180.0
+74,492,gula melaka,150.0
+74,493,longan,150.0
+74,494,rum,50.0
+74,495,flour,200.0
+74,496,baking powder,25.0
+74,497,salt,10.0
+74,498,baking soda,25.0
+75,499,white bread,280.0
+75,500,butter,120.0
+75,501,kaya jam,200.0
+75,502,egg yolk,20.0
+75,503,cooking oil,14.0
+76,,,
+77,,,
+78,504,pandan leaf,200.0
+78,505,coconut milk,400.0
+78,506,egg,120.0
+78,507,palm sugar,200.0
+78,508, salt,5.0
+78,509,cooking oil,14.0
+78,510,flour,400.0
+79,511,,450.0
+79,512,,250.0
+79,513,gula melaka,200.0
+79,514,,800.0
+79,515,egg,50.0
+79,516,,28.0
+80,517,garlic,10.0
+80,518,ginger,10.0
+80,519,chilies,10.0
+80,520,Sichuan peppercorns,10.0
+80,521,five-spice powder,10.0
+80,522,Lao Gan Ma,10.0
+80,523,egg,100.0
+80,524,cream,100.0
+80,525,soy sauce,50.0
+80,526,sesame oil,50.0
+80,527,spaghetti,10000.0
+80,528,spring onions,20.0
+81,,,
+82,,,
+83,529,golden syrup,48.0
+83,530,lye water,100.0
+83,531,oil,140.0
+83,532,beef,175.0
+83,533,mushroom duxelles,100.0
+83,534,parma ham,85.0
+83,535,pastry,115.0
+84,536,ground beef,100.0
+84,537,onion,50.0
+84,538,kimchi,25.0
+84,539,pasta,25.0
+84,540,ricotta cheese,100.0
+84,541,mozzarella cheese,150.0
+84,542,tomato sauce,150.0
+85,,,
+86,543,,500.0
+86,544,,250.0
+86,545,,100.0
+86,546,,150.0
+86,547,,500.0
+86,548,,10000.0
+86,549,,10000.0
+87,550,,250.0
+87,551,egg,50.0
+87,552,sugar,400.0
+87,553,salt,10.0
+87,554,baking powder,20.0
+87,555,oil,70.0
+87,556,sesame oil,20.0
+88,,,
+89,557,butter,28.0
+89,558,pineapple jam,150.0
+89,559,egg,100.0
+89,560,sugar,100.0
+89,561,sugar cane syrup,50.0
+89,562,spices,10.0
+89,563,  ,0.0
+90,564,rice,200.0
+90,565,chicken stock,500.0
+90,566,chicken,120.0
+90,567,abalone,80.0
+90,568,ginger,20.0
+90,569,spring onions,20.0
+90,570,soy sauce,30.0
+90,571,sesame oil,20.0
+90,572,puff pastry,400.0
+91,573,bacon,120.0
+91,574,guanciale,70.0
+91,575,egg,50.0
+91,576,parmesan cheese,100.0
+91,577,potato,200.0
+91,578,potato starch,50.0
+91,579,,0.0
+92,580,potato,150.0
+92,581,cooking oil,45.0
+92,582,whipped cream,100.0
+92,583,chicken,200.0
+92,584,onion,70.0
+92,585,carrot,100.0
+92,586,Japanese curry,150.0
+92,587,udon noodles,250.0
+93,,,
+94,588,,112.5
+94,589,,28.5
+94,590,,30.0
+94,591,,15.0
+94,592,,5.0
+94,593,,2.5
+94,594,,100.0
+94,595,,6.0
+94,596,,6.0
+94,597,,18.0
+94,598,,7.5
+94,599,,3.0
+94,600,,7.0
+94,601,,3.0
+94,602,,400.0
+95,603,butter,14.0
+95,604,sugar,7.5
+95,605,egg,50.0
+95,606,instant coffee,2.5
+95,607,water,0.0
+95,608,vanilla,1.5
+95,609,flour,200.0
+96,610,mushroom,50.0
+96,611,cooking oil,28.0
+96,612,salmon,180.0
+96,613,Japanese mayo,120.0
+96,614,spring onion,20.0
+96,615,tobiko,20.0
+97,,,
+98,,,
+99,616,,0.0
+99,617,,200.0
+99,618,,0.0
+99,619,,0.0
+99,620,,100.0
+99,621,,0.0
+99,622,,0.0
+99,623,,350.0
+99,624,,0.0
+99,625,,0.0
+99,626,,350.0
+100,627,watermelon,150.0
+100,628,tomato,80.0
+100,629,mozzarella cheese,50.0
+100,630,basil leaves,20.0
+100,631,olive oil,28.0
+100,632,balsamic vinegar,100.0
+100,633,flaky salt and pepper,5.0
+100,634,prosciutto,50.0
+101,635,Flour,290.0
+101,636,Sugar,27.0
+101,637,Salt,11.0
+101,638,Baking Powder,8.0
+101,639,Yeast,10.0
+101,640,Egg,50.0
+101,641,Warm Milk,100.0
+101,642,Tomato,220.0
+101,643,Mozzarella Cheese,55.0
+101,644,Prosciutto,55.0
+101,645,Arugula,22.0
+101,646,Olive Oil,12.0
+101,647,Cured Egg Yolks,25.0
+101,648,Black Pepper,6.0
+102,649,apple,200.0
+102,650,water,1.0
+102,651,fridge,1000000.0
+103,652,Bagels,1200.0
+103,653,Butter,500.0
+103,654,Honey,300.0
+103,655,Salt,5.0
+103,656,MSG,5.0
+103,657,Parsley powder,5.0
+104,658,Potatoes,250.0
+104,659,Garlic Oil,15.0
+104,660,Salt,2.0
+104,661,Salmon,120.0
+104,662,Japanese Mayo,20.0
+104,663,Spring Onions,20.0
+104,664,Tobiko,5.0
+105,665,Banana,120.0
+105,666,Milk,750.0
+105,667,Whipping Cream,120.0
+105,668,Vanilla,5.0
+105,669,Cinnamon Powder,3.0
+105,670,Egg Yolks,30.0
+105,671,Sugar,50.0
+106,672,Fried Dace,120.0
+106,673,Salted Black Beans,100.0
+106,674,Garlic,10.0
+106,675,Pasta,100.0
+106,676,Oil,20.0
+107,677,Eggs,120.0
+107,678,Sugar,800.0
+107,679,Warm Milk,500.0
+107,680,Melted Butter,170.0
+107,681,Vanilla,10.0
+107,682,Glutinous Rice Flour,100.0
+107,683,Tapioca Flour,40.0
+108,684,Butter,200.0
+108,685,Milo Powder,20.0
+108,686,Cocoa Powder,10.0
+108,687,Salt,3.0
+108,688,Condensed Milk,140.0
+108,689,Vanilla,5.0
+108,690,Biscuits (Mary Biscuit),120.0
+108,691,Chocolate Sauce,80.0
+108,692,Cream,30.0
+109,693,Butter,50.0
+109,694,Milk,28.35
+109,695,All-purpose flour,100.0
+109,696,Egg yolks,60.0
+109,697,Vanilla extract,5.0
+109,698,Salt,1.0
+109,699,Egg whites,100.0
+109,700,Sugar,50.0
+110,701,Century Egg,120.0
+110,702,Egg,50.0
+110,703,Cheese,200.0
+110,704,Black Pepper,5.0
+110,705,Bacon,100.0
+111,706,,600.0
+111,707,ginger,50.0
+111,708,spring onion,20.0
+111,709,salt,5.0
+111,710,coconut milk,400.0
+111,711,chicken breast,400.0
+111,712,chili sauce,50.0
+111,713,water,2000.0
+111,714,coconut milk,200.0
+111,715,rice,1200.0
+112,716,chicken breast,500.0
+112,717,ginger,20.0
+112,718,scallion,20.0
+112,719,salt,5.0
+112,720,pepper,2.0
+112,721,garlic,15.0
+112,722,butter,20.0
+112,723,rice,200.0
+112,724,chicken broth,300.0
+112,725,ice cream scoop,50.0
+112,726,lime juice,30.0
+112,727,garlic,15.0
+112,728,oil,15.0
+112,729,scallion,20.0
+112,730,ginger paste,20.0
+113,731,onion,250.0
+113,732,apple,150.0
+113,733,carrot,100.0
+113,734,napa cabbage,200.0
+113,735,chicken,800.0
+113,736,spring onions,50.0
+113,737,ginger,20.0
+113,738,goji berries,50.0
+114,739,Century Eggs,150.0
+114,740,Green Chilies,100.0
+114,741,Garlic,20.0
+114,742,Salt,5.0
+114,743,Sesame,20.0
+114,744,Soy Sauce,20.0
+114,745,Vinegar,20.0
+115,746,Coco Crunch,400.0
+115,747,Strawberry,100.0
+115,748,Milk,200.0
+115,749,Vanilla extract,5.0
+115,750,Sugar,20.0
+116,751,Flour,250.0
+116,752,Cornstarch,50.0
+116,753,Sugar,150.0
+116,754,Milk,500.0
+116,755,Eggs,240.0
+116,756,Butter,50.0
+116,757,Vanilla Extract,5.0
+116,758,Rum,15.0
+116,759,Whipped Cream,200.0
+116,760,Cobs,200.0
+116,761,Oats,100.0
+117,762,,200.0
+117,763,Frozen Puff Pastry,250.0
+117,764,Cinnamon and Sugar,50.0
+117,765,Milk,100.0
+117,766,,10.0
+118,767,black sesame seeds,180.0
+118,768,black sesame paste,45.0
+118,769,eggs,120.0
+118,770,all-purpose flour,225.0
+118,771,butter,85.0
+118,772,granulated sugar,190.0
+118,773,salt,4.0
+118,774,vanilla extract,10.0
+119,775,Chicken breast,300.0
+119,776,Potatoes,200.0
+119,777,Carrots,150.0
+119,778,Durian,100.0
+119,779,Curry paste,20.0
+119,780,Coconut milk,150.0
+119,781,Fish sauce,10.0
+119,782,Lime juice,20.0
+119,783,Salt,5.0
+119,784,Black pepper,2.0
+120,785,Pandan,10.0
+120,786,Gula Melaka,150.0
+120,787,Longan,100.0
+120,788,Nescafe Espresso Concentrate,100.0
+120,789,Lo-Hon-Gor,50.0
+121,,,
+122,,,
+123,790,Kante,450.0
+123,791,Kante powder,15.0
+123,792,Whipped cream,450.0
+123,793,Condensed milk,300.0
+123,794,Miso,100.0
+123,795,Seaweed snack,50.0
+124,796,Gula Melaka,400.0
+124,797,Coconut Milk,1000.0
+124,798,Butter,100.0
+124,799,Sugar,150.0
+124,800,Eggs,240.0
+124,801,All-Purpose Flour,400.0
+124,802,Baking Powder,10.0
+124,803,Salt,5.0
+124,804,Rum Soaked Longans,200.0
+125,805,Hinaneese Bengali White Bread,1200.0
+125,806,Butter,224.0
+125,807,Kaya,400.0
+125,808,Egg Yolks,72.0
+126,809,Cheese,28.0
+126,810,Cheese,56.0
+126,811,Butter,14.0
+126,812,Bread,120.0
+126,813,Kimchi,80.0
+126,814,Salt,1.0
+127,815,all-purpose flour,350.0
+127,816,bread flour,115.0
+127,817,sugar,22.0
+127,818,salt,12.0
+127,819,yeast,5.0
+127,820,butter,115.0
+127,821,water,350.0
+128,822,Pandan leaves,200.0
+128,823,Coconut milk,250.0
+128,824,Egg,50.0
+128,825,Sugar,100.0
+128,826,Salt,5.0
+128,827,Oil,20.0
+128,828,Flour,150.0
+128,829,Gula Melaka,100.0
+128,830,Grated Coconut,100.0
+128,831,Palm Sugar,50.0
+128,832,Salt,2.0
+128,833,Pandan leaves,20.0
+129,834,Gula Melaka,200.0
+129,835,Flour,364.0
+129,836,Rice,200.0
+129,837,Tapioca Flour,120.0
+129,838,Water,1200.0
+129,839,Coconut Milk,450.0
+129,840,Sugar,200.0
+129,841,Salt,5.0
+129,842,Nescafe Gold Intenso Instant Coffee,10.0
+129,843,Water for Coffee,60.0
+130,,,
+131,844,Rose Syrup,250.0
+131,845,Evaporated Milk,750.0
+131,846,Fresh Pandan Leaves,200.0
+131,847,Matcha Powder,10.0
+132,848,pasta,100.0
+132,849,mentaiko,50.0
+132,850,egg,50.0
+132,851,cream,25.0
+132,852,soy sauce,10.0
+132,853,cheese,20.0
+132,854,black pepper,5.0
+132,855,mayo,20.0
+132,856,pasta water,100.0
+133,857,Flour,226.0
+133,858,Golden Syrup,97.0
+133,859,Lye Water,97.0
+133,860,Oil,45.0
+133,861,Beef (Tenderloin),180.0
+133,862,Mushroom Duxelles,90.0
+133,863,Parma Ham,45.0
+133,864,Mustard,9.0
+133,865,Pastry Dough,226.0
+134,866,Ground Beef,550.0
+134,867,Onion,100.0
+134,868,Kimchi,50.0
+134,869,Tomato Sauce,550.0
+134,870,Pasta Pieces,100.0
+134,871,Ricotta Cheese,220.0
+134,872,Mozzarella Cheese,200.0
+134,873,Salt and Pepper,5.0
+134,874,Olive Oil,17.0
+134,875,Water,250.0
+135,876,Egg Whites,120.0
+135,877,Sugar,400.0
+135,878,Corn Flour,170.0
+135,879,Egg Yolks,60.0
+135,880,All-Purpose Flour,200.0
+135,881,Salt,5.0
+135,882,Milk,20.0
+135,883,Honey,50.0
+135,884,Soy Sauce,20.0
+135,885,Vanilla Extract,5.0
+136,886,,280.0
+136,887,,130.0
+136,888,,55.0
+136,889,,110.0
+136,890,,220.0
+137,891,Peanut Butter,120.0
+137,892,All-Purpose Flour,100.0
+137,893,Sugar,50.0
+137,894,Salt,5.0
+137,895,Baking Powder,10.0
+137,896,Oil,20.0
+137,897,Sesame Oil,10.0
+137,898,Peanuts,200.0
+138,899,Sweet Cream,120.0
+138,900,Caramel,14.0
+138,901,Berries,150.0
+138,902,Pickles,200.0
+138,903,Shaved Ice,100.0
+139,904,flour,225.0
+139,905,yeast,5.0
+139,906,sugar,90.0
+139,907,milk,135.0
+139,908,salt,5.0
+139,909,butter,45.0
+139,910,pineapple,500.0
+139,911,eggs,30.0
+139,912,sugar,40.0
+139,913,spices,5.0
+140,914,chicken,500.0
+140,915,rice,200.0
+140,916,abalone,100.0
+140,917,ginger,20.0
+140,918,spring onions,40.0
+140,919,soy sauce,10.0
+140,920,sesame oil,20.0
+140,921,puff pastry,200.0
+141,922,Potatoes,1000.0
+141,923,Potato Starch,100.0
+141,924,Water,0.0
+141,925,Egg,120.0
+141,926,Parmesan Cheese,80.0
+141,927,Black Pepper,5.0
+141,928,Bacon,300.0
+142,929,potatoes,250.0
+142,930,onions,110.0
+142,931,carrots,60.0
+142,932,chicken breast or thighs,120.0
+142,933,Japanese curry mix,15.0
+142,934,whipped cream,15.0
+142,935,udon noodles,80.0
+143,936,Eggs,120.0
+143,937,Butter,50.0
+143,938,Milk,250.0
+143,939,Sugar,50.0
+143,940,Salt,2.0
+143,941,Baking Powder,2.0
+143,942,Vanilla,5.0
+143,943,Cinnamon,1.0
+143,944,Rice Paper,100.0
+144,945,Butter,60.0
+144,946,Sugar,50.0
+144,947,Instant Coffee,10.0
+144,948,Egg,100.0
+144,949,Vanilla,5.0
+144,950,Flour,180.0
+144,951,Baking Powder,10.0
+144,952,Salt,5.0
+145,953,Milk,60.0
+145,954,Sugar,50.0
+145,955,Egg,50.0
+145,956,Coffee,10.0
+145,957,Vanilla,10.0
+145,958,Flour,150.0
+145,959,Butter,100.0
+146,960,Salmon,350.0
+146,961,Potatoes,450.0
+146,962,Tobiko,20.0
+146,963,Spring Onions,10.0
+146,964,Garlic Oil,15.0
+146,965,Japanese Mayo,10.0
+147,966,mandarin oranges,15000.0
+147,967,sugar,1000.0
+147,968,eggs,200.0
+147,969,flour,364.0
+147,970,baking powder,20.0
+147,971,baking soda,20.0
+147,972,salt,5.0
+147,973,butter,500.0
+147,974,palm sugar,1000.0
+147,975,cream,1000.0
+148,976,,500.0
+148,977,rice,500.0
+148,978,seaweed,100.0
+148,979,sesame seeds,50.0
+148,980,sesame oil,50.0
+148,981,ground beef bulgogi,300.0
+149,982,Thai Tea Leaves,50.0
+149,983,Heavy Cream,400.0
+149,984,Eggs,120.0
+149,985,Granulated Sugar,200.0
+149,986,Coconut Flakes,100.0
+149,987,Loaf Tin,0.0
+149,988,Tin Lining (Optional),20.0
+150,989,watermelon,500.0
+150,990,tomatoes,200.0
+150,991,mozzarella,80.0
+150,992,basil,20.0
+150,993,olive oil,15.0
+150,994,balsamic vinegar,15.0
+150,995,flaky salt,10.0
+150,996,pepper,10.0
+150,997,prosciutto,50.0
+151,998,,12000.0
+151,999,,100.0
+151,1000,,5.0
+151,1001,,5.0
+151,1002,,5.0
+151,1003,,50.0
+151,1004,,5.0
+151,1005,Prosciutto,100.0
+151,1006,Arugula,20.0
+151,1007,Olive Oil,50.0
+151,1008,,5.0
+151,1009,,5.0
+151,1010,,10.0
+151,1011,,25.0
+151,1012,,25.0
+151,1013,,5.0
+152,1014,apple,150.0
+153,1015,Bagels,200.0
+153,1016,Unsalted Butter,57.0
+153,1017,Honey,21.0
+153,1018,Salt,3.0
+153,1019,Monosodium Glutamate (MSG) - Optional,5.0
+153,1020,Parsley Powder,6.0
+154,,,
+155,1021,banana,100.0
+155,1022,milk,200.0
+155,1023,whipping cream,80.0
+155,1024,vanilla extract,5.0
+155,1025,cinnamon powder,5.0
+155,1026,,30.0
+155,1027,,80.0
+156,1028,,2000.0
+156,1029,Salted Black Beans,100.0
+156,1030,Pasta,2000.0
+156,1031,Garlic,50.0
+156,1032,Olive Oil,100.0
+156,1033,Dace,2000.0
+157,1034,,0.0
+157,1035,milk,50.0
+157,1036,butter,15.0
+157,1037,vanilla,5.0
+157,1038,glutinous rice flour,50.0
+157,1039,tapioca flour,50.0
+158,1040,Butter,50.0
+158,1041,Milo Powder,100.0
+158,1042,Cocoa Powder,50.0
+158,1043,Salt,5.0
+158,1044,Condensed Milk,50.0
+158,1045,Vanilla Extract,5.0
+158,1046,Cream,50.0
+158,1047,Mary Biscuits,400.0
+159,,,
+160,1048,Century Egg,150.0
+160,1049,Egg,50.0
+160,1050,Parmesan Cheese,30.0
+160,1051,Black Pepper,5.0
+160,1052,Bacon,20.0
+161,1053,chicken breast,500.0
+161,1054,coconut milk,240.0
+161,1055,spring onion,60.0
+161,1056,ginger,30.0
+161,1057,salt,5.0
+161,1058,chili sauce,50.0
+161,1059,rice,2200.0
+162,1060,,0.0
+162,1061,,30.0
+162,1062,,10.0
+162,1063,,250.0
+162,1064,,20.0
+162,1065,,20.0
+163,1066,Chicken,500.0
+163,1067,Onion,200.0
+163,1068,Apple,150.0
+163,1069,Carrot,150.0
+163,1070,Napa Cabbage,200.0
+163,1071,Spring Onions,50.0
+163,1072,Ginger,50.0
+163,1073,Goji Berries,100.0
+164,1074,,200.0
+164,1075,,100.0
+164,1076,,50.0
+164,1077,,10.0
+164,1078,,10.0
+164,1079,,20.0
+164,1080,,0.0
+165,1081,Coco Crunch,100.0
+165,1082,Strawberry,50.0
+166,1083,Cream Corn,400.0
+166,1084,Brown Butter,50.0
+166,1085,Corn Custard,600.0
+166,1086,Egg Yolks,120.0
+166,1087,Sugar,100.0
+166,1088,Flour,50.0
+166,1089,Cornstarch,25.0
+166,1090,Vanilla,10.0
+166,1091,Rum,10.0
+166,1092,Whipped Cream,150.0
+166,1093,Oats,50.0
+167,1094,Cinnamon Sugar,20.0
+167,1095,Milk,150.0
+167,1096,Frozen Puff Pastry,500.0
+168,1097,,100.0
+168,1098,black sesame seeds,20.0
+168,1099,black sesame paste,15.0
+168,1100,butter,70.0
+168,1101,sugar,80.0
+168,1102,egg,50.0
+168,1103,flour,100.0
+168,1104,salt,2.0
+168,1105,vanilla extract,5.0
+169,1106,chicken breast,550.0
+169,1107,potatoes,225.0
+169,1108,carrots,165.0
+169,1109,curry paste,25.0
+169,1110,durian,150.0
+170,1111,,100.0
+170,1112,,0.0
+170,1113,,200.0
+170,1114,,50.0
+170,1115,,20.0
+170,1116,,250.0
+171,,,
+172,1117,,1000.0
+172,1118,goji berries,200.0
+172,1119,,1000.0
+172,1120,longans,200.0
+172,1121,,200.0
+172,1122,,500.0
+172,1123,red dates,200.0
+172,1124,,1000.0
+172,1125,,200.0
+172,1126,,500.0
+172,1127,butter,200.0
+172,1128,gula melaka,100.0
+172,1129,,0.0
+172,1130,orange,0.0
+173,1131,whipped cream,300.0
+173,1132,condensed milk,120.0
+173,1133,kante,50.0
+173,1134,kante powder,5.0
+173,1135,miso,20.0
+173,1136,seaweed snack,20.0
+174,1137,Gula Melaka Palm Sugar,200.0
+174,1138,Coconut Milk,200.0
+174,1139,Butter,100.0
+174,1140,Sugar,150.0
+174,1141,Eggs,120.0
+174,1142,Rum,20.0
+174,1143,Longans,100.0
+175,1144,Hinanesse of Bengali style white bread,250.0
+175,1145,Unsalted butter,225.0
+175,1146,Kaya (Coconut jam),300.0
+175,1147,Eggs,120.0
+176,1148,Kimchi,100.0
+176,1149,Bread,100.0
+176,1150,Cheese,80.0
+177,1151,,500.0
+177,1152,,200.0
+177,1153,,10.0
+177,1154,,5.0
+177,1155,,20.0
+177,1156,,5.0
+177,1157,,10.0
+177,1158,,200.0
+177,1159,,500.0
+178,1160,pandan leaves,50.0
+178,1161,coconut milk,1000.0
+178,1162,egg,100.0
+178,1163,sugar,200.0
+178,1164,salt,10.0
+178,1165,oil,100.0
+178,1166,flour,728.0
+178,1167,palm sugar,200.0
+178,1168,gula melaka,200.0
+178,1169,coconut,100.0
+178,1170,salt,10.0
+179,1171,,7200.0
+179,1172,,3600.0
+179,1173,,720.0
+179,1174,,0.0
+179,1175,,3600.0
+179,1176,,360.0
+179,1177,,0.0
+179,1178,,0.0
+180,1179,Garlic,50.0
+180,1180,Ginger,25.0
+180,1181,Chilies,20.0
+180,1182,Sichuan Peppercorns,10.0
+180,1183,Five-Spice Powder,20.0
+180,1184,Lao Gan Ma,50.0
+180,1185,Egg,50.0
+180,1186,Cream,150.0
+180,1187,Soy Sauce,50.0
+180,1188,Sesame Oil,50.0
+180,1189,Spaghetti,375.0
+180,1190,Spring Onions,100.0
+181,1191,,0.2
+181,1192,,0.5
+181,1193,,0.2
+181,1194,,0.1
+181,1195,,0.1
+182,1196,Spicy Pollack Roe,90.0
+182,1197,Egg,50.0
+182,1198,Cream,25.0
+182,1199,Soy Sauce,20.0
+182,1200,Cheese,80.0
+182,1201,Black Pepper,5.0
+182,1202,Pasta,120.0
+183,1203,Flour,0.0
+183,1204,Golden Syrup,0.0
+183,1205,Lye Water,0.0
+183,1206,Oil,140.0
+183,1207,Beef,450.0
+183,1208,Mushroom Duxelles,200.0
+183,1209,Parma Ham,220.0
+183,1210,Pastry,400.0
+184,1211,Ground Beef,500.0
+184,1212,Onion,150.0
+184,1213,Kimchi,50.0
+184,1214,Mug,
+184,1215,Tomato Sauce,200.0
+184,1216,Meat,
+184,1217,Pasta Pieces,50.0
+184,1218,Ricotta Cheese,180.0
+184,1219,Mozzarella Cheese,270.0
+185,1220,,120.0
+185,1221,,60.0
+185,1222,,180.0
+185,1223,,2.0
+185,1224,,2.0
+185,1225,,180.0
+185,1226,,2.0
+185,1227,,2.0
+185,1228,,60.0
+185,1229,,180.0
+185,1230,,2.0
+185,1231,,2.0
+185,1232,,60.0
+185,1233,,180.0
+186,1234,,500.0
+186,1235,,500.0
+186,1236,,50.0
+186,1237,,50.0
+186,1238,,50.0
+186,1239,,50.0
+186,1240,,50.0
+187,1241,Peanut Butter,50.0
+187,1242,All-Purpose Flour,100.0
+187,1243,Sugar,50.0
+187,1244,Salt,5.0
+187,1245,Baking Powder,15.0
+187,1246,Oil,25.0
+187,1247,Sesame Oil,5.0
+188,1248,,100.0
+188,1249,,200.0
+188,1250,,120.0
+189,1251,Flour,250.0
+189,1252,Yeast,0.0
+189,1253,Salt,5.0
+189,1254,Butter,80.0
+189,1255,Milk,100.0
+189,1256,Sugar,5.0
+189,1257,Pineapple,150.0
+189,1258,Eggs,120.0
+190,1259,Rice,250.0
+190,1260,Chicken Stock,0.0
+190,1261,Shredded Chicken,200.0
+190,1262,Abalone,100.0
+190,1263,Ginger,20.0
+190,1264,Spring Onions,20.0
+190,1265,Soy Sauce,20.0
+190,1266,Sesame Oil,20.0
+190,1267,Frozen Puff Pastry,200.0
+191,1268,,0.0
+191,1269,Bacon,25.0
+191,1270,Potato,150.0
+191,1271,,0.0
+191,1272,Parmesan Cheese,120.0
+191,1273,Black Pepper,5.0
+192,1274,Potatoes,550.0
+192,1275,Onions,150.0
+192,1276,Carrots,200.0
+192,1277,Chicken,110.0
+192,1278,Whipped Cream,220.0
+192,1279,Japanese Curry Powder,30.0
+192,1280,Udon Noodles,110.0
+193,1281,Eggs,1200.0
+193,1282,Butter,100.0
+193,1283,Milk,150.0
+193,1284,Sugar,25.0
+193,1285,Salt,1.0
+193,1286,Baking Powder,5.0
+193,1287,Vanilla,3.0
+193,1288,Cinnamon,3.0
+193,1289,Rice Paper,200.0
+194,1290,Butter,100.0
+194,1291,Sugar,50.0
+194,1292,Flour,100.0
+194,1293,Baking Powder,5.0
+194,1294,Salt,1.0
+194,1295,Egg,50.0
+194,1296,Instant Coffee,10.0
+194,1297,Vanilla,5.0
+195,1298,Butter,50.0
+195,1299,Sugar,20.0
+195,1300,Eggs,50.0
+195,1301,Instant Coffee,10.0
+195,1302,Vanilla Extract,4.0
+195,1303,Flour,150.0
+196,1304,Potato,150.0
+196,1305,Garlic Oil,15.0
+196,1306,Salt,5.0
+196,1307,Salmon,100.0
+196,1308,Japanese Mayo,50.0
+196,1309,Spring Onions,20.0
+196,1310,Tobiko,10.0
+197,1311,Mandarin Oranges,400.0
+197,1312,Sugar,200.0
+197,1313,Eggs,300.0
+197,1314,Flour,120.0
+197,1315,Baking Powder,6.0
+197,1316,Baking Soda,6.0
+197,1317,Salt,6.0
+197,1318,Butter,110.0
+197,1319,Palm Sugar,200.0
+197,1320,Cream,60.0
+198,1321,Cooked White Rice,100.0
+198,1322,Seaweed Sheets,20.0
+198,1323,Sesame Seeds,15.0
+198,1324,Sesame Oil,15.0
+198,1325,Ground Beef Bulgogi,100.0
+198,1326,Super Ring,35.0
+199,1327,,400.0
+199,1328,,200.0
+199,1329,,750.0
+199,1330,,50.0
+199,1331,,100.0
+199,1332,,1000.0
+200,1333,watermelon,1500.0
+200,1334,tomato,200.0
+200,1335,mozzarella,200.0
+200,1336,basil,20.0
+200,1337,olive oil,100.0
+200,1338,balsamic vinegar,50.0
+200,1339,flaky salt,20.0
+200,1340,black pepper,10.0
+200,1341,prosciutto,100.0
+201,1342,Flour,250.0
+201,1343,Sugar,20.0
+201,1344,Salt,10.0
+201,1345,Baking Powder,5.0
+201,1346,Yeast,2.5
+201,1347,Egg,50.0
+201,1348,Milk,100.0
+201,1349,Tomato,150.0
+201,1350,Mozzarella,100.0
+201,1351,Prosciutto,60.0
+201,1352,Arugula,30.0
+201,1353,Olive Oil,10.0
+201,1354,Cured Egg Yolk,50.0
+201,1355,Black Pepper,2.0
+202,1356,Apple,150.0
+202,1357,,0.0
+202,1358,,0.0
+203,1359,,225.0
+203,1360,melted butter,50.0
+203,1361,honey,20.0
+203,1362,salt,5.0
+203,1363,MSG (optional),5.0
+203,1364,parsley powder,5.0
+203,1365,bagels,225.0
+204,1366,Potatoes,150.0
+204,1367,Garlic,15.0
+204,1368,Salt,5.0
+204,1369,Salmon,100.0
+204,1370,Japanese Mayo,50.0
+204,1371,Spring Onions,20.0
+204,1372,Tobiko,10.0
+205,1373,Banana,300.0
+205,1374,Milk,100.0
+205,1375,Whipping Cream,200.0
+205,1376,Vanilla,5.0
+205,1377,Cinnamon Powder,3.0
+205,1378,Egg Yolks,50.0
+205,1379,Sugar,50.0
+206,1380,fried dace,100.0
+206,1381,salted black beans,25.0
+206,1382,chopped garlic,30.0
+206,1383,pasta,80.0
+207,1384,,100.0
+207,1385,glutinous rice flour,50.0
+207,1386,tapioca flour,25.0
+207,1387,milk,20.0
+207,1388,butter,50.0
+207,1389,vanilla extract,5.0
+208,1390,Butter,85.0
+208,1391,Milo Powder,100.0
+208,1392,Cocoa Powder,50.0
+208,1393,Salt,3.0
+208,1394,Condensed Milk,200.0
+208,1395,Vanilla,5.0
+208,1396,Cream,100.0
+208,1397,Biscuits,100.0
+208,1398,Chocolate Sauce,100.0
+209,1399,Butter,114.0
+209,1400,Milk,54.0
+209,1401,Cake Flour,364.0
+209,1402,Egg Yolks,54.0
+209,1403,Vanilla,6.0
+209,1404,Salt,3.75
+210,,,
+211,1405,Chicken Breast,550.0
+211,1406,,250.0
+211,1407,Ginger,25.0
+211,1408,Spring Onion,15.0
+211,1409,Instant Coconut Milk,100.0
+211,1410,Chili Sauce,30.0
+212,1411,Chicken Breast,600.0
+212,1412,Ginger,50.0
+212,1413,Scallion,20.0
+212,1414,Salt,5.0
+212,1415,Pepper,2.0
+212,1416,Garlic,15.0
+212,1417,Butter,100.0
+212,1418,Chicken Broth,400.0
+212,1419,Lime Juice,20.0
+212,1420,Ginger Scallion Sauce,50.0
+212,1421,Oil,15.0
+213,1422,,2000.0
+213,1423,,200.0
+213,1424,,150.0
+213,1425,,1000.0
+213,1426,,50.0
+213,1427,,200.0
+213,1428,,100.0
+214,1429,Century Eggs,100.0
+214,1430,Green Chilies,100.0
+214,1431,Garlic,9.0
+214,1432,Salt,6.0
+214,1433,Sesame Oil,15.0
+214,1434,Vinegar,15.0
+214,1435,Rice,100.0
+215,1436,,200.0
+215,1437,Strawberry,50.0
+215,1438,,100.0
+215,1439,,50.0
+215,1440,,1.0E7
+215,1441,,10.0
+215,1442,,10000.0
+216,1443,Corn,600.0
+216,1444,Milk,227.0
+216,1445,Butter,50.0
+216,1446,Eggs,120.0
+216,1447,Sugar,100.0
+216,1448,Flour,50.0
+216,1449,Cornstarch,20.0
+216,1450,Oats,50.0
+216,1451,Whipped Cream,50.0
+216,1452,Vanilla Extract,10.0
+216,1453,Rum,30.0
+216,1454,Salt,10.0
+216,1455,Cinnamon,10.0
+216,1456,Baking Powder,10.0
+217,1457,All-Purpose Flour,200.0
+217,1458,Unsalted Butter,100.0
+217,1459,Granulated Sugar,50.0
+217,1460,Unsalted Butter (melted),20.0
+217,1461,Milk,250.0
+217,1462,Cinnamon,2.0
+218,1463,Flour,364.0
+218,1464,Egg,50.0
+218,1465,Butter,364.0
+218,1466,Sugar,364.0
+218,1467,Black Sesame Seeds,100.0
+218,1468,Black Sesame Paste,100.0
+219,1469,Chicken,300.0
+219,1470,Potatoes,250.0
+219,1471,Carrots,150.0
+219,1472,Curry Paste,50.0
+219,1473,Durian,300.0
+219,1474,Coconut Milk,400.0
+220,1475,Longan,80.0
+220,1476,Lo-hon-gor,80.0
+220,1477,Pandan,40.0
+220,1478,Gula Melaka,200.0
+220,1479,Nescafe Espresso Concentrate (Sweet Vanilla),100.0
+221,1480,potatoes,450.0
+221,1481,oil,20.0
+221,1482,salt,5.0
+221,1483,pepper,5.0
+222,1484,Persimmon,150.0
+222,1485,Sweet Potato,100.0
+222,1486,Goji Berry,20.0
+222,1487,Longan,30.0
+222,1488,Date,15.0
+222,1489,Raisin,5.0
+222,1490,Butter,225.0
+222,1491,Gula Melaka,110.0
+222,1492,Egg,180.0
+222,1493,Orange Zest,10.0
+222,1494,Orange Juice,100.0
+222,1495,Korean Pear,120.0
+222,1496,Flour,460.0
+222,1497,Baking Powder,25.0
+222,1498,Christmas Spices,10.0
+222,1499,Salt,5.0
+222,1500,Rum,150.0
+223,1501,,100.0
+223,1502,condensed milk,120.0
+223,1503,kante,20.0
+223,1504,kante powder,2.0
+223,1505,miso paste,10.0
+223,1506,seaweed,10.0
+224,1507,Butter,227.0
+224,1508,Sugar,113.0
+224,1509,Eggs,240.0
+224,1510,Gula Melaka,36.0
+224,1511,Coconut Milk,50.0
+224,1512,Rum,50.0
+224,1513,Longan,160.0
+225,1514,Bengali style white bread,200.0
+225,1515,Unsalted butter,100.0
+225,1516,Homemade kaya,50.0
+225,1517,Cured egg yolk,10.0
+226,1518,Cheese,50.0
+226,1519,Bread,50.0
+226,1520,Kimchi,50.0
+226,1521,Butter,20.0
+227,1522,All-Purpose Flour,364.0
+227,1523,Bread Flour,91.6
+227,1524,Sugar,9.0
+227,1525,Salt,7.0
+227,1526,Yeast,7.0
+227,1527,Butter,45.3
+227,1528,Water,1000.0
+228,1529,pandan leaves,100.0
+228,1530,palm sugar,100.0
+228,1531,coconut milk,1500.0
+228,1532,egg,50.0
+228,1533,salt,10.0
+228,1534,oil,100.0
+228,1535,flour,200.0
+229,1536,Gula Melaka,450.0
+229,1537,Flour,364.0
+229,1538,Coconut Milk,750.0
+229,1539,Instant Coffee,30.0
+229,1540,Rice,100.0
+229,1541,Tapioca Flour,50.0
+229,1542,Water,0.0
+229,1543,Salt,2.0
+229,1544,Nescafe Gold Intenso,30.0
+230,1545,Garlic,45.0
+230,1546,Ginger,25.0
+230,1547,Chilies,30.0
+230,1548,Sichuan Peppercorns,10.0
+230,1549,Five-Spice Powder,10.0
+230,1550,Lao Gan Ma,50.0
+230,1551,Egg,50.0
+230,1552,Cream,150.0
+230,1553,Soy Sauce,20.0
+230,1554,Sesame Oil,30.0
+230,1555,Spaghetti,350.0
+230,1556,Spring Onions,20.0
+231,1557,Rose Syrup,400.0
+231,1558,Evaporated Milk,100.0
+231,1559,Pandan Leaves,100.0
+231,1560,Matcha Powder,20.0
+231,1561,Ice,200.0
+231,1562,Fresh Milk,100.0
+232,1563,Mentaiko,50.0
+232,1564,Egg,50.0
+232,1565,Cream,100.0
+232,1566,Soy Sauce,50.0
+232,1567,Cheese,100.0
+232,1568,Black Pepper,5.0
+232,1569,Pasta,400.0
+232,1570,Mayo,100.0
+233,1571,All-Purpose Flour,230.0
+233,1572,Golden Syrup,60.0
+233,1573,Lye Water,25.0
+233,1574,Beef Tenderloin,250.0
+233,1575,Mushroom Duxelles,120.0
+233,1576,Parma Ham,60.0
+233,1577,Mustard,5.0
+233,1578,Pastry Dough,120.0
+234,1579,Ground Beef,200.0
+234,1580,Onions,100.0
+234,1581,Kimchi,100.0
+234,1582,Tomato Sauce,150.0
+234,1583,Pasta,50.0
+234,1584,Ricotta Cheese,150.0
+234,1585,Mozzarella Cheese,150.0
+235,1586,Eggs,120.0
+235,1587,Sugar,100.0
+235,1588,Corn Flour,150.0
+235,1589,Milk,100.0
+235,1590,Egg Yolks,30.0
+235,1591,Salt,5.0
+235,1592,Soy Sauce,20.0
+235,1593,Vanilla,5.0
+236,1594,Snow fungus,250.0
+236,1595,Red dates,100.0
+236,1596,Goji berries,50.0
+236,1597,Dried longans,120.0
+236,1598,Rock sugar,150.0
+237,1599,Peanut Butter,272.0
+237,1600,All-purpose Flour,120.0
+237,1601,Granulated Sugar,200.0
+237,1602,Salt,6.0
+237,1603,Baking Powder,10.0
+237,1604,Vegetable Oil,15.0
+237,1605,Sesame Oil,7.5
+238,1606,Pickle Shaved Ice,200.0
+238,1607,Berries,100.0
+238,1608,Sweet Cream,30.0
+238,1609,Caramel,30.0
+239,1610,,250.0
+239,1611,all-purpose flour,250.0
+239,1612,butter,80.0
+239,1613,sugar,90.0
+239,1614,pineapple juice,45.0
+239,1615,salt,2.5
+239,1616,yeast,5.0
+239,1617,eggs,50.0
+240,1618,,200.0
+240,1619,chicken,100.0
+240,1620,abalone,50.0
+240,1621,ginger,20.0
+240,1622,spring onions,20.0
+240,1623,soy sauce,20.0
+240,1624,sesame oil,10.0
+241,1625,,200.0
+241,1626,,100.0
+241,1627,,20.0
+241,1628,,0.0
+241,1629,,100.0
+241,1630,,200.0
+241,1631,,50.0
+241,1632,,50.0
+242,1633,potatoes,170.0
+242,1634,whipped cream,35.0
+242,1635,onions,115.0
+242,1636,carrots,50.0
+242,1637,chicken,115.0
+242,1638,Japanese curry,10.0
+242,1639,udon noodles,115.0
+243,1640,Eggs,120.0
+243,1641,Butter,50.0
+243,1642,Milk,20.0
+243,1643,Sugar,200.0
+243,1644,Salt,5.0
+243,1645,Baking Powder,20.0
+243,1646,Vanilla,10.0
+243,1647,Cinnamon,5.0
+243,1648,Rice Paper,200.0
+244,,,
+245,1649,Butter,50.0
+245,1650,Sugar,10.0
+245,1651,Egg(s),50.0
+245,1652,Instant Coffee Powder,7.0
+245,1653,Hot Water,0.0
+245,1654,Vanilla Extract,5.0
+245,1655,Flour,100.0
+246,1656,Potatoes,400.0
+246,1657,Garlic Oil,15.0
+246,1658,Salt,5.0
+246,1659,Salmon,100.0
+246,1660,Japanese Mayo,10.0
+246,1661,Spring Onions,50.0
+246,1662,Tobiko,20.0
+247,1663,Mandarin Oranges,250.0
+247,1664,Sugar,165.0
+247,1665,Eggs,120.0
+247,1666,Flour,100.0
+247,1667,Baking Powder,20.0
+247,1668,Baking Soda,10.0
+247,1669,Salt,10.0
+247,1670,Palm Sugar,55.0
+247,1671,Butter,55.0
+247,1672,Cream,55.0
+248,1673,rice,500.0
+248,1674,super ring,80.0
+248,1675,seaweed,20.0
+248,1676,sesame seeds,15.0
+248,1677,sesame oil,8.0
+248,1678,ground beef bulgogi,150.0
+249,1679,Thai Tea Leaves,10.0
+249,1680,Heavy Cream,120.0
+249,1681,Eggs,120.0
+249,1682,Granulated Sugar,200.0
+249,1683,Coconut Flakes,30.0
+250,1684,Watermelon,400.0
+250,1685,Tomatoes,100.0
+250,1686,Mozzarella,50.0
+250,1687,Basil,10.0
+250,1688,Olive Oil,20.0
+250,1689,Balsamic Vinegar,50.0
+250,1690,Flaky Salt,10.0
+250,1691,Pepper,5.0
+250,1692,Prosciutto,50.0
+251,,,
+252,1693,apple,100.0
+252,1694,,0.0
+253,1695,bagel,1000.0
+253,1696,butter,115.0
+253,1697,honey,100.0
+253,1698,salt,2.0
+253,1699,monosodium glutamate,2.0
+253,1700,parsley powder,2.0
+254,1701,potato,250.0
+254,1702,garlic,10.0
+254,1703,oil,15.0
+254,1704,salmon,200.0
+254,1705,mayo,15.0
+254,1706,spring onion,20.0
+254,1707,tobiko,10.0
+255,,,
+256,1708,,200.0
+256,1709,,20.0
+256,1710,,150.0
+257,,,
+258,1711,butter,200.0
+258,1712,Milo powder,28.0
+258,1713,cocoa powder,28.0
+258,1714,salt,5.0
+258,1715,condensed milk,200.0
+258,1716,vanilla,5.0
+258,1717,cream,100.0
+258,1718,Mary biscuits,200.0
+258,1719,chocolate,400.0
+259,1720,butter,100.0
+259,1721,milk,240.0
+259,1722,granulated sugar,320.0
+259,1723,egg yolks,100.0
+259,1724,salt,2.0
+259,1725,egg whites,120.0
+260,1726,century egg,100.0
+260,1727,egg,50.0
+260,1728,cheese,250.0
+260,1729,bacon,100.0
+261,1730,chicken,500.0
+261,1731,ginger,50.0
+261,1732,spring onion,20.0
+261,1733,salt,5.0
+261,1734,coconut milk,200.0
+261,1735,chili sauce,50.0
+262,1736,,200.0
+262,1737,ginger,30.0
+262,1738,scallion,20.0
+262,1739,salt,5.0
+262,1740,pepper,5.0
+262,1741,garlic,15.0
+262,1742,butter,100.0
+262,1743,chicken broth,200.0
+262,1744,,50.0
+262,1745,,20.0
+262,1746,,20.0
+262,1747,,10.0
+263,1748,,0.0
+263,1749,onion,150.0
+263,1750,apple,150.0
+263,1751,carrot,100.0
+263,1752,napa cabbage,100.0
+263,1753,spring onions,50.0
+263,1754,ginger,50.0
+263,1755,goji berries,100.0
+263,1756,chicken,500.0
+264,1757,,100.0
+264,1758,,100.0
+264,1759,,100.0
+264,1760,,100.0
+264,1761,,100.0
+264,1762,,0.0
+264,1763,,10.0
+264,1764,,10.0
+264,1765,,100.0
+264,1766,,20.0
+264,1767,,20.0
+265,1768,,100.0
+265,1769,,14.0
+265,1770,,1000.0
+265,1771,strawberry,150.0
+266,1772,corn,1000.0
+266,1773,milk,500.0
+266,1774,egg,320.0
+266,1775,sugar,400.0
+266,1776,potato,150.0
+266,1777,butter,115.0
+266,1778,vanilla,10.0
+266,1779,rum,50.0
+266,1780,oat,50.0
+266,1781,cooking oil,14.0
+266,1782,egg,100.0
+266,1783,toasted oats,25.0
+267,1784,puff pastry,200.0
+267,1785,cinnamon,5.0
+267,1786,sugar,10.0
+267,1787,milk,200.0
+268,1788,,170.0
+268,1789,tong yuen,100.0
+268,1790,butter,100.0
+268,1791,sugar,50.0
+268,1792,egg,50.0
+268,1793,vanilla flour,120.0
+268,1794,black sesame seeds,20.0
+268,1795,black sesame paste,50.0
+269,1796,egg,100.0
+269,1797,cooking oil,28.0
+269,1798,curry paste,14.0
+269,1799,chicken breast,200.0
+269,1800,potato,150.0
+269,1801,carrot,100.0
+269,1802,durian,150.0
+270,1803,jaggery,0.0
+270,1804,pandanus leaf,50.0
+270,1805,dragon fruit,0.0
+270,1806,lychee fruit,0.0
+270,1807,vanilla Nescafe espresso concentrate,0.0
+271,1808,fries,100.0
+271,1809,cooking oil,14.0
+271,1810,salt,10.0
+271,1811,pepper,10.0
+272,,,
+273,1812,,0.0
+273,1813,,0.0
+273,1814,,100.0
+273,1815,,0.0
+273,1816,kante,20.0
+273,1817,,0.0
+273,1818,,20.0
+273,1819,kante powder,4.0
+273,1820,,0.0
+273,1821,,4.0
+273,1822,,0.0
+273,1823,,4.0
+274,1824,gula melaka,100.0
+274,1825,coconut oil,57.0
+274,1826,sugar,200.0
+274,1827,egg,144.0
+274,1828,coconut milk,200.0
+274,1829,longan,144.0
+274,1830,rum,30.0
+275,1831,bengali-style white bread,1000.0
+275,1832,butter,1130.0
+275,1833,kaya jam,500.0
+275,1834,egg yolk,500.0
+276,1835,,300.0
+276,1836,kimchi,100.0
+276,1837,,200.0
+276,1838,,50.0
+277,1839,butter,50.0
+277,1840,sugar,50.0
+277,1841,egg,50.0
+277,1842,water,50.0
+277,1843,yeast,50.0
+277,1844,table sugar,100.0
+277,1845,three tablespoons,42.0
+277,1846,egg,25.0
+277,1847,egg,25.0
+278,1848,pandan leaves,100.0
+278,1849,coconut milk,250.0
+278,1850,egg,50.0
+278,1851,palm sugar,100.0
+278,1852,salt,5.0
+278,1853,cooking oil,14.0
+278,1854,flour,100.0
+279,1855,coconut milk,1800.0
+279,1856,coffee powder,120.0
+279,1857,tapioca flour,64.0
+279,1858,sugar,108.0
+279,1859,rice flour,72.0
+279,1860,coconut oil,14.0
+279,1861,,7.0
+279,1862,salt,6.0
+280,1863,garlic,15.0
+280,1864,ginger,10.0
+280,1865,chilies,20.0
+280,1866,Sichuan peppercorns,15.0
+280,1867,five-spice powder,15.0
+280,1868,Lao Gan Ma,100.0
+280,1869,cooking oil,420.0
+280,1870,egg,50.0
+280,1871,cream,200.0
+280,1872,soy sauce,100.0
+280,1873,sesame oil,50.0
+280,1874,spaghetti,250.0
+280,1875,spring onions,50.0
+281,1876,rose syrup,14.0
+281,1877,evaporated milk,120.0
+281,1878,pandan leaves,20.0
+281,1879,matcha powder,5.0
+282,1880,spicy pollack roe,200.0
+282,1881,egg,50.0
+282,1882,cream,100.0
+282,1883,soy sauce,50.0
+282,1884,cheese,50.0
+282,1885,black pepper,10.0
+283,1886,,200.0
+283,1887,,0.0
+283,1888,,0.0
+283,1889,,20.0
+283,1890,,0.0
+283,1891,,0.0
+283,1892,,20.0
+284,1893,ground beef,150.0
+284,1894,onion,50.0
+284,1895,kimchi,100.0
+284,1896,pasta,100.0
+284,1897,tomato sauce,200.0
+284,1898,ricotta cheese,150.0
+284,1899,mozzarella cheese,150.0
+285,1900,egg whites,60.0
+285,1901,sugar,30.0
+285,1902,corn flour,120.0
+285,1903,egg yolks,80.0
+285,1904,flour,100.0
+285,1905,salt,2.0
+285,1906,milk,150.0
+285,1907,honey,20.0
+285,1908,butter,20.0
+285,1909,soy sauce,50.0
+285,1910,vanilla extract,10.0
+286,1911,snow fungus,100.0
+286,1912,red dates,100.0
+286,1913,goji berries,50.0
+286,1914,dried longans,20.0
+286,1915,rock sugar,100.0
+286,1916,papaya,100.0
+287,1917,peanut,150.0
+287,1918,sugar,50.0
+287,1919,all-purpose flour,50.0
+287,1920,salt,2.0
+287,1921,baking powder,5.0
+287,1922,oil,14.0
+287,1923,sesame oil,2.0
+288,1924,,500.0
+288,1925,berries,200.0
+288,1926,sweet cream,50.0
+288,1927,caramel,20.0
+288,1928,pickle,200.0
+289,1929,all-purpose flour,200.0
+289,1930,active dry yeast,5.0
+289,1931,salt,5.0
+289,1932,butter,100.0
+289,1933,sugar,150.0
+289,1934,pineapple juice,150.0
+289,1935,butter,50.0
+289,1936,egg yolk,20.0
+290,1937,,1500.0
+290,1938,,200.0
+290,1939,,200.0
+290,1940,,100.0
+290,1941,,1500.0
+290,1942,,200.0
+290,1943,,200.0
+290,1944,,100.0
+290,1945,,100.0
+290,1946,,100.0
+290,1947,,200.0
+291,,,
+292,1948,potato,200.0
+292,1949,onion,100.0
+292,1950,carrot,80.0
+292,1951,chicken,100.0
+292,1952,Japanese curry,100.0
+292,1953,udon noodles,150.0
+292,1954,whipped cream,50.0
+293,1955,egg,100.0
+293,1956,butter,50.0
+293,1957,sugar,14.0
+293,1958,salt,5.0
+293,1959,baking powder,5.0
+293,1960,vanilla,0.0
+293,1961,cinnamon,2.0
+293,1962,rice paper,500.0
+294,1963,butter,50.0
+294,1964,sugar,200.0
+294,1965,instant coffee,10.0
+294,1966,egg,50.0
+294,1967,vanilla,20.0
+294,1968,flaky salt,20.0
+294,1969,flour,200.0
+294,1970,baking powder,10.0
+294,1971,salt,5.0
+295,1972,butter,100.0
+295,1973,sugar,200.0
+295,1974,egg,50.0
+295,1975,coffee,20.0
+295,1976,water,0.0
+295,1977,vanilla,10.0
+295,1978,flour,730.0
+296,1979,potato,450.0
+296,1980,garlic,15.0
+296,1981,cooking oil,28.0
+296,1982,salmon,150.0
+296,1983,Japanese mayo,50.0
+296,1984,spring onions,20.0
+296,1985,tobiko,30.0
+297,1986,,225.0
+297,1987,butter,56.0
+297,1988,palm sugar,225.0
+297,1989,eggs,360.0
+297,1990,flour,360.0
+297,1991,baking powder,20.0
+297,1992,baking soda,20.0
+297,1993,salt,20.0
+298,1994,cooked white rice,200.0
+298,1995,cheese-flavored snack ring,50.0
+298,1996,seaweed sheets,50.0
+298,1997,sesame seeds,20.0
+298,1998,sesame oil,20.0
+298,1999,ground beef for bulgogi,150.0
+299,,,
+300,2000,watermelon,200.0
+300,2001,tomato,50.0
+300,2002,mozzarella cheese,80.0
+300,2003,basil leaves,10.0
+300,2004,olive oil,28.0
+300,2005,balsamic vinegar,15.0
+300,2006,flaky salt,5.0
+300,2007,prosciutto,30.0
+301,2008,Flour,300.0
+301,2009,Sugar,11.0
+301,2010,Salt,4.0
+301,2011,Baking Powder,8.0
+301,2012,Yeast,5.0
+301,2013,Egg,50.0
+301,2014,Milk,80.0
+301,2015,Tomato,120.0
+301,2016,Mozzarella,80.0
+301,2017,Prosciutto,50.0
+301,2018,Arugula,15.0
+301,2019,Olive Oil,14.0
+301,2020,Cured Egg Yolks,50.0
+301,2021,Black Pepper,2.0
+302,2022,Apple,100.0
+303,2023,Bagels,250.0
+303,2024,Unsalted Butter,55.0
+303,2025,Pure Honey,22.0
+303,2026,Salt,3.0
+303,2027,Monosodium Glutamate (optional),2.0
+303,2028,Parsley Powder,5.0
+304,2029,Potatoes,300.0
+304,2030,Garlic Oil,20.0
+304,2031,Salt,5.0
+304,2032,Salmon,200.0
+304,2033,Japanese Mayo,20.0
+304,2034,Spring Onions,20.0
+304,2035,Tobiko,5.0
+304,2036,Garlic,10.0
+305,2037,Banana,200.0
+305,2038,Flour,250.0
+305,2039,Milk,400.0
+305,2040,Egg Yolk,40.0
+305,2041,Sugar,100.0
+305,2042,Vanilla,10.0
+305,2043,Cinnamon,10.0
+305,2044,Whipping Cream,300.0
+305,2045,Egg White,40.0
+306,2046,Fried dace,1000.0
+306,2047,Salted black beans,200.0
+306,2048,Garlic,20.0
+306,2049,Pasta,120.0
+306,2050,Olive oil,30.0
+307,2051,Glutinous Rice Flour,150.0
+307,2052,Tapioca Flour,100.0
+307,2053,,250.0
+307,2054,,20.0
+307,2055,,15.0
+307,2056,,25.0
+307,2057,,10.0
+307,2058,,30.0
+307,2059,,25.0
+307,2060,,40.0
+307,2061,,10.0
+308,2062,butter,100.0
+308,2063,Milo powder,20.0
+308,2064,cocoa powder,20.0
+308,2065,salt,1.0
+308,2066,condensed milk,50.0
+308,2067,vanilla extract,5.0
+308,2068,cream,20.0
+308,2069,biscuits (Mary biscuits),250.0
+308,2070,chocolate sauce,100.0
+308,2071,melted chocolate,100.0
+308,2072,ganache,50.0
+309,2073,Butter,114.0
+309,2074,Milk,100.0
+309,2075,Cake Flour,227.0
+309,2076,Egg Yolks,120.0
+309,2077,Vanilla,10.0
+309,2078,Salt,3.0
+309,2079,Egg Whites,240.0
+309,2080,Sugar,114.0
+310,2081,Century Egg,200.0
+310,2082,Regular Egg,50.0
+310,2083,Cheese,100.0
+310,2084,Black Pepper,5.0
+310,2085,Bacon,120.0
+311,2086,Chicken,600.0
+311,2087,Ginger,10.0
+311,2088,Spring Onion,10.0
+311,2089,Coconut Milk,300.0
+311,2090,Chili Sauce,100.0
+311,2091,Salt,2.0
+312,2092,chicken breast,250.0
+312,2093,white rice,200.0
+312,2094,fresh ginger,20.0
+312,2095,garlic cloves,10.0
+312,2096,unsalted butter,20.0
+312,2097,salt,5.0
+312,2098,black pepper,2.0
+312,2099,ice cream scoop,50.0
+312,2100,fresh lime juice,20.0
+312,2101,minced garlic,10.0
+312,2102,cayenne pepper,2.0
+312,2103,vegetable oil,20.0
+312,2104,green onions,20.0
+313,2105,chicken,800.0
+313,2106,onion,150.0
+313,2107,apple,100.0
+313,2108,carrot,100.0
+313,2109,napa cabbage,150.0
+313,2110,spring onions,20.0
+313,2111,ginger,20.0
+313,2112,goji berries,50.0
+314,2113,,120.0
+314,2114,,50.0
+314,2115,,20.0
+314,2116,,30.0
+314,2117,,50.0
+314,2118,,100.0
+314,2119,,10.0
+314,2120,,20.0
+314,2121,,20.0
+314,2122,,10.0
+315,2123,Coco Crunch,475.0
+315,2124,Strawberries,150.0
+315,2125,Milk,240.0
+315,2126,Vanilla Extract,5.0
+316,2127,Flour,250.0
+316,2128,Cornstarch,30.0
+316,2129,Sugar,200.0
+316,2130,Egg Yolks,180.0
+316,2131,Milk,240.0
+316,2132,Butter,30.0
+316,2133,Vanilla Extract,5.0
+316,2134,Rum,15.0
+316,2135,Whipped Cream,240.0
+316,2136,Oats,60.0
+316,2137,Canned Corn,400.0
+316,2138,Corn Cobs,150.0
+316,2139,Brown Butter,55.0
+316,2140,Egg Whites,180.0
+317,2141,Frozen Puff Pastry,200.0
+317,2142,,20.0
+317,2143,,20.0
+317,2144,,240.0
+317,2145,,1000.0
+318,2146,Black Sesame Seeds,400.0
+318,2147,Black Sesame Paste,200.0
+318,2148,Tong Yuen,47000.0
+318,2149,Butter,225.0
+318,2150,Sugar,225.0
+318,2151,Egg,180.0
+318,2152,Flour,364.0
+318,2153,Salt,7.0
+318,2154,Vanilla,20.0
+319,2155,Chicken breast,600.0
+319,2156,Potatoes,250.0
+319,2157,Carrots,200.0
+319,2158,Durian flesh,150.0
+319,2159,Malaysian curry paste,30.0
+320,2160,gula melaka,75.0
+320,2161,pandan extract,10.0
+320,2162,longan powder,40.0
+320,2163,lo-hon-gor,5.0
+320,2164,espresso,10.0
+320,2165,vanilla Nescafe espresso concentrate,5.0
+321,2166,Potatoes,900.0
+321,2167,Ve Vegetable Oil,
+321,2168,Salt,5.0
+322,2169,Rum,60.0
+322,2170,Butter,173.0
+322,2171,Gula Melaka,107.0
+322,2172,Eggs,120.0
+322,2173,Orange Zest,10.0
+322,2174,Orange Juice,120.0
+322,2175,Korean Pear,73.0
+322,2176,Flour,227.0
+322,2177,Baking Powder,20.0
+322,2178,Christmas Spices,10.0
+322,2179,Salt,5.0
+322,2180,Dried Persimmons,130.0
+322,2181,Sweet Potatoes,115.0
+322,2182,Goji Berries,30.0
+322,2183,Longans,25.0
+322,2184,Red Dates,30.0
+322,2185,Raisins,20.0
+323,2186,,50.0
+323,2187,,200.0
+323,2188,,5.0
+323,2189,,2.0
+323,2190,,80.0
+323,2191,,80.0
+323,2192,,1000.0
+323,2193,,2.0
+323,2194,,2.0
+323,2195,,1000.0
+323,2196,,500.0
+323,2197,,80.0
+323,2198,,80.0
+323,2199,,500.0
+323,2200,,500.0
+323,2201,,
+324,2202,Gula Melaka,250.0
+324,2203,Butter,170.0
+324,2204,Sugar,320.0
+324,2205,Eggs,120.0
+324,2206,Coconut Milk,300.0
+324,2207,Longans,200.0
+324,2208,All Purpose Flour,900.0
+324,2209,Baking Powder,20.0
+324,2210,Salt,15.0
+325,2211,Hinane Bengali Style White Bread,700.0
+325,2212,Butter,100.0
+325,2213,Kaya,60.0
+325,2214,Eggs,360.0
+326,2215,Kimchi,250.0
+326,2216,Cheese,100.0
+326,2217,Bread,300.0
+326,2218,Butter,20.0
+326,2219,Salt,5.0
+326,2220,Black Pepper,5.0
+327,2221,flour,800.0
+327,2222,all-purpose flour,200.0
+327,2223,sugar,30.0
+327,2224,salt,6.0
+327,2225,yeast,5.0
+327,2226,water,240.0
+327,2227,butter,340.0
+328,2228,Pandan Leaves,1000.0
+328,2229,Palm Sugar,2000.0
+328,2230,Palm Sugar,1000.0
+328,2231,Ground Nut,50.0
+328,2232,Ground Cinnamon,10.0
+328,2233,Grated Coconut,50.0
+328,2234,Egg,50.0
+328,2235,Oil,50.0
+328,2236,Flour,1000.0
+329,2237,Gula Melaka,100.0
+329,2238,Coffee Powder,25.0
+329,2239,Flour,230.0
+329,2240,Coconut Milk,450.0
+329,2241,Rice,90.0
+329,2242,Tapioca Flour,45.0
+329,2243,Water,0.0
+329,2244,Salt,4.0
+329,2245,Coconut Oil,14.0
+330,2246,garlic,50.0
+330,2247,ginger,10.0
+330,2248,chilies,20.0
+330,2249,Sichuan peppercorns,10.0
+330,2250,five-spice powder,5.0
+330,2251,Lao Gan Ma,20.0
+330,2252,egg,50.0
+330,2253,cream,50.0
+330,2254,soy sauce,10.0
+330,2255,sesame oil,10.0
+330,2256,spaghetti,80.0
+330,2257,spring onions,20.0
+331,2258,rose syrup,400.0
+331,2259,evaporated milk,120.0
+331,2260,pandan leaves,100.0
+331,2261,matcha powder,10.0
+331,2262,ice,0.0
+332,2263,pasta,50000.0
+332,2264,egg,50.0
+332,2265,mentaiko,200.0
+332,2266,cream,150.0
+332,2267,soy sauce,50.0
+332,2268,cheese,100.0
+332,2269,black pepper,5.0
+333,2270,,250.0
+333,2271,flour,550.0
+333,2272,golden syrup,80.0
+333,2273,lye water,10.0
+333,2274,oil,40.0
+333,2275,beef,150.0
+333,2276,mushroom duxelles,80.0
+333,2277,parma ham,40.0
+333,2278,mustard,5.0
+333,2279,pastry,150.0
+334,2280,Ground Beef,115.0
+334,2281,Onions,145.0
+334,2282,Kimchi,55.0
+334,2283,Pasta,120.0
+334,2284,Tomato Sauce,120.0
+334,2285,Ricotta Cheese,80.0
+334,2286,Mozzarella Cheese,110.0
+335,2287,Egg Whites,120.0
+335,2288,Sugar,100.0
+335,2289,Corn Flour,100.0
+335,2290,Egg Yolks,50.0
+335,2291,Flour,100.0
+335,2292,Salt,5.0
+335,2293,Milk,100.0
+336,2294,snow fungus,50.0
+336,2295,red dates,20.0
+336,2296,goji berries,10.0
+336,2297,dried longans,10.0
+336,2298,rock sugar,10.0
+336,2299,papaya,50.0
+337,2300,Peanut Butter,115.0
+337,2301,All-Purpose Flour,120.0
+337,2302,Sugar,55.0
+337,2303,Salt,10.0
+337,2304,Baking Powder,10.0
+337,2305,Oil,22.5
+337,2306,Sesame Oil,10.0
+338,2307,Berries,240.0
+338,2308,Sweet Cream,120.0
+338,2309,Caramel,60.0
+338,2310,Pickles,120.0
+338,2311,Shaved Ice,360.0
+338,2312,Sugar,18.0
+339,2313,,1200.0
+339,2314,,250.0
+339,2315,,75.0
+339,2316,,2500.0
+339,2317,,500.0
+339,2318,,0.0
+339,2319,,250.0
+339,2320,,1000.0
+339,2321,,3000.0
+339,2322,,500.0
+340,2323,,230.0
+340,2324,,90.0
+340,2325,,40.0
+340,2326,,2.0
+340,2327,,9.0
+340,2328,,18.0
+340,2329,,2.0
+340,2330,,45.0
+341,2331,Guanciale,250.0
+341,2332,Potatoes,350.0
+341,2333,Parmesan Cheese,100.0
+341,2334,Egg,50.0
+341,2335,Black Pepper,2.0
+341,2336,Carbonara Noodles,250.0
+342,2337,potatoes,200.0
+342,2338,onions,100.0
+342,2339,carrots,150.0
+342,2340,chicken,100.0
+342,2341,Japanese curry,250.0
+342,2342,whipped cream,150.0
+342,2343,udon noodles,100.0
+343,2344,Eggs,120.0
+343,2345,Butter,53.75
+343,2346,Milk,100.0
+343,2347,Sugar,28.0
+343,2348,Salt,3.0
+343,2349,Baking Powder,3.0
+343,2350,Vanilla,2.0
+343,2351,Cinnamon,1.0
+343,2352,Rice Paper,250.0
+344,2353,butter,240.0
+344,2354,sugar,190.0
+344,2355,instant coffee,10.0
+344,2356,egg,30.0
+344,2357,vanilla extract,5.0
+344,2358,all-purpose flour,410.0
+344,2359,baking powder,25.0
+344,2360,salt,5.0
+344,2361,flaky salt,10.0
+345,2362,Butter,100.0
+345,2363,Sugar,50.0
+345,2364,Eggs,50.0
+345,2365,Instant Coffee,20.0
+345,2366,Milk,100.0
+345,2367,Vanilla,10.0
+345,2368,Flour,200.0
+346,2369,Potatoes,250.0
+346,2370,Garlic Oil,20.0
+346,2371,Salt,5.0
+346,2372,Salmon Fillets,150.0
+346,2373,Japanese Mayo,50.0
+346,2374,Spring Onions,20.0
+346,2375,Tobiko,10.0
+347,2376,,200.0
+347,2377,,50.0
+347,2378,,100.0
+347,2379,,10.0
+347,2380,,20.0
+347,2381,,50.0
+347,2382,,100.0
+347,2383,,10.0
+347,2384,,20.0
+348,2385,Super Ring,150.0
+348,2386,Cooked Rice,360.0
+348,2387,Seaweed,50.0
+348,2388,Sesame Seeds,50.0
+348,2389,Sesame Oil,20.0
+348,2390,Ground Beef Bulgogi,120.0
+349,2391,Eggs,150.0
+349,2392,Sugar,200.0
+349,2393,Thai Tea Leaves,20.0
+349,2394,Heavy Cream,300.0
+349,2395,Coconut Flakes,50.0
+350,2396,watermelon,1200.0
+350,2397,tomato,150.0
+350,2398,mozzarella cheese,100.0
+350,2399,basil leaves,20.0
+350,2400,olive oil,15.0
+350,2401,balsamic vinegar,50.0
+350,2402,flaky salt,10.0
+350,2403,prosciutto,60.0
+351,2404,,250.0
+351,2405,,50.0
+351,2406,,6.0
+351,2407,,3.0
+351,2408,,250.0
+351,2409,,6.0
+351,2410,,3.0
+351,2411,,10.0
+351,2412,,10.0
+351,2413,,5.0
+351,2414,,0.6
+351,2415,,10.0
+351,2416,,10.0
+352,2417,apple,200.0
+352,2418,water,1000.0
+353,2419,Bagel,250.0
+353,2420,Butter,115.0
+353,2421,Honey,170.0
+353,2422,Salt,5.0
+353,2423,MSG,5.0
+353,2424,Parsley Powder,5.0
+354,2425,Potatoes,400.0
+354,2426,Garlic Oil,10.0
+354,2427,Salt,5.0
+354,2428,Salmon,150.0
+354,2429,Japanese Mayo,20.0
+354,2430,Spring Onions,20.0
+354,2431,Tobiko,10.0
+355,2432,Bananas,120.0
+355,2433,Milk,80.0
+355,2434,Whipping cream,80.0
+355,2435,Vanilla,10.0
+355,2436,Cinnamon powder,5.0
+355,2437,Egg yolks,60.0
+355,2438,Sugar,100.0
+356,2439,,200.0
+356,2440,Salted black beans,100.0
+356,2441,,20.0
+356,2442,,150.0
+356,2443,,8.0
+357,2444,eggs,120.0
+357,2445,sugar,400.0
+357,2446,milk,400.0
+357,2447,butter,400.0
+357,2448,vanilla,10.0
+357,2449,glutinous rice flour,400.0
+357,2450,tapioca flour,400.0
+358,2451,Butter,113.0
+358,2452,Milo Powder,50.0
+358,2453,Cocoa Powder,50.0
+358,2454,Salt,5.0
+358,2455,Condensed Milk,300.0
+358,2456,Vanilla,10.0
+358,2457,Cream,50.0
+358,2458,Chocolate Sauce,150.0
+358,2459,Mary Biscuits,170.0
+359,2460,Butter,50.0
+359,2461,Milk,50.0
+359,2462,Cake Flour,100.0
+359,2463,Egg Yolks,120.0
+359,2464,Vanilla,5.0
+359,2465,Salt,5.0
+360,2466,Century Egg,120.0
+360,2467,Egg,50.0
+360,2468,Cheese,100.0
+360,2469,Black Pepper,2.0
+360,2470,Bacon,100.0
+360,2471,Pasta,150.0
+361,2472,chicken breast,500.0
+361,2473,coconut milk,220.0
+361,2474,ginger,100.0
+361,2475,spring onion,150.0
+361,2476,salt,20.0
+361,2477,chili sauce,200.0
+361,2478,instant noodles rice,320.0
+362,2479,Chicken Breast,1130.0
+362,2480,Ginger,20.0
+362,2481,Scallion,20.0
+362,2482,Butter,35.0
+362,2483,Rice,800.0
+362,2484,Chicken Broth,400.0
+362,2485,Garlic,10.0
+362,2486,Lime,20.0
+362,2487,Chili Peppers,20.0
+362,2488,Ginger,20.0
+362,2489,Scallion,20.0
+362,2490,Oil,35.0
+363,2491,chicken,800.0
+363,2492,onion,150.0
+363,2493,apple,100.0
+363,2494,carrot,120.0
+363,2495,napa cabbage,200.0
+363,2496,spring onion,20.0
+363,2497,ginger,20.0
+363,2498,goji berries,20.0
+364,2499,,100.0
+364,2500,,200.0
+364,2501,,100.0
+364,2502,,20.0
+364,2503,,50.0
+364,2504,,200.0
+365,2505,Corn Flakes,1000.0
+365,2506,Sugar,200.0
+365,2507,Cocoa Nibs,100.0
+365,2508,Strawberry Puree,200.0
+366,2509,corn,400.0
+366,2510,flour,200.0
+366,2511,cornstarch,50.0
+366,2512,sugar,200.0
+366,2513,eggs,200.0
+366,2514,milk,300.0
+366,2515,vanilla,10.0
+366,2516,rum,20.0
+366,2517,whipped cream,200.0
+366,2518,oats,100.0
+366,2519,cinnamon,5.0
+367,2520,All-purpose flour,200.0
+367,2521,Salt,5.0
+367,2522,Sugar,55.0
+367,2523,Cinnamon,5.0
+367,2524,Unsalted butter,55.0
+367,2525,Milk,260.0
+368,2526,Flour,250.0
+368,2527,Egg,50.0
+368,2528,Butter,100.0
+368,2529,Sugar,150.0
+368,2530,Vanilla,10.0
+368,2531,Black Sesame Seeds,100.0
+368,2532,Black Sesame Paste,50.0
+368,2533,Baking Butter,20.0
+368,2534,Salt,5.0
+369,2535,Chicken breast,200.0
+369,2536,Potatoes,150.0
+369,2537,Carrots,50.0
+369,2538,Curry paste,10.0
+369,2539,Durian,100.0
+370,2540,,70.0
+370,2541,,30.0
+370,2542,,10.0
+370,2543,,25.0
+370,2544,,50.0
+371,,,
+372,2545,Dried Persimmons,210.0
+372,2546,Sweet Potatoes,140.0
+372,2547,Goji Berries,90.0
+372,2548,Longans,90.0
+372,2549,Red Dates,90.0
+372,2550,Raisins,45.0
+372,2551,Gula Melaka,45.0
+372,2552,Butter,110.0
+372,2553,Eggs,120.0
+372,2554,Orange Zest,5.0
+372,2555,Orange Juice,55.0
+372,2556,Flour,230.0
+372,2557,Baking Powder,10.0
+372,2558,Christmas Spices,10.0
+372,2559,Salt,5.0
+372,2560,Rum,110.0
+373,2561,Whipped cream,200.0
+373,2562,Condensed milk,150.0
+373,2563,Kante sheets,80.0
+373,2564,Kante powder,4.0
+373,2565,Miso caramel,40.0
+374,2566,,120.0
+374,2567,,360.0
+374,2568,,150.0
+374,2569,,120.0
+374,2570,,1.0
+374,2571,,100.0
+375,2572,White Bread,400.0
+375,2573,Kaya,200.0
+375,2574,Cured Egg Yolk,100.0
+375,2575,Butter,100.0
+376,2576,Kimchi,200.0
+376,2577,Bread,150.0
+376,2578,Cheese,100.0
+377,2579,Bread flour,500.0
+377,2580,All-purpose flour,100.0
+377,2581,Sugar,20.0
+377,2582,Salt,10.0
+377,2583,Yeast,5.0
+377,2584,Water,350.0
+377,2585,Butter,200.0
+378,2586,pandan leaves,100.0
+378,2587,coconut milk,200.0
+378,2588,egg,50.0
+378,2589,sugar,100.0
+378,2590,salt,5.0
+378,2591,oil,50.0
+378,2592,flour,200.0
+378,2593,palm sugar,100.0
+378,2594,grated coconut,100.0
+379,2595,Gula Melaka,0.0
+379,2596,Rice Flour,88.82
+379,2597,Tapioca Flour,36.35
+379,2598,Instant Coffee Powder,7.04
+379,2599,Water,0.0
+379,2600,Coconut Milk,785.4
+380,2601,Garlic,12.0
+380,2602,Ginger,8.0
+380,2603,Chilies,16.0
+380,2604,Sichuan Peppercorns,8.0
+380,2605,Five-Spice Powder,5.0
+380,2606,Lao Gan Ma,20.0
+380,2607,Egg,50.0
+380,2608,Cream,100.0
+380,2609,Soy Sauce,20.0
+380,2610,Sesame Oil,10.0
+380,2611,Spaghetti,200.0
+380,2612,Spring Onions,20.0
+381,2613,rose syrup,100.0
+381,2614,evaporated milk,100.0
+381,2615,fresh pandan leaves,20.0
+381,2616,matcha powder,10.0
+382,2617,pasta,200.0
+382,2618,spicy pollack roe,50.0
+382,2619,egg,50.0
+382,2620,cream,50.0
+382,2621,soy sauce,10.0
+382,2622,cheese,50.0
+382,2623,black pepper,2.0
+383,2624,,225.0
+383,2625,,56.0
+383,2626,,56.0
+383,2627,,115.0
+383,2628,,35.0
+383,2629,,12.0
+383,2630,,120.0
+383,2631,,60.0
+384,2632,Ground Beef,200.0
+384,2633,Onions,80.0
+384,2634,Kimchi,40.0
+384,2635,Pasta Pieces (broken up),35.0
+384,2636,Tomato Sauce,180.0
+384,2637,Ricotta Cheese,120.0
+384,2638,Mozzarella Cheese (broken up),160.0
+384,2639,Extra Cheese (Mozzarella),40.0
+385,2640,Egg Whites,180.0
+385,2641,Sugar,100.0
+385,2642,Corn Flour,125.0
+385,2643,Egg Yolks,50.0
+385,2644,All-purpose Flour,250.0
+385,2645,Salt,5.0
+385,2646,Milk,170.0
+385,2647,Honey,100.0
+385,2648,Butter,140.0
+385,2649,Soy Sauce,50.0
+385,2650,Vanilla Extract,5.0
+386,2651,Snow Fungus,200.0
+386,2652,Red Dates,100.0
+386,2653,Goji Berries,50.0
+386,2654,Dried Longans,100.0
+386,2655,Papaya,200.0
+387,2656,All-purpose flour,220.0
+387,2657,Granulated sugar,200.0
+387,2658,Peanut butter,320.0
+387,2659,Salt,5.0
+387,2660,Baking powder,20.0
+387,2661,Vegetable oil,28.0
+387,2662,Sesame oil,5.0
+387,2663,Peanuts,100.0
+388,2664,Simple Berries,200.0
+388,2665,Sweet Cream,100.0
+388,2666,Caramel,80.0
+388,2667,Pickle Juice,200.0
+389,2668,all-purpose flour,500.0
+389,2669,sugar,100.0
+389,2670,yeast,5.0
+389,2671,salt,2.0
+389,2672,milk,200.0
+389,2673,butter,50.0
+389,2674,pineapple juice,200.0
+389,2675,egg,120.0
+390,2676,Ginger,10.0
+390,2677,Spring Onions,20.0
+390,2678,Chicken,150.0
+390,2679,Abalone,50.0
+390,2680,Rice,200.0
+390,2681,Chicken Stock,0.0
+390,2682,Soy Sauce,2.0
+390,2683,Sesame Oil,5.0
+390,2684,Puff Pastry,250.0
+391,2685,Guanciale,225.0
+391,2686,Eggs,120.0
+391,2687,Parmesan Cheese,80.0
+391,2688,Potatoes,500.0
+391,2689,Potato Starch,60.0
+391,2690,Water,200.0
+392,2691,Potatoes,364.0
+392,2692,Onions,114.0
+392,2693,Carrots,58.0
+392,2694,Chicken,28.0
+392,2695,Japanese Curry,26.0
+392,2696,Udon Noodles,364.0
+392,2697,Whipped Cream,364.0
+393,2698,,120.0
+393,2699,,160.0
+393,2700,,20.0
+393,2701,,10.0
+393,2702,,5.0
+393,2703,,10.0
+394,2704,Butter,200.0
+394,2705,Sugar,100.0
+394,2706,Flour,200.0
+394,2707,Instant Coffee,20.0
+394,2708,Egg,120.0
+394,2709,Vanilla,5.0
+394,2710,Baking Powder,5.0
+394,2711,Salt,5.0
+394,2712,Flaky Salt,5.0
+395,2713,,1000.0
+395,2714,,100.0
+395,2715,,50.0
+395,2716,,100.0
+395,2717,,10.0
+395,2718,,20.0
+395,2719,,20.0
+396,2720,potatoes,300.0
+396,2721,garlic oil,30.0
+396,2722,salt,5.0
+396,2723,salmon fillet,150.0
+396,2724,Japanese mayo,20.0
+396,2725,spring onions,20.0
+396,2726,tobiko,20.0
+397,2727,Mandarin Oranges,450.0
+397,2728,Sugar,180.0
+397,2729,Eggs,120.0
+397,2730,Flour,220.0
+397,2731,Baking Powder,10.0
+397,2732,Baking Soda,5.0
+397,2733,Salt,5.0
+397,2734,Palm Sugar,90.0
+397,2735,Butter,45.0
+397,2736,Cream,45.0
+398,2737,Korean rice,800.0
+398,2738,Wakame seaweed,10.0
+398,2739,White sesame seeds,20.0
+398,2740,Vegetable sesame oil,15.0
+398,2741,Ground beef bulgogi,100.0
+398,2742,Super ring snack,50.0
+399,2743,Thai Tea Leaves,10.0
+399,2744,Heavy Cream,120.0
+399,2745,Large Eggs,120.0
+399,2746,Granulated Sugar,90.0
+399,2747,Coconut Flakes,80.0
+400,2748,Watermelon,400.0
+400,2749,Tomato,150.0
+400,2750,Mozzarella,100.0
+400,2751,Basil,50.0
+400,2752,Olive Oil,20.0
+400,2753,Balsamic Vinegar,100.0
+400,2754,Flaky Salt,20.0
+400,2755,Pepper,10.0
+400,2756,Prosciutto,50.0
+401,2757,Flour (Flour),200.0
+401,2758,Sugar (Sugar),10.0
+401,2759,Salt (Salt),5.0
+401,2760,Baking Powder (Baking Powder),2.0
+401,2761,Yeast (Yeast),2.0
+401,2762,Egg (Egg),50.0
+401,2763,Warm Milk (Warm Milk),250.0
+401,2764,Prosciutto (Prosciutto),50.0
+401,2765,Arugula (Arugula),20.0
+401,2766,Olive Oil (Olive Oil),20.0
+401,2767,Fancy Homemade Cured Egg Yolks (Fancy Homemade Cured Egg Yolks),15.0
+401,2768,Black Pepper (Black Pepper),1.0
+402,2769,Apple,150.0
+403,2770,Bagels,200.0
+403,2771,Butter,20.0
+403,2772,Honey,10.0
+403,2773,Salt,2.0
+403,2774,Parsley Powder,2.0
+404,2775,potatoes,200.0
+404,2776,garlic oil and salt,20.0
+404,2777,salmon,250.0
+404,2778,Japanese mayo,15.0
+404,2779,spring onions,50.0
+404,2780,tobiko,20.0
+405,2781,banana,120.0
+405,2782,milk,250.0
+405,2783,cream,250.0
+405,2784,vanilla extract,3.0
+405,2785,cinnamon,3.0
+405,2786,egg yolk,45.0
+405,2787,sugar,120.0
+406,,,
+407,2788,Eggs,50.0
+407,2789,Sugar,73.0
+407,2790,Milk,270.0
+407,2791,Butter,37.0
+407,2792,Vanilla Essence,6.0
+407,2793,Glutinous Rice Flour,63.0
+407,2794,Tapioca Flour,63.0
+408,2795,butter,60.0
+408,2796,milo powder  cocoa powder,150.0
+408,2797,salt,3.0
+408,2798,condensed milk,237.0
+408,2799,vanilla,0.1
+408,2800,cream,375.0
+408,2801,biscuits,400.0
+408,2802,chocolate sauce,237.0
+408,2803,melted chocolate and cream for ganache,237.0
+409,2804,butter,70.0
+409,2805,milk,207.5
+409,2806,cake flour,89.0
+409,2807,egg yolk,187.5
+409,2808,vanilla extract,3.0
+409,2809,salt,3.0
+409,2810,egg whites and sugar,234.7
+410,2811,Century Egg,125.0
+410,2812,Regular Egg,50.0
+410,2813,Cheese,137.5
+410,2814,Black Pepper,0.3
+410,2815,Crispy Bacon,75.0
+410,2816,Pasta,140.0
+411,2817,chicken,200.0
+411,2818,ginger,50.0
+411,2819,spring onion,50.0
+411,2820,salt,1.0
+411,2821,coconut milk,100.0
+411,2822,rice,250.0
+411,2823,chili,10.0
+411,2824,coconut oil,10.0
+412,2825,Chicken,200.0
+412,2826,Ginger,5.0
+412,2827,Scallion,8.0
+412,2828,Salt,2.0
+412,2829,Pepper,2.0
+412,2830,Rice,250.0
+412,2831,Butter,50.0
+412,2832,Garlic,20.0
+412,2833,Lime,50.0
+412,2834,Garlic Lime Chili Sauce,30.0
+412,2835,Ginger Scallion Sauce,30.0
+413,2836,Onion,80.0
+413,2837,Apple,150.0
+413,2838,Carrot,150.0
+413,2839,Napa Cabbage,150.0
+413,2840,Chicken,500.0
+413,2841,Spring Onion,25.0
+413,2842,Ginger,20.0
+413,2843,Goji Berries,35.0
+414,2844,century egg,50.0
+414,2845,green chili,50.0
+414,2846,garlic,15.0
+414,2847,salt,15.0
+414,2848,soy sauce,5.0
+414,2849,vinegar,5.0
+414,2850,sesame,15.0
+415,2851,Coco Crunch cereal,50.0
+415,2852,strawberries,50.0
+416,2853,corn,180.0
+416,2854,brown butter corn,10.0
+416,2855,cream corn,80.0
+416,2856,milk,268.0
+416,2857,egg yolks,27.2
+416,2858,sugar,2.4
+416,2859,flour,2.6
+416,2860,cornstarch,3.7
+416,2861,vanilla extract,1.2
+416,2862,whipped cream,28.4
+416,2863,oats,25.6
+417,2864,Puff Pastry,120.0
+417,2865,Cinnamon Sugar,8.0
+417,2866,Milk,250.0
+418,2867,butter,25.0
+418,2868,sugar,50.0
+418,2869,egg,56.0
+418,2870,vanilla extract,5.0
+418,2871,flour,50.0
+418,2872,baking butter,15.0
+418,2873,salt,1.0
+418,2874,black sesame seeds,15.0
+418,2875,black sesame paste,15.0
+419,2876,Durian Flesh,150.0
+419,2877,Chicken,150.0
+419,2878,Potatoes,80.0
+419,2879,Carrots,80.0
+419,2880,Curry Paste (store bought),70.0
+420,2881,dried longan,75.0
+420,2882,lo-hon-gor or manfurut,387.0
+420,2883,pandan,100.0
+420,2884,jaggery or palm sugar,139.0
+420,2885,espresso concentrate,194.0
+421,2886,Short Fries,50.0
+422,,,
+423,2887,Kante Ice Cream,50.0
+423,2888,Whipped Cream,70.0
+423,2889,Condensed Milk,20.0
+423,2890,Kante Powder,5.0
+423,2891,Kante Sheets,20.0
+423,2892,Miso Caramel,20.0
+423,2893,Seaweed Snack,10.0
+424,,,
+425,2894,Hinamitsu Bengali Style White Bread,70.0
+425,2895,Frozen Butter Sheet,20.0
+425,2896,Kaya Jam,60.0
+425,2897,Cured Egg Yolk,60.0
+426,2898,Kimchi,200.0
+426,2899,Bread,18.0
+426,2900,Cheese,6.0
+427,,,
+428,2901,Pandan Leaves,100.0
+428,2902,Coconut Milk,240.0
+428,2903,Egg,250.0
+428,2904,Sugar,50.0
+428,2905,Salt,5.0
+428,2906,Oil,20.0
+428,2907,Flour (For Crepe),100.0
+428,2908,Gula Melaka (Palm Sugar),50.0
+428,2909,Grated Coconut,100.0
+428,2910,Pandan Leaves (For Filling),50.0
+429,2911,Nescafé Gold Intensí coffee,10.0
+429,2912,Jagung Manis (Malacca Sugar),89.0
+429,2913,All-Purpose Flour (plain),184.0
+429,2914,Rice (cooked),194.0
+429,2915,Sago Starch (cooking),189.0
+429,2916,Water (hot),184.0
+429,2917,Salt (table),2.0
+430,2918,garlic,10.0
+430,2919,ginger,25.0
+430,2920,chili(s),20.0
+430,2921,Sichuan peppercorn(s),15.0
+430,2922,five-spice powder,5.0
+430,2923,Lao Gan Ma (Spicy Sauce),50.0
+430,2924,spaghetti,150.0
+430,2925,egg,50.0
+430,2926,cream,265.0
+430,2927,soy sauce,140.0
+430,2928,sesame oil,50.0
+430,2929,spring onion(s),48.0
+431,2930,rose syrup,45.0
+431,2931,evaporated milk,20.0
+431,2932,pandan leaves juice,25.0
+431,2933,matcha powder,20.0
+431,2934,ice,150.0
+431,2935,fresh milk,20.0
+432,2936,Mentaiko (spicy pollack roe),150.0
+432,2937,Egg,50.0
+432,2938,Cream,28.0
+432,2939,Soy Sauce,18.0
+432,2940,Cheese,20.0
+432,2941,Black Pepper,0.5
+433,,,
+434,2942,Ground Beef,100.0
+434,2943,Onions,50.0
+434,2944,Kimchi,40.0
+434,2945,Tomato Sauce,80.0
+434,2946,Pasta Pieces,85.0
+434,2947,Ricotta Cheese,235.0
+434,2948,Mozzarella Cheese,235.0
+435,2949,egg whites,100.0
+435,2950,sugar,20.0
+435,2951,corn flour (cornstarch),25.0
+435,2952,egg yolks,50.0
+435,2953,flour (all-purpose),100.0
+435,2954,salt,0.5
+435,2955,milk,50.0
+435,2956,honey butter glaze,50.0
+435,2957,soy sauce,5.0
+435,2958,vanilla extract,0.5
+436,2959,Snow Fungus,50.0
+436,2960,Red Dates,50.0
+436,2961,Goji Berries,50.0
+436,2962,Longan Dried,50.0
+436,2963,Rock Sugar,50.0
+436,2964,Papaya Chunks,200.0
+437,2965,Peanut Butter,283.495
+437,2966,All-Purpose Flour,150.0
+437,2967,Sugar,15.0
+437,2968,Salt,1.0
+437,2969,Baking Powder,1.0
+437,2970,Oil,20.0
+437,2971,Sesame Oil,25.0
+438,2972,berries,85.0
+438,2973,sweet cream,24.0
+438,2974,caramel,24.0
+438,2975,pickles,85.0
+438,2976,shaved ice,150.0
+439,2977,Bun Dough,150.0
+439,2978,Crusty Top Dough,50.0
+439,2979,Pineapple Jam,50.0
+440,2980,chicken,150.0
+440,2981,abalone,50.0
+440,2982,rice,100.0
+440,2983,ginger,5.0
+440,2984,spring onion,5.0
+440,2985,soy sauce,10.0
+440,2986,sesame oil,10.0
+440,2987,puff pastry,100.0
+441,2988,potatoes,300.0
+441,2989,bacon or guanciale,125.0
+441,2990,parmegiano reggiano cheese or parmesan cheese,123.0
+441,2991,egg or egg white,138.0
+441,2992,water,50.0
+441,2993,cornstarch,3.8
+442,2994,potatoes,200.0
+442,2995,creame,350.0
+442,2996,onions,90.0
+442,2997,carrots,150.0
+442,2998,chickens (already cooked),200.0
+442,2999,Japanese Curry (block),100.0
+442,3000,udon noodles (already cooked),195.0
+443,3001,eggs,300.0
+443,3002,butter,50.0
+443,3003,milk,100.0
+443,3004,sugar,50.0
+443,3005,salt,5.0
+443,3006,baking powder,15.0
+443,3007,vanilla extract,15.0
+443,3008,cinnamon,15.0
+444,3009,butter,100.0
+444,3010,sugar,100.0
+444,3011,instant coffee,250.0
+444,3012,egg,50.0
+444,3013,vanilla extract,0.0
+444,3014,flaky salt,0.0
+444,3015,flour,164.0
+444,3016,baking powder,0.0
+444,3017,salt,0.0
+445,3018,white bread,250.0
+445,3019,butter,25.0
+445,3020,sugar,15.0
+445,3021,egg,50.0
+445,3022,instant coffee,5.0
+445,3023,vanilla extract,3.0
+445,3024,flour,15.0
+446,3025,Potato,200.0
+446,3026,Garlic Oil,5.0
+446,3027,Salt,5.0
+446,3028,Salmon,200.0
+446,3029,Japanese Mayo,30.0
+446,3030,Spring Onion,15.0
+446,3031,Tobiko (Japanese Flying Fish Roe),25.0
+447,3032,mandarin oranges,300.0
+447,3033,palm sugar,48.0
+447,3034,eggs,80.0
+447,3035,flour,95.0
+447,3036,baking powder,0.0
+447,3037,baking soda,0.0
+447,3038,salt,0.0
+448,3039,Super Ring,750.0
+448,3040,Cooked Rice,250.0
+448,3041,Seaweed,70.0
+448,3042,Sesame Seeds,20.0
+448,3043,Sesame Oil,20.0
+448,3044,Ground Beef Bulgogi,25.0
+449,3045,eggs,180.0
+449,3046,sugar,40.0
+449,3047,heavy cream,148.0
+449,3048,Thai tea leaves,27.3
+449,3049,coconut flakes,50.0
+450,3050,watermelon,100.0
+450,3051,tomato,50.0
+450,3052,mozzarella cheese,30.0
+450,3053,basil,30.0
+450,3054,olive oil,17.0
+450,3055,balsamic vinegar,5.0
+450,3056,salt,2.0
+450,3057,black pepper,2.0
+450,3058,prosciutto ham,30.0
+451,3059,baking powder,1200.0
+451,3060,yeast,800.0
+451,3061,flour,1000.0
+451,3062,sugar,100.0
+451,3063,salt,60.0
+451,3064,egg,400.0
+451,3065,warm milk,180.0
+451,3066,tomato,400.0
+451,3067,mozzarella,400.0
+451,3068,prosciutto,180.0
+451,3069,arugula,100.0
+451,3070,olive oil,70.0
+451,3071,cured egg yolk,100.0
+451,3072,black pepper,35.0
+452,3073,apple,120.0
+453,3074,bagel,150.0
+453,3075,butter,20.0
+453,3076,honey,25.0
+453,3077,salt,1.0
+453,3078,parsley powder,2.0
+454,3079,potato,100.0
+454,3080,garlic oil,10.0
+454,3081,Japanese mayo,25.0
+454,3082,spring onion,3.0
+454,3083,salmon,250.0
+454,3084,tobiko,25.0
+455,3085,banana,170.0
+455,3086,milk,200.0
+455,3087,whipping cream,200.0
+455,3088,vanilla extract,0.0
+455,3089,cinnamon powder,0.0
+455,3090,egg yolks,100.0
+455,3091,sugar,200.0
+456,3092,fish fillet,250.0
+456,3093,brined soybeans,200.0
+456,3094,spaghetti,200.0
+456,3095,extra virgin olive oil,30.0
+456,3096,minced garlic cloves,14.0
+457,3097,egg,100.0
+457,3098,glutinous rice flour,21.0
+457,3099,vanilla essence,4.0
+457,3100,,160.0
+457,3101,butter and sugar mixture,42.0
+458,3102,butter,120.0
+458,3103,milo powder,16.5
+458,3104,cocoa powder,16.8
+458,3105,salt,2.4
+458,3106,condensed milk,437.5
+458,3107,vanilla extract,0.0
+458,3108,cream,190.5
+458,3109,biscuits,384.6
+458,3110,melted chocolate,135.4
+459,3111,butter,14.0
+459,3112,milk,40.0
+459,3113,cake flour,30.0
+459,3114,eggs,100.0
+459,3115,vanilla extract,0.0
+459,3116,salt,0.0
+460,3117,century egg,100.0
+460,3118,egg,50.0
+460,3119,cheese,100.0
+460,3120,black pepper,0.5
+460,3121,bacon,25.0
+461,3122,chicken,200.0
+461,3123,ginger,20.0
+461,3124,spring onion,40.0
+461,3125,coconut milk,67.0
+461,3126,chili sauce,12.8
+462,3127,chicken,500.0
+462,3128,ginger,50.0
+462,3129,scallion,20.0
+462,3130,salt and pepper,0.0
+462,3131,water,500.0
+462,3132,butter,25.0
+462,3133,rice,200.0
+462,3134,garlic,10.0
+462,3135,ginger,50.0
+462,3136,scallion,20.0
+462,3137,lime,80.0
+462,3138,chili,10.0
+462,3139,oil,20.0
+463,3140,vegetable mixture,200.0
+463,3141,onion,50.0
+463,3142,apple,70.0
+463,3143,carrot,50.0
+463,3144,napa cabbage,50.0
+463,3145,chicken,250.0
+463,3146,spring onion,50.0
+463,3147,ginger,20.0
+463,3148,goji berry,30.0
+464,3149,century egg,80.0
+464,3150,green chili,50.0
+464,3151,garlic,15.0
+464,3152,salt,2.0
+464,3153,soy sauce,14.0
+464,3154,vinegar,20.0
+464,3155,sesame,20.0
+465,3156,Coco Crunch Base,50.0
+465,3157,Strawberries,85.0
+466,3158,corn,400.0
+466,3159,sauteed brown butter corn,120.0
+466,3160,canned cream corn,300.0
+466,3161,milk,1900.0
+466,3162,egg yolks,100.0
+466,3163,sugar,100.0
+466,3164,flour,50.0
+466,3165,cornstarch,30.0
+466,3166,vanilla extract,13.0
+466,3167,rum,47.0
+466,3168,crispy oats,240.0
+466,3169,whipped cream,318.0
+467,3170,puff pastry,200.0
+467,3171,cinnamon sugar,10.0
+468,3172,butter,120.0
+468,3173,sugar,68.4
+468,3174,egg,56.7
+468,3175,vanilla essence,0.0
+468,3176,flour,150.0
+468,3177,baking butter,71.4
+468,3178,salt,1.0
+468,3179,black sesame seeds,45.9
+468,3180,black sesame paste,97.1
+469,3181,durian flesh,250.0
+469,3182,curry paste,160.0
+469,3183,chicken,250.0
+469,3184,potatoes and carrots,300.0
+470,3185,espresso concentrate,40.0
+470,3186,dried longan,180.0
+470,3187,lo-hon-gor or manfurt,180.0
+470,3188,pandan leaves,25.0
+470,3189,gula melaka (palm sugar),180.0
+471,3190,fry,75.0
+472,,,
+473,3191,whipping cream,150.0
+473,3192,condensed milk,125.0
+473,3193,kante,67.0
+473,3194,kante powder,28.0
+473,3195,kante sheets,97.48
+473,3196,miso caramel,139.4
+473,3197,caramelized seaweed,54.78
+474,3198,palm sugar,100.0
+474,3199,butter,100.0
+474,3200,coconut milk,250.0
+474,3201,eggs,207.0
+474,3202,cooking wine,100.0
+474,3203,dragon fruit,400.0
+475,3204,white bread,200.0
+475,3205,butter,50.0
+475,3206,jam Kaya,100.0
+475,3207,cured yolk,50.0
+476,3208,kimchi,150.0
+476,3209,bread,50.0
+476,3210,cheese,50.0
+477,3211,bread flour,150.0
+477,3212,all-purpose flour,100.0
+477,3213,sugar,30.0
+477,3214,salt,5.0
+477,3215,yeast,3.0
+477,3216,water,200.0
+477,3217,butter,40.0
+478,3218,leaves pandan,70.0
+478,3219,milk coconut,50.0
+478,3220,egg,150.0
+478,3221,sugar,52.7
+478,3222,salt,2.9
+478,3223,oil,19.6
+478,3224,flour,149.8
+479,3225,Nescafé Gold Intensio,30.0
+479,3226,palm sugar,200.0
+479,3227,all-purpose flour,200.0
+479,3228,coconut milk,180.0
+479,3229,water,180.0
+479,3230,salt,5.0
+480,3231,garlic,50.0
+480,3232,ginger,20.0
+480,3233,chili pepper,50.0
+480,3234,sichuan pepper,50.0
+480,3235,sichuan pepper powder,5.0
+480,3236,la gan ma spice oil,5.0
+480,3237,egg,50.0
+480,3238,heavy cream,50.0
+480,3239,soy sauce,50.0
+480,3240,sesame oil,50.0
+480,3241,pasta spaghetti,200.0
+480,3242,spring onion,40.0
+481,3243,rose syrup,50.0
+481,3244,evaporated milk,50.0
+481,3245,fresh pandan leaves,50.0
+481,3246,matcha powder,20.0
+481,3247,ice,30.0
+481,3248,fresh milk,50.0
+482,3249,spicy pollack roe,150.0
+482,3250,egg,200.0
+482,3251,cream,138.0
+482,3252,soy sauce,43.0
+482,3253,cheese,140.0
+482,3254,pasta,400.0
+482,3255,mayonnaise,28.0
+482,3256,cooking oil,42.0
+482,3257,black pepper,42.0
+483,3258,wheat flour,100.0
+483,3259,golden syrup,50.0
+483,3260,lye water (not provided standard value),100.0
+483,3261,vegetable oil (if used),14.0
+483,3262,beef,100.0
+483,3263,mushroom duxelles,100.0
+483,3264,parma ham,100.0
+483,3265,pastry (if used),300.0
+484,3266,ground beef,200.0
+484,3267,onions,50.0
+484,3268,kimchi,250.0
+484,3269,tomato sauce,400.0
+484,3270,broken up pasta pieces,150.0
+484,3271,ricotta cheese,120.0
+484,3272,mozzarella cheese,132.0
+485,3273,egg whites,200.0
+485,3274,sugar,10.0
+485,3275,corn flour,5.0
+485,3276,egg yolks,100.0
+485,3277,flour,5.0
+485,3278,salt,3.0
+485,3279,milk,50.0
+485,3280,oil for cooking,0.0
+485,3281,honey,10.0
+485,3282,soy sauce,5.0
+485,3283,vanilla extract,5.0
+486,3284,lotus root,100.0
+486,3285,longan,20.0
+486,3286,wolfberry,20.0
+486,3287,litchi plum,20.0
+486,3288,rock candy,20.0
+486,3289,papaya,100.0
+487,3290,peanut butter,235.0
+487,3291,all-purpose flour,37.0
+487,3292,sugar,23.0
+487,3293,salt,2.0
+487,3294,baking powder,2.0
+487,3295,oil,2.5
+487,3296,sesame oil,2.5
+488,3297,pickled vegetables,50.0
+488,3298,simple berries (blueberries  strawberries),150.0
+488,3299,creamy dessert topping,100.0
+488,3300,caramel sauce or sugar,14.0
+489,3301,dough,100.0
+489,3302,top dough,100.0
+489,3303,pinaaple jam,250.0
+489,3304,butter,30.0
+489,3305,egg,0.0
+489,3306,flour,300.0
+489,3307,sugar,120.0
+489,3308,vanilla extract,3.0
+489,3309,baking powder,7.5
+490,3310,porridge,400.0
+490,3311,chicken broth,400.0
+490,3312,chopped chicken,250.0
+490,3313,abalone,250.0
+490,3314,ginger,10.0
+490,3315,spring onion,50.0
+490,3316,puff pastry,250.0
+490,3317,egg,50.0
+491,3318,bacon or cured pork meat (guanciale),235.0
+491,3319,egg(s),75.0
+491,3320,Parmesan cheese (grated),256.0
+491,3321,potato(s),130.0
+491,3322,water,143.0
+491,3323,potato flour or potato starch (for dough),25.0
+492,3324,potato,150.0
+492,3325,whipped cream,100.0
+492,3326,onion,70.0
+492,3327,carrot,75.0
+492,3328,chicken,150.0
+492,3329,Japanese curry powder,100.0
+492,3330,udon noodles,100.0
+493,3331,egg,50.0
+493,3332,butter,20.0
+493,3333,milk,25.0
+493,3334,sugar,10.0
+493,3335,salt,1.0
+493,3336,baking powder,0.5
+493,3337,vanilla extract,2.0
+493,3338,cinnamon,2.0
+493,3339,rice paper,500.0
+494,3340,butter,100.0
+494,3341,sugar,100.0
+494,3342,instant coffee,100.0
+494,3343,egg,50.0
+494,3344,vanilla extract,4.0
+494,3345,flour,250.0
+494,3346,baking powder,5.0
+494,3347,salt,2.0
+495,3348,white bread,200.0
+495,3349,butter,20.0
+495,3350,sugar,5.0
+495,3351,egg,50.0
+495,3352,coffee powder,7.5
+495,3353,water,5.0
+495,3354,vanilla extract,5.0
+495,3355,flour,5.0
+496,3356,potato,150.0
+496,3357,garlic oil,6.0
+496,3358,salmon,200.0
+496,3359,Japanese mayonnaise,14.0
+496,3360,spring onion,35.0
+496,3361,flying fish roe,5.0
+497,3362,mandarin orange,300.0
+497,3363,sugar,100.0
+497,3364,egg,125.0
+497,3365,flour,25.0
+497,3366,baking powder,0.0
+497,3367,baking soda,0.0
+497,3368,salt,0.0
+497,3369,butter,125.0
+497,3370,cream,25.0
+497,3371,palm sugar,50.0
+498,3372,super ring,500.0
+498,3373,rice,200.0
+498,3374,seaweed,50.0
+498,3375,sesame seeds,10.0
+498,3376,sesame oil,15.0
+498,3377,ground beef bulgogi,250.0
+499,3378,egg,100.0
+499,3379,sugar,100.0
+499,3380,cream,100.0
+499,3381,Thai tea leaves (or chai spices),50.0
+499,3382,coconut flakes,100.0
+500,3383,watermelon,150.0
+500,3384,tomato,60.0
+500,3385,mozzarella cheese,75.0
+500,3386,basil leaf,10.0
+500,3387,olive oil,14.0
+500,3388,balsamic vinegar,20.0
+500,3389,flaky sea salt,5.0
+500,3390,black pepper,2.0
+500,3391,prosciutto,75.0
+501,3392,flour,100.0
+501,3393,sugar,21.0
+501,3394,salt,3.0
+501,3395,baking powder,2.0
+501,3396,yeast,1.0
+501,3397,egg,60.0
+501,3398,warm milk,26.4
+501,3399,tomato,38.5
+501,3400,mozzarella,84.5
+501,3401,prosciutto,4.9
+501,3402,arugula,17.4
+501,3403,olive oil,3.9
+501,3404,cured egg yolks,14.5
+501,3405,black pepper,1.0
+502,3406,Apple,150.0
+503,3407,Bagels,200.0
+503,3408,Butter,30.0
+503,3409,Honey,30.0
+503,3410,Salt,0.0
+503,3411,Monosodium glutamate (MSG),0.0
+503,3412,Parsley powder,0.0
+504,3413,potatoes,150.0
+504,3414,garlic oil,0.3
+504,3415,salt,0.3
+504,3416,salmon,200.0
+504,3417,Japanese Mayo,15.0
+504,3418,spring onions,30.0
+504,3419,tobiko,30.0
+505,3420,Banana,154.0
+505,3421,Vanilla Extract,0.0
+505,3422,Cinnamon Powder,2.5
+505,3423,Egg Yolks,27.0
+505,3424,Heavy Cream,76.0
+505,3425,Sugar,30.0
+506,3426,fried dace fillets or chunks of fish,150.0
+506,3427,salted black beans,125.0
+506,3428,pasta (such as spaghetti or linguine),150.0
+506,3429,chopped garlic,50.0
+506,3430,olive oil or any cooking oil,20.0
+507,3431,Eggs,80.0
+507,3432,Sugar,85.0
+507,3433,Warm Milk,42.3
+507,3434,Vanilla Extract,17.0
+507,3435,Glutinous Rice Flour,42.3
+507,3436,Tapioca Flour,42.3
+507,3437,Butter,85.0
+507,3438,Sugar (on top),42.3
+508,3439,butter,25.0
+508,3440,milo powder,5.24
+508,3441,cocoa powder,5.24
+508,3442,salt,2.62
+508,3443,condensed milk,236.59
+508,3444,vanilla extract,5.84
+508,3445,cream (for adjusting texture),149.67
+508,3446,biscuits (for layering),30.0
+508,3447,chocolate sauce (for ganache),236.59
+508,3448,melted chocolate and cream (for ganache),236.59
+509,,,
+510,3449,century egg,80.0
+510,3450,regular egg,50.0
+510,3451,cheese,120.0
+510,3452,black pepper,0.5
+510,3453,crispy bacon,50.0
+510,3454,pasta,100.0
+511,3455,chicken breast,450.0
+511,3456,ginger root,42.5
+511,3457,green onions,42.5
+511,3458,instant coconut milk powder,42.5
+511,3459,chili paste,42.5
+512,3460,chicken breast,200.0
+512,3461,water,500.0
+512,3462,ginger,50.0
+512,3463,green onion,50.0
+512,3464,salt,0.0
+512,3465,black pepper,5.0
+512,3466,garlic clove,15.0
+512,3467,white rice,150.0
+512,3468,unsalted butter,30.0
+512,3469,green lime,45.0
+512,3470,red chili pepper,35.0
+512,3471,fresh ginger root,25.0
+512,3472,scallion  green part,30.0
+513,3473,onion,450.0
+513,3474,apple,100.0
+513,3475,carrot,230.0
+513,3476,napa cabbage,140.0
+513,3477,spring onions,230.0
+513,3478,gohi berries,260.0
+513,3479,whole chicken,1250.0
+514,3480,century egg,80.0
+514,3481,green chili (serrano),80.0
+514,3482,garlic,50.0
+514,3483,salt,0.0
+514,3484,sesame seed oil,5.0
+514,3485,soy sauce (light),15.0
+514,3486,rice vinegar (light),7.0
+515,3487,Coco Crunch cereal,160.0
+515,3488,strawberries,85.0
+516,3489,corn  frozen or canned,426.0
+516,3490,butter  unsalted and melted with a small amount of salt,79.0
+516,3491,whole milk or cream,283.0
+516,3492,all-purpose flour,7.5
+516,3493,corn starch or corn flour,3.8
+516,3494,vanilla extract,1.8
+516,3495,brandy or rum (optional),2.6
+516,3496,rolled oats,7.5
+516,3497,icing (powdered) or confectioners' sugar,3.8
+516,3498,milk,14.8
+517,3499,Frozen puff pastry,150.0
+517,3500,Cinnamon sugar,26.0
+518,3501,butter,50.0
+518,3502,sugar,50.0
+518,3503,egg,56.7
+518,3504,vanilla extract,0.0
+518,3505,all-purpose flour,75.0
+518,3506,baking butter,50.0
+518,3507,salt,50.0
+518,3508,black sesame seeds,50.0
+518,3509,black sesame paste,50.0
+519,3510,chicken curry base,100.0
+519,3511,curry paste,50.0
+519,3512,chicken,150.0
+519,3513,potatoes and carrots,100.0
+519,3514,smashed durian,50.0
+520,3515,dried longan (jabutí),25.0
+520,3516,lehong (or mangel wurtz),12.5
+520,3517,screwpine (or pandan) leaves,25.0
+520,3518,tubacang (or star anise or lakjud) sugar,10.0
+520,3519,espresso (coffee concentrate),25.0
+521,3520,,0.0
+521,3521,,0.0
+522,,,
+523,3522,Kante Ice Cream,75.0
+523,3523,Kante Powder,30.0
+523,3524,Condensed Milk,28.0
+523,3525,Whipped Cream,47.0
+523,3526,Kante Sheets,16.0
+523,3527,Miso Caramel,20.0
+523,3528,Crispy Seaweed Snack,10.0
+524,3529,palm sugar or gula melaka,50.0
+524,3530,coconut milk,235.0
+524,3531,butter or margarine,125.0
+524,3532,white sugar or granulated sugar,125.0
+524,3533,,185.4
+524,3534,,200.0
+524,3535,,379.6
+525,3536,Hinaneese White Bread,200.0
+525,3537,Butter,50.0
+525,3538,Kaya Jam,100.0
+525,3539,Cured Egg Yolk,25.0
+526,3540,kimchi,50.0
+526,3541,bread,75.0
+526,3542,cheese,30.0
+527,,,
+528,3543,Pandan Leaves,364.8
+528,3544,Coconut Milk,483.9
+528,3545,Egg,90.3
+528,3546,Sugar,0.0
+528,3547,Salt,5.17
+528,3548,Oil,26.47
+528,3549,Flour,364.8
+529,3550,Nescafé Gold Intensissimo Coffee,30.0
+529,3551,Gula Melaka (Palm Sugar),26.0
+529,3552,Flour (likely a misspelling of flour),39.6
+529,3553,Coconut Milk,46.0
+529,3554,Rice (white rice  uncooked),127.5
+529,3555,Tapioca Flour (Cassava Starch),43.2
+529,3556,Water (distilled  if available),460.0
+529,3557,Sugar (granulated),27.1
+529,3558,Salt (table salt),3.7
+530,3559,garlic,30.0
+530,3560,ginger,10.0
+530,3561,chili(s),20.0
+530,3562,sichuan peppercorn(s),25.0
+530,3563,five-spice powder,20.0
+530,3564,laoganma sauce,20.0
+530,3565,egg,50.0
+530,3566,cream,43.0
+530,3567,soy sauce,46.0
+530,3568,sesame oil,34.0
+530,3569,,5.0
+530,3570,spring onion(s),35.0
+531,3571,rose syrup,120.0
+531,3572,evaporated milk,120.0
+531,3573,fresh pandan leaves,50.0
+531,3574,matcha powder,20.0
+531,3575,ice,120.0
+531,3576,fresh milk,120.0
+532,3577,Spicy Pollack Roe,50.0
+532,3578,Egg,50.0
+532,3579,Cream,100.0
+532,3580,Soy Sauce,30.0
+532,3581,Cheese,20.0
+532,3582,Black Pepper,0.0
+533,3583,flour,150.0
+533,3584,golden syrup,100.0
+533,3585,lye water,15.0
+533,3586,oil,15.0
+533,3587,beef,80.0
+533,3588,mushrooms,40.0
+533,3589,parma ham,15.0
+533,3590,mustard,6.0
+534,3591,Ground Beef,100.0
+534,3592,Onions,0.0
+534,3593,Kimchi,100.0
+534,3594,Tomato Sauce,100.0
+534,3595,Broken Up Pasta Pieces,100.0
+534,3596,Ricotta Cheese,100.0
+534,3597,Mozzarella Cheese,100.0
+535,3598,Egg Whites,160.0
+535,3599,Sugar,47.0
+535,3600,Corn Flour,48.0
+535,3601,Egg Yolks,160.0
+535,3602,Flour,98.0
+535,3603,Salt,27.0
+535,3604,Milk,49.0
+535,3605,Honey Butter Glaze,49.0
+535,3606,Soy Sauce,49.0
+535,3607,Vanilla Essence or Extract,0.0
+536,3608,snow fungus,200.0
+536,3609,longan,80.0
+536,3610,goji berry,60.0
+536,3611,longan,60.0
+536,3612,sugar,40.0
+536,3613,papaya chunks,200.0
+537,3614,Peanut Butter,90.0
+537,3615,All-Purpose Flour,85.0
+537,3616,Sugar,45.0
+537,3617,Salt,0.0
+537,3618,Baking Powder,0.0
+537,3619,Oil,18.0
+537,3620,Sesame Oil,2.0
+538,3621,Pickled Vegetables,100.0
+538,3622,Cream Cheese,100.0
+538,3623,Berries,150.0
+538,3624,Caramel,50.0
+539,3625,all-purpose flour,200.0
+539,3626,water,200.0
+539,3627,white sugar,50.0
+539,3628,active dry yeast,5.0
+539,3629,vegetable oil or butter,100.0
+539,3630,unsalted butter or margarine,15.0
+539,3631,fruit preserves (e.g.  jam),150.0
+540,3632,chicken,100.0
+540,3633,abalone,100.0
+540,3634,ginger,30.0
+540,3635,spring onion,12.0
+540,3636,rice,75.0
+540,3637,soy sauce,10.0
+540,3638,sesame oil,10.0
+540,3639,puff pastry,100.0
+541,3640,Bacon or Hot Guanciale,85.0
+541,3641,Eggs,70.0
+541,3642,Parmesan Cheese,176.0
+541,3643,Potatoes,150.0
+541,3644,Water,50.0
+541,3645,Potato Starch,25.0
+541,3646,Salt and Black Pepper  To Taste,0.0
+542,3647,Potatoes,150.0
+542,3648,Whipped Cream,100.0
+542,3649,Onions,50.0
+542,3650,Carrots,50.0
+542,3651,Chicken,150.0
+542,3652,Udon Noodles,200.0
+542,3653,Japanese Curry,100.0
+543,3654,Eggs,270.0
+543,3655,Butter,40.0
+543,3656,Milk,275.0
+543,3657,Sugar,21.0
+543,3658,Salt,6.5
+543,3659,Baking Powder,3.0
+543,3660,Vanilla and Cinnamon for Flavor,4.5
+544,3661,butter  clean,100.0
+544,3662,sugar,100.0
+544,3663,instant coffee,15.0
+544,3664,egg,55.0
+544,3665,vanilla extract,0.0
+544,3666,flaky salt,0.0
+544,3667,flour  all purpose,100.0
+545,3668,White Bread,170.0
+545,3669,Butter,28.0
+545,3670,Sugar,26.5
+545,3671,Eggs,53.8
+545,3672,Instant Coffee,8.0
+545,3673,Hot Water,217.0
+545,3674,Vanilla Extract,5.5
+545,3675,Flour,217.0
+546,,,
+547,3676,mandarins or clementines,200.0
+547,3677,palm sugar (or brown sugar),80.0
+547,3678,all-purpose flour,80.0
+547,3679,sea salt or kosher salt,0.0
+547,3680,whole eggs  preferably organic,145.0
+547,3681,unsalted butter  preferably organic,40.0
+547,3682,whole milk cream or heavy whipping cream (whipped cream),187.0
+548,3683,super ring,50.0
+548,3684,cooked rice,300.0
+548,3685,seaweed,40.0
+548,3686,sesame seeds,30.0
+548,3687,sesame oil,50.0
+548,3688,ground beef bulgogi,150.0
+549,3689,Thai tea leaves,80.0
+549,3690,eggs,50.0
+549,3691,sugar,15.0
+549,3692,heavy cream,230.0
+549,3693,coconut flakes,60.0
+550,3694,Watermelon,300.0
+550,3695,Tomato,200.0
+550,3696,Mozzarella Cheese,60.0
+550,3697,Basil Leaf,20.0
+550,3698,Olive Oil,20.0
+550,3699,Balsamic Vinegar,5.0
+550,3700,Flaky Salt and Pepper,5.0
+550,3701,Prosciutto,20.0
+551,3702,Flour,227.0
+551,3703,Sugar,16.0
+551,3704,Salt,4.0
+551,3705,Baking Powder,4.0
+551,3706,Yeast,4.0
+551,3707,Egg,56.0
+551,3708,Warm Milk,113.0
+551,3709,Tomato,85.0
+551,3710,Mozzarella Cheese,159.0
+551,3711,Prosciutto,85.0
+551,3712,Arugula,43.0
+551,3713,Olive Oil,67.0
+552,,,
+553,3714,bagel bread slices,120.0
+553,3715,butter,20.0
+553,3716,honey,25.0
+553,3717,salt,0.1
+553,3718,parsley powder,0.3
+554,3719,potatoes,800.0
+554,3720,salmon,400.0
+554,3721,Japanese mayo,27.5
+554,3722,spring onions,20.0
+554,3723,tobiko,10.0
+555,3724,banana,150.0
+555,3725,milk,145.0
+555,3726,cream,142.0
+555,3727,vanilla extract,1.0
+555,3728,cinnamon powder,1.0
+555,3729,egg yolks,57.6
+555,3730,sugar,53.7
+556,,,
+557,3731,Eggs,50.0
+557,3732,Sugar,74.0
+557,3733,Warm Milk,28.7
+557,3734,Butter,48.2
+557,3735,Vanilla Extract,0.1
+557,3736,Glutinous Rice Flour,42.8
+557,3737,Tapioca Flour,42.8
+558,3738,butter,125.0
+558,3739,milo powder,10.0
+558,3740,cocoa powder,10.0
+558,3741,salt,2.0
+558,3742,condensed milk,125.0
+558,3743,vanilla extract,4.0
+558,3744,whipping cream,250.0
+558,3745,cookies/biscuits,100.0
+558,3746,dark chocolate,50.0
+559,3747,butter,150.0
+559,3748,milk,274.0
+559,3749,cake flour,150.0
+559,3750,egg yolk,120.0
+559,3751,vanilla extract,0.0
+559,3752,salt,1.5
+560,3753,century egg (pouched egg),50.0
+560,3754,egg (large),50.0
+560,3755,cheese (cheddar),28.0
+560,3756,black pepper (ground),1.0
+560,3757,bacon (crumbled),17.0
+561,3758,chicken thighs,500.0
+561,3759,coconut milk (instant),100.0
+561,3760,ginger root,100.0
+561,3761,spring onions (green tops and bulbs),100.0
+561,3762,chili sauce (blend),100.0
+562,3763,Chicken Breast,250.0
+562,3764,Water,1957.3
+562,3765,Ginger,14.3
+562,3766,Scallion,8.4
+562,3767,Salt and Black Pepper,0.5
+562,3768,Butter,18.3
+562,3769,Garlic Cloves,5.6
+562,3770,Rice,145.7
+562,3771,Lime(s),0.7
+562,3772,Chili Pepper(s),1.2
+562,3773,Olive Oil(s),8.3
+563,3774,vegetables,250.0
+563,3775,onion,80.0
+563,3776,apple,90.0
+563,3777,carrot,80.0
+563,3778,napa cabbage,80.0
+563,3779,spring onion,50.0
+563,3780,ginger,30.0
+563,3781,goji berries,30.0
+563,3782,chicken,500.0
+564,3783,century egg,50.0
+564,3784,chili pepper,50.0
+564,3785,garlic clove,15.0
+564,3786,table salt,2.0
+564,3787,soy sauce (light),15.0
+564,3788,white vinegar (light),15.0
+564,3789,sesame seed,5.0
+565,3790,Coco Crunch cereal flakes,50.0
+566,3791,corn,228.0
+566,3792,cream corn,168.0
+566,3793,brown butter corn,168.0
+566,3794,oats,103.0
+566,3795,flour,18.0
+566,3796,cornstarch,5.0
+566,3797,sugar,7.0
+566,3798,vanilla extract,3.0
+566,3799,whipped cream,20.0
+566,3800,butter,9.0
+567,3801,pastry dough,340.0
+567,3802,cinnamon sugar,30.0
+568,3803,Butter,100.0
+568,3804,Sugar,100.0
+568,3805,Egg,56.0
+568,3806,Vanilla Extract,0.5
+568,3807,Flour (likely a typo for flour),150.0
+568,3808,Baking Butter,50.0
+568,3809,Salt,3.48
+568,3810,Black Sesame Seeds,34.29
+568,3811,Black Sesame Paste,67.83
+569,3812,Durian,125.0
+570,3813,dried longan,25.0
+570,3814,lo-hon-gor or manfurt,25.0
+570,3815,pandan leaves,45.0
+570,3816,gula melaka jaggery,138.0
+570,3817,espresso concentrate,5.0
+571,3818,Potato Fries,250.0
+572,3819,dried persimmon,125.0
+572,3820,sweet potato,50.0
+572,3821,goji berry,25.0
+572,3822,longan,25.0
+572,3823,red date,25.0
+572,3824,raisin,125.0
+572,3825,butter,250.0
+572,3826,jaggery,250.0
+572,3827,egg,150.0
+572,3828,orange,200.0
+572,3829,pear,200.0
+572,3830,all-purpose flour,250.0
+572,3831,baking powder,10.0
+572,3832,Christmas spices,5.0
+572,3833,salt,5.0
+573,3834,Kante,125.0
+573,3835,Whipped Cream,130.0
+573,3836,Condensed Milk,145.0
+574,3837,palm sugar,100.0
+574,3838,coconut milk,250.0
+574,3839,butter,100.0
+574,3840,sugar,200.0
+574,3841,dried ingredients,0.0
+574,3842,eggs,150.0
+574,3843,rum-soaked longan,50.0
+575,3844,Hinamontes Bengali white bread,218.7
+575,3845,Butter,50.0
+575,3846,Kaya jam,50.0
+575,3847,Cured egg yolk,50.0
+576,3848,Kimchi,100.0
+576,3849,Bread,200.0
+576,3850,Cheese,100.0
+577,3851,bread flour,400.0
+577,3852,all-purpose flour,400.0
+577,3853,sugar,120.0
+577,3854,salt,8.0
+577,3855,yeast,25.0
+577,3856,water,400.0
+577,3857,butter,60.0
+578,3858,Pandan Leaves,100.0
+578,3859,Coconut Milk,200.0
+578,3860,Egg,50.0
+578,3861,Sugar,50.0
+578,3862,Salt,1.5
+578,3863,All-Purpose Flour,125.0
+578,3864,Jaggery or Palm Sugar,245.0
+578,3865,Fresh Coconut,165.0
+578,3866,Fresh Pandan Leaves,80.0
+579,3867,Nescafé Gold Intensified Coffee,100.0
+579,3868,Jaggery or Palm Sugar,79.8
+579,3869,All-purpose flour or plain flour,100.0
+579,3870,Full-fat coconut milk,170.3
+579,3871,Brown rice flour or Arborio rice flour (for tapioca layer),78.6
+579,3872,Tapioca starch or arrowroot powder (for tapioca layer),78.6
+579,3873,Common table salt,10.0
+579,3874,Distilled or filtered water (for base and coconut milk layer),185.3
+580,3875,garlic,50.0
+580,3876,ginger,40.0
+580,3877,chilies,30.0
+580,3878,Sichuan peppercorns,20.0
+580,3879,five-spice powder,10.0
+580,3880,Lao Gan Ma chili paste,100.0
+580,3881,spaghetti,180.0
+581,3882,rose syrup,75.0
+581,3883,matcha powder,2.0
+581,3884,pandan juice,52.0
+581,3885,evaporated milk,35.0
+582,3886,Spicy Pollack Roe,50.0
+583,3887,flour,120.0
+583,3888,golden syrup,100.0
+583,3889,lye water,18.0
+583,3890,oil,40.0
+583,3891,Beef,150.0
+583,3892,Parma Ham,50.0
+583,3893,Mushrooms,50.0
+583,3894,Mustard,10.0
+584,3895,beef ground,360.0
+584,3896,onion,30.0
+584,3897,kimchi,50.0
+584,3898,pizza sauce,75.0
+584,3899,pasta broken in half,50.0
+584,3900,ricotta cheese,75.0
+584,3901,mozzarella cheese,75.0
+585,3902,egg whites,120.0
+585,3903,sugar,100.0
+585,3904,corn flour,120.0
+585,3905,egg yolks,120.0
+585,3906,flour,120.0
+585,3907,salt,2.0
+585,3908,milk,120.0
+586,3909,Snow Fungus,80.0
+586,3910,Red Dates,120.0
+586,3911,Goji Berries,75.0
+586,3912,Dried Longans,125.0
+586,3913,Rock Sugar,50.0
+586,3914,Papaya Chunks,75.0
+587,3915,Peanut Butter,348.0
+587,3916,All-Purpose Flour,148.0
+587,3917,Sugar,7.9
+587,3918,Salt,0.0
+587,3919,Baking Powder,0.0
+587,3920,Oil,9.5
+587,3921,Sesame Oil,9.5
+588,,,
+589,,,
+590,3922,,50.0
+590,3923,Rice,75.0
+590,3924,Chicken broth,45.0
+590,3925,Chicken meat  shredded,69.0
+590,3926,Abalone (seafood),23.0
+590,3927,Ginger (root) and Spring onion,23.0
+590,3928,Soy Sauce and Sesame Oil,23.0
+590,3929,Puff Pastry (uncooked),45.0
+591,3930,bacon,92.0
+591,3931,eggs,90.0
+591,3932,parmesan cheese,14.5
+591,3933,potatoes,175.0
+591,3934,water,0.0
+591,3935,potato starch,19.6
+592,3936,potatoes,200.0
+592,3937,whipped cream,200.0
+592,3938,onion,60.0
+592,3939,carrot,90.0
+592,3940,chicken,300.0
+592,3941,curry block,200.0
+592,3942,udon noodles,380.0
+593,3943,Eggs,300.0
+593,3944,Butter,55.6
+593,3945,Milk,74.2
+593,3946,Sugar,49.2
+593,3947,Salt,3.5
+593,3948,Baking Powder,2.2
+593,3949,Vanilla and Cinnamon,2.2
+593,3950,Rice Paper,19.8
+594,3951,butter,50.0
+594,3952,sugar,30.0
+594,3953,instant coffee,24.0
+594,3954,egg,70.0
+594,3955,vanilla extract,0.0
+594,3956,flaky salt,7.5
+595,3957,white bread,300.0
+596,3958,potatoes,500.0
+596,3959,garlic oil and salt,10.0
+596,3960,salmon fillets,400.0
+596,3961,Japanese mayonnaise,20.0
+596,3962,spring onions,20.0
+596,3963,tobiko,20.0
+597,3964,mandarin oranges,300.0
+597,3965,palm sugar,27.0
+597,3966,flour,69.0
+597,3967,salt,0.0
+597,3968,cream,47.0
+597,3969,eggs,145.0
+598,3970,super ring,250.0
+598,3971,cooked rice,250.0
+598,3972,seaweed,130.0
+598,3973,sesame seeds,28.0
+598,3974,sesame oil,23.0
+598,3975,ground beef bulgogi,250.0
+599,3976,Thai tea leaves,120.0
+600,3977,Watermelon,200.0
+600,3978,Tomato,50.0
+600,3979,Mozzarella Cheese,50.0
+600,3980,Basil Leaf,10.0
+600,3981,Extra Virgin Olive Oil,10.0
+600,3982,Balsamic Vinegar,10.0
+600,3983,Salt and Black Pepper,5.0
+600,3984,Prosciutto Ham,25.0
+601,3985,Flour,200.0
+601,3986,Sugar,20.0
+601,3987,Salt,10.0
+601,3988,Baking Powder,5.0
+601,3989,Yeast,1.0
+601,3990,Egg,50.0
+601,3991,Milk,100.0
+601,3992,Tomato,200.0
+601,3993,Cheese,150.0
+601,3994,Prosciutto,50.0
+601,3995,Arugula,100.0
+601,3996,Olive Oil,10.0
+601,3997,Pepper,5.0
+601,3998,Egg Yolks,20.0
+602,,,
+603,3999,Bagels,350.0
+603,4000,Butter,140.0
+603,4001,Honey,80.0
+603,4002,Salt,10.0
+603,4003,MSG,2.0
+603,4004,Parsley Powder,5.0
+604,4005,Potatoes,300.0
+604,4006,Garlic Oil,10.0
+604,4007,Salt,5.0
+604,4008,Salmon,120.0
+604,4009,Japanese Mayo,80.0
+604,4010,Spring Onions,20.0
+604,4011,Tobiko,30.0
+605,4012,Banana,400.0
+605,4013,Milk,80.0
+605,4014,Whipping Cream,150.0
+605,4015,Sugar,100.0
+605,4016,Egg Yolks,60.0
+605,4017,Cinnamon,5.0
+605,4018,Vanilla,5.0
+605,4019,Baking Pan,150.0
+606,4020,Fried Dace,120.0
+606,4021,Salted Black Beans,30.0
+606,4022,Pasta,225.0
+606,4023,Garlic,15.0
+606,4024,Olive Oil,30.0
+607,4025,,140.0
+607,4026,,20.0
+607,4027,,30.0
+607,4028,,50.0
+607,4029,,200.0
+607,4030,,10.0
+607,4031,,15.0
+607,4032,,100.0
+607,4033,,50.0
+607,4034,,120.0
+607,4035,,10.0
+608,4036,Butter,20.0
+608,4037,Milo powder,5.0
+608,4038,Cocoa powder,10.0
+608,4039,Salt,0.01
+608,4040,Condensed milk,120.0
+608,4041,Vanilla,5.0
+608,4042,Cream,30.0
+608,4043,Chocolate sauce,80.0
+608,4044,Biscuits,150.0
+609,4045,Butter,100.0
+609,4046,Milk,50.0
+609,4047,All-purpose Flour,200.0
+609,4048,Egg Yolks,120.0
+609,4049,Vanilla Extract,5.0
+609,4050,Salt,3.0
+609,4051,Egg Whites,120.0
+609,4052,Granulated Sugar,100.0
+610,4053,Century Egg,200.0
+610,4054,Regular Egg,50.0
+610,4055,Cheese,200.0
+610,4056,Black Pepper,5.0
+610,4057,Crispy Bacon,100.0
+610,4058,Pasta,350.0
+611,4059,Chicken,300.0
+611,4060,Ginger,10.0
+611,4061,Spring Onion,20.0
+611,4062,Chili Sauce,50.0
+611,4063,Coconut Milk,1400.0
+612,,,
+613,4064,chicken,800.0
+613,4065,onion,150.0
+613,4066,apple,136.0
+613,4067,carrot,100.0
+613,4068,napa cabbage,200.0
+613,4069,spring onions,50.0
+613,4070,ginger,20.0
+613,4071,goji berries,100.0
+614,4072,chili,100.0
+614,4073,century egg,50.0
+614,4074,garlic,15.0
+614,4075,salt,5.0
+614,4076,sesame,10.0
+614,4077,vinegar,50.0
+614,4078,rice,150.0
+615,4079,Coco Crunch,200.0
+615,4080,Strawberry,100.0
+615,4081,Milk,800.0
+616,4082,corn,500.0
+616,4083,milk,1000.0
+616,4084,egg yolks,60.0
+616,4085,sugar,150.0
+616,4086,flour,100.0
+616,4087,cornstarch,20.0
+616,4088,vanilla,10.0
+616,4089,rum,30.0
+616,4090,whipped cream,300.0
+616,4091,oats,80.0
+616,4092,brown butter,100.0
+617,4093,Frozen Puff Pastry,250.0
+617,4094,Ground Cinnamon,6.0
+617,4095,Granulated Sugar,6.0
+617,4096,Milk,240.0
+618,4097,Butter,120.0
+618,4098,Sugar,180.0
+618,4099,Egg,50.0
+618,4100,Flour,100.0
+618,4101,Black Sesame Seeds,50.0
+618,4102,Black Sesame Paste,20.0
+618,4103,Salt,10.0
+618,4104,Starbucks Black Sesame Tong Yuen,100.0
+619,4105,,250.0
+619,4106,,400.0
+619,4107,,200.0
+619,4108,,150.0
+619,4109,,100.0
+619,4110,,100.0
+620,4111,Gula Melaka,364.0
+620,4112,Pandan,50.0
+620,4113,Longan,364.0
+620,4114,Lo-Hon-Gor,178.0
+620,4115,Espresso,100.0
+621,4116,Potatoes,400.0
+621,4117,Sunflower Oil,20.0
+621,4118,Salt,5.0
+621,4119,Pepper,0.0
+621,4120,No information available,0.0
+622,4121,Persimmons,200.0
+622,4122,Sweet Potatoes,150.0
+622,4123,Goji Berries,50.0
+622,4124,Longans,150.0
+622,4125,Red Dates,120.0
+622,4126,Raisins,25.0
+622,4127,Butter,115.0
+622,4128,Gula Melaka,120.0
+622,4129,Eggs,120.0
+622,4130,Korean Pear,150.0
+622,4131,Flour,900.0
+622,4132,Baking Powder,10.0
+622,4133,Christmas Spices,10.0
+622,4134,Salt,10.0
+622,4135,Rum,1500.0
+623,4136,Sweetened Condensed Milk,400.0
+623,4137,Whipped Cream,250.0
+623,4138,Kante,100.0
+623,4139,Kante Powder,10.0
+623,4140,Miso Paste,20.0
+623,4141,Seaweed Sheets,50.0
+624,4142,Gula Melaka,50.0
+624,4143,Coconut Milk,300.0
+624,4144,Butter,200.0
+624,4145,Sugar,100.0
+624,4146,Eggs,120.0
+624,4147,Longans (Rum Soaked),200.0
+625,4148,Hinane Bengali Style White Bread,1200.0
+625,4149,Unsalted Butter,100.0
+625,4150,Homemade Kaya Jam,800.0
+625,4151,Large Eggs,240.0
+626,4152,Cheese,114.0
+626,4153,Bread,120.0
+626,4154,Kimchi,100.0
+627,4155,Flour,450.0
+627,4156,All-Purpose Flour,110.0
+627,4157,Sugar,22.0
+627,4158,Salt,11.0
+627,4159,Yeast,6.8
+627,4160,Water,350.0
+627,4161,Butter,115.0
+628,4162,,20.0
+628,4163,,100.0
+628,4164,,1.0
+628,4165,,50.0
+628,4166,,20.0
+628,4167,,100.0
+628,4168,,100.0
+628,4169,,10000.0
+629,4170,Gula Melaka,200.0
+629,4171,Instant Coffee,10.0
+629,4172,All-Purpose Flour,120.0
+629,4173,,250.0
+629,4174,White Rice,90.0
+629,4175,Tapioca Starch,45.0
+629,4176,,180.0
+629,4177,Salt,3.75
+629,4178,Full-Fat Coconut Milk,240.0
+630,4179,Garlic,150.0
+630,4180,Ginger,100.0
+630,4181,Chilies,100.0
+630,4182,Sichuan Peppercorns,20.0
+630,4183,Five-Spice Powder,20.0
+630,4184,Lao Gan Ma,50.0
+630,4185,Egg,50.0
+630,4186,Cream,150.0
+630,4187,Soy Sauce,50.0
+630,4188,Sesame Oil,20.0
+630,4189,Spaghetti,100.0
+630,4190,Spring Onions,20.0
+631,4191,,100.0
+631,4192,,20.0
+631,4193,,20.0
+631,4194,,10.0
+631,4195,,50.0
+631,4196,,20.0
+631,4197,,20.0
+631,4198,,20.0
+631,4199,,100.0
+632,4200,Egg,50.0
+632,4201,Cream,120.0
+632,4202,Mentaiko,60.0
+632,4203,Cheese,80.0
+632,4204,Soy Sauce,50.0
+632,4205,Black Pepper,4.0
+632,4206,Pasta,150.0
+633,4207,,364.0
+633,4208,,0.0
+633,4209,,225.0
+633,4210,,0.0
+633,4211,,364.0
+633,4212,,364.0
+633,4213,,364.0
+633,4214,,364.0
+634,4215,ground beef,250.0
+634,4216,onions,150.0
+634,4217,kimchi,50.0
+634,4218,broken pasta,100.0
+634,4219,ricotta cheese,50.0
+634,4220,mozzarella cheese,100.0
+635,,,
+636,4221,Snow Fungus,0.0
+636,4222,Red Dates,100.0
+636,4223,Goji Berries,50.0
+636,4224,Dried Longans,90.0
+636,4225,Rock Sugar,50.0
+636,4226,Papaya,150.0
+637,4227,Peanut Butter,100.0
+637,4228,All-purpose Flour,200.0
+637,4229,Sugar,100.0
+637,4230,Salt,5.0
+637,4231,Baking Powder,1.0
+637,4232,Oil,50.0
+637,4233,Sesame Oil,2.0
+638,4234,sweet cream,50.0
+638,4235,caramel,50.0
+638,4236,berries,20.0
+638,4237,pickle juice,50.0
+639,4238,Flour,364.0
+639,4239,Salt,5.0
+639,4240,Sugar,227.0
+639,4241,Active Dry Yeast,5.0
+639,4242,Milk,48.5
+639,4243,Egg,50.0
+639,4244,Butter,227.0
+639,4245,Pineapple Jam,227.0
+640,4246,Rice,80.0
+640,4247,Chicken Stock,1000.0
+640,4248,Chicken,500.0
+640,4249,Abalone,300.0
+640,4250,Ginger,25.0
+640,4251,Spring Onions,20.0
+640,4252,Soy Sauce,30.0
+640,4253,Sesame Oil,30.0
+640,4254,Frozen Puff Pastry,800.0
+640,4255,Egg,50.0
+641,4256,,120.0
+641,4257,,240.0
+641,4258,,1200.0
+641,4259,,5.0
+641,4260,,60.0
+642,,,
+643,4261,Eggs,120.0
+643,4262,Butter,50.0
+643,4263,Milk,125.0
+643,4264,Sugar,20.0
+643,4265,Salt,5.0
+643,4266,Baking Powder,5.0
+643,4267,Vanilla Extract,5.0
+643,4268,Cinnamon,3.0
+643,4269,Rice Paper,80.0
+643,4270,Baking Powder (for Rice Paper),3.0
+644,4271,butter,100.0
+644,4272,sugar,50.0
+644,4273,flour,200.0
+644,4274,baking powder,5.0
+644,4275,salt,1.0
+644,4276,egg,50.0
+644,4277,vanilla,5.0
+644,4278,instant coffee,20.0
+644,4279,flaky salt,10.0
+645,4280,Butter,50.0
+645,4281,Sugar,25.0
+645,4282,Egg(s),120.0
+645,4283,Coffee,10.0
+645,4284,Vanilla,10.0
+645,4285,Flour,250.0
+646,4286,Potato,200.0
+646,4287,Garlic Oil,50.0
+646,4288,Salt,5.0
+646,4289,Salmon,80.0
+646,4290,Japanese Mayo,50.0
+646,4291,Spring Onions,20.0
+646,4292,Tobiko,10.0
+647,,,
+648,,,
+649,4293,Egg Yolks,120.0
+649,4294,Sugar,80.0
+649,4295,Heavy Cream,220.0
+649,4296,Thai Tea Leaves,20.0
+649,4297,Toasted Coconut Flakes,60.0
+650,4298,watermelon,100.0
+650,4299,tomatoes,50.0
+650,4300,mozzarella,50.0
+650,4301,basil,20.0
+650,4302,olive oil,10.0
+650,4303,balsamic vinegar,5.0
+650,4304,flaky salt,1.0
+650,4305,prosciutto,20.0
+651,,,
+652,,,
+653,4306,bagel,200.0
+653,4307,egg,0.0
+653,4308,cooking oil,28.0
+653,4309,honey,20.0
+653,4310,salt,2.0
+653,4311,parsley powder,2.0
+654,4312,potato,250.0
+654,4313,garlic,20.0
+654,4314,oil,30.0
+654,4315,salmon,150.0
+654,4316,Japanese mayo,100.0
+654,4317,spring onions,50.0
+654,4318,tobiko,20.0
+655,,,
+656,4319,fried dace,250.0
+656,4320,salted black beans,100.0
+656,4321,garlic,6.0
+656,4322,oiloni,21.0
+656,4323,rice,180.0
+656,4324,pasta,120.0
+657,4325,egg,400.0
+657,4326,sugar,200.0
+657,4327,milk,250.0
+657,4328,butter,500.0
+657,4329,vanilla,10.0
+657,4330,flour,1200.0
+657,4331,tapioca flour,600.0
+657,4332,,200.0
+658,,,
+659,4333,butter,250.0
+659,4334,milk,550.0
+659,4335,sugar,2000.0
+659,4336,cake flour,550.0
+659,4337,egg yolk,40.0
+659,4338,vanilla,20.0
+659,4339,salt,5.0
+659,4340,egg white,60.0
+659,4341,none,0.0
+660,,,
+661,4342,chicken,500.0
+661,4343,brown sugar,100.0
+661,4344,fresh lemongrass,50.0
+661,4345,ginger,50.0
+661,4346,shallots,50.0
+661,4347,lime juice,100.0
+661,4348,peas,100.0
+661,4349,coconut milk,1200.0
+661,4350,chili,100.0
+661,4351,soy sauce,50.0
+662,,,
+663,4352,onion,150.0
+663,4353,apple,150.0
+663,4354,carrot,100.0
+663,4355,napa cabbage,100.0
+663,4356,spring onions,50.0
+663,4357,ginger,30.0
+663,4358,goji berries,50.0
+663,4359,chicken,1500.0
+664,4360,,100.0
+664,4361,,100.0
+664,4362,,200.0
+664,4363,,14.0
+664,4364,,7.0
+664,4365,,30.0
+664,4366,,30.0
+665,4367,Coco Crunch,100.0
+665,4368,strawberry,50.0
+665,4369,milk,1000.0
+666,4370,corn,500.0
+666,4371,milk,375.0
+666,4372,milk,7.0
+666,4373,egg,200.0
+666,4374,sugar,350.0
+666,4375,vanilla,5.0
+666,4376,rum,20.0
+666,4377,oats,50.0
+666,4378,brown butter,56.0
+667,4379,,1000.0
+667,4380,,15.0
+667,4381,,50.0
+667,4382,,200.0
+668,4383,butter,100.0
+668,4384,sugar,200.0
+668,4385,egg,50.0
+668,4386,vanilla,5.0
+668,4387,brown sugar,100.0
+668,4388,black sesame seeds,50.0
+668,4389,black sesame paste,20.0
+668,4390,tong yuan,1200.0
+669,,,
+670,4391,jaggery,50.0
+670,4392,,10.0
+670,4393,,50.0
+670,4394,,20.0
+670,4395,,50.0
+671,4396,potato,2000.0
+671,4397,cooking oil,14.0
+671,4398,salt,10.0
+672,4399,egg,100.0
+672,4400,cooking oil,28.0
+672,4401,coconut sugar,750.0
+672,4402,dried persimmon,50.0
+672,4403,dried sweet potato,40.0
+672,4404,dried goji berries,50.0
+672,4405,dried longan,50.0
+672,4406,dried red date,50.0
+672,4407,dried raisin,50.0
+672,4408,baking powder,20.0
+672,4409,Christmas spice mix,10.0
+672,4410,salt,5.0
+672,4411,butter,70.0
+672,4412,orange zest,10.0
+672,4413,orange juice,100.0
+672,4414,Korean pear,50.0
+672,4415,rum,50.0
+673,,,
+674,4416,palm sugar,200.0
+674,4417,coconut oil,70.0
+674,4418,butter,115.0
+674,4419,egg,140.0
+674,4420,palm sugar,200.0
+674,4421,dry ingredients,200.0
+674,4422,longan,100.0
+675,4423,white bread,200.0
+675,4424,butter,50.0
+675,4425,jam,50.0
+675,4426,egg yolk,20.0
+676,4427,Kimchi,200.0
+676,4428,Bread,250.0
+676,4429,Cheese,100.0
+677,,,
+678,4430,pandan leaf,50.0
+678,4431,palm sugar,100.0
+678,4432,egg,120.0
+678,4433,cooking oil,70.0
+678,4434,flour,100.0
+679,,,
+680,4435,garlic,30.0
+680,4436,ginger,40.0
+680,4437,chili,20.0
+680,4438,Sichuan pepper,10.0
+680,4439,five spice powder,10.0
+680,4440,Lao Gan Ma,50.0
+680,4441,oil,20.0
+680,4442,egg,50.0
+680,4443,cream,20.0
+680,4444,soy sauce,50.0
+680,4445,sesame oil,10.0
+680,4446,spring onion,20.0
+680,4447,spaghetti,350.0
+681,4448,rose syrup,30.0
+681,4449,evaporated milk,240.0
+681,4450,pandan leaves,50.0
+681,4451,matcha powder,10.0
+681,4452,ice,50.0
+681,4453,milk,150.0
+681,4454,pandan juice,50.0
+682,4455,spicy pollack roe,100.0
+682,4456,egg,50.0
+682,4457,cream,100.0
+682,4458,soy sauce,20.0
+682,4459,cheese,50.0
+682,4460,black pepper,5.0
+682,4461,pasta,120.0
+683,4462,all-purpose flour,364.0
+683,4463,golden syrup,350.0
+683,4464,lye water,0.0
+683,4465,oil,7.0
+683,4466,beef,250.0
+683,4467,mushroom duxelles,80.0
+683,4468,parma ham,120.0
+683,4469,pastry,280.0
+684,4470,ground beef,250.0
+684,4471,onion,150.0
+684,4472,kimchi,100.0
+684,4473,pasta,120.0
+684,4474,ricotta cheese,80.0
+684,4475,mozzarella cheese,80.0
+685,4476,egg white,120.0
+685,4477,sugar,50.0
+685,4478,corn flour,180.0
+685,4479,egg yolk,50.0
+685,4480,salt,3.0
+685,4481,milk,200.0
+686,4482,snow fungus,120.0
+686,4483,red dates,120.0
+686,4484,goji berries,120.0
+686,4485,dried longans,120.0
+686,4486,rock sugar,120.0
+686,4487,papaya,120.0
+687,4488,peanuts,1000.0
+687,4489,peanut butter,200.0
+687,4490,egg,50.0
+687,4491,cooking oil,14.0
+687,4492,sugar,200.0
+687,4493,baking powder,25.0
+687,4494,sesame oil,10.0
+688,4495,,1500.0
+688,4496,,300.0
+688,4497,,600.0
+688,4498,,1500.0
+688,4499,berries,200.0
+688,4500,sweet cream,300.0
+688,4501,caramel,300.0
+689,,,
+690,,,
+691,4502,bacon,120.0
+691,4503,guanciale,70.0
+691,4504,egg,120.0
+691,4505,parmesan cheese,80.0
+691,4506,potato starch,50.0
+691,4507,,0.0
+691,4508,potato noodle,200.0
+692,4509,potato,250.0
+692,4510,whipped cream,150.0
+692,4511,onion,100.0
+692,4512,carrot,80.0
+692,4513,chicken,300.0
+692,4514,Japanese curry,120.0
+692,4515,udon noodles,1000.0
+693,4516,eggs,1000.0
+693,4517,butter,500.0
+693,4518,milk,50.0
+693,4519,sugar,100.0
+693,4520,salt,10.0
+693,4521,baking powder,20.0
+693,4522,vanilla,10.0
+693,4523,cinnamon,10.0
+693,4524,rice paper,40000.0
+694,4525,butter,100.0
+694,4526,sugar,200.0
+694,4527,instant coffee,20.0
+694,4528,egg,50.0
+694,4529,vanilla extract,5.0
+694,4530,flour,120.0
+694,4531,baking powder,10.0
+694,4532,salt,5.0
+694,4533,table salt,10.0
+694,4534,flaky salt,10.0
+695,4535,butter,115.0
+695,4536,sugar,100.0
+695,4537,egg,150.0
+695,4538,instant coffee,50.0
+695,4539,hot water,0.0
+695,4540,vanilla,10.0
+695,4541,flour,450.0
+696,4542,potato,200.0
+696,4543,garlic,10.0
+696,4544,cooking oil,20.0
+696,4545,salmon,150.0
+696,4546,Japanese mayo,50.0
+696,4547,spring onions,20.0
+696,4548,tobiko,10.0
+697,4549,,50.0
+697,4550,,14.0
+697,4551,egg,120.0
+697,4552,,150.0
+697,4553,all-purpose flour,80.0
+697,4554,baking powder,10.0
+697,4555,baking soda,5.0
+697,4556,,5.0
+697,4557,butter,70.0
+697,4558,,150.0
+697,4559,cream,35.0
+698,,,
+699,,,
+700,4560,watermelon,200.0
+700,4561,tomato,120.0
+700,4562,mozzarella cheese,80.0
+700,4563,basil leaves,20.0
+700,4564,olive oil,10.0
+700,4565,balsamic vinegar,50.0
+700,4566,salt,10.0
+700,4567,black pepper,10.0
+700,4568,prosciutto,50.0
+701,4569,flour,340.0
+701,4570,sugar,18.0
+701,4571,salt,5.0
+701,4572,baking powder,10.0
+701,4573,yeast,5.0
+701,4574,egg,50.0
+701,4575,milk,160.0
+701,4576,tomato sauce,200.0
+701,4577,mozzarella cheese,80.0
+701,4578,prosciutto,50.0
+701,4579,arugula,20.0
+701,4580,olive oil,10.0
+701,4581,cured egg yolk,30.0
+701,4582,black pepper,2.0
+702,4583,apple,250.0
+702,4584,,0.0
+703,4585,Bagels,360.0
+703,4586,Butter,110.0
+703,4587,Honey,60.0
+703,4588,Salt,5.0
+703,4589,MSG (optional),2.0
+703,4590,Parsley powder (optional),5.0
+704,4591,potatoes,250.0
+704,4592,garlic oil,20.0
+704,4593,salt,5.0
+704,4594,salmon,150.0
+704,4595,Japanese mayo,20.0
+704,4596,spring onions,20.0
+704,4597,tobiko,10.0
+705,4598,banana,150.0
+705,4599,milk,80.0
+705,4600,whipping cream,150.0
+705,4601,vanilla,10.0
+705,4602,cinnamon powder,10.0
+705,4603,egg yolks,120.0
+705,4604,sugar,100.0
+706,4605,fried dace,125.0
+706,4606,salted black beans,52.0
+706,4607,garlic,15.0
+706,4608,pasta (spaghetti),200.0
+706,4609,oil (olive),45.0
+706,4610,salt,5.0
+707,4611,Butter,120.0
+707,4612,Sugar,200.0
+707,4613,Egg(s),60.0
+707,4614,Milk,100.0
+707,4615,Vanilla extract,5.0
+707,4616,Glutinous rice flour,50.0
+707,4617,Tapioca flour,25.0
+707,4618,Kuih balu mold,10.0
+708,4619,Milo powder,100.0
+708,4620,cocoa powder,100.0
+708,4621,salt,10.0
+708,4622,condensed milk,300.0
+708,4623,vanilla,10.0
+708,4624,cream,150.0
+708,4625,classic Mary biscuits,200.0
+708,4626,chocolate sauce,150.0
+708,4627,melted chocolate,100.0
+708,4628,ganache,100.0
+709,4629,Butter,250.0
+709,4630,Milk,280.0
+709,4631,Cake Flour,540.0
+709,4632,Egg Yolks,180.0
+709,4633,Vanilla,10.0
+709,4634,Salt,6.0
+710,4635,Century Egg,200.0
+710,4636,Egg,50.0
+710,4637,Cheese,150.0
+710,4638,Black Pepper,5.0
+710,4639,Bacon,100.0
+711,4640,chicken breast,500.0
+711,4641,instant coconut milk,240.0
+711,4642,ginger,20.0
+711,4643,spring onion,10.0
+711,4644,salt,5.0
+711,4645,chili sauce,60.0
+712,4646,Chicken Breast,550.0
+712,4647,Rice,225.0
+712,4648,Ginger,60.0
+712,4649,Scallion,15.0
+712,4650,Garlic,30.0
+712,4651,Butter,35.0
+712,4652,Chicken Broth,1100.0
+712,4653,Lime Juice,70.0
+712,4654,Soy Sauce,25.0
+712,4655,Ginger Paste,25.0
+712,4656,Oil,20.0
+712,4657,Sesame Oil,15.0
+712,4658,Scallion Oil,15.0
+713,4659,chicken,1000.0
+713,4660,onion,200.0
+713,4661,apple,150.0
+713,4662,carrot,100.0
+713,4663,napa cabbage,200.0
+713,4664,spring onions,20.0
+713,4665,ginger,20.0
+713,4666,goji berries,100.0
+714,4667,Century Eggs,200.0
+714,4668,Spicy Green Chilies,150.0
+714,4669,Garlic,30.0
+714,4670,Salt,5.0
+714,4671,Sesame,20.0
+714,4672,Vinegar,20.0
+715,4673,Coco Crunch,500.0
+715,4674,Strawberry,200.0
+715,4675,Milk,240.0
+715,4676,Sugar,100.0
+715,4677,Salt,20.0
+715,4678,Cocoa Powder,50.0
+715,4679,Flavor Enhancer,10.0
+716,4680,Flour,270.0
+716,4681,Corn Cobs,600.0
+716,4682,Milk,550.0
+716,4683,Egg Yolks,120.0
+716,4684,Sugar,220.0
+716,4685,Brown Butter,60.0
+716,4686,Cornstarch,15.0
+716,4687,Vanilla Extract,5.0
+716,4688,Rum,30.0
+716,4689,Whipped Cream,230.0
+716,4690,Oats,60.0
+716,4691,Salt,5.0
+717,4692,Frozen Puff Pastry,120.0
+717,4693,Cinnamon,5.0
+717,4694,Sugar,10.0
+717,4695,Milk,240.0
+718,4696,Black Sesame Seeds,200.0
+718,4697,Black Sesame Paste,50.0
+718,4698,Tong Yuen,4000.0
+718,4699,Egg,50.0
+718,4700,Flour,2000.0
+718,4701,Granulated Sugar,1000.0
+718,4702,Salt,5.0
+718,4703,Unsalted Butter,100.0
+719,4704,chicken breast,550.0
+719,4705,potatoes,225.0
+719,4706,carrots,175.0
+719,4707,durian flesh,125.0
+719,4708,curry paste,50.0
+719,4709,coconut milk,450.0
+719,4710,fish sauce,25.0
+719,4711,sugar,20.0
+719,4712,tamarind paste,20.0
+719,4713,curry powder,15.0
+719,4714,salt,10.0
+720,4715,Gula Melaka,80.0
+720,4716,Pandan Leaves,25.0
+720,4717,Longan Fruit (Dried),35.0
+720,4718,Vanilla Sweet Nescafe Espresso Concentrate,120.0
+720,4719,Espresso (or Nescafe Espresso Concentrate),60.0
+721,4720,potatoes,2000.0
+721,4721,oil,500.0
+721,4722,salt,10.0
+721,4723,pepper,5.0
+721,4724,cooking oil for frying,30.0
+722,4725,Sweet potatoes,200.0
+722,4726,Goji berries,100.0
+722,4727,Longans,150.0
+722,4728,Red dates,100.0
+722,4729,Raisins,50.0
+722,4730,Butter,100.0
+722,4731,Gula melaka,50.0
+722,4732,Eggs,120.0
+722,4733,Korean pear,50.0
+722,4734,Flour,200.0
+722,4735,Baking powder,10.0
+722,4736,Christmas spices,5.0
+722,4737,Salt,2.0
+722,4738,Rum,150.0
+723,4739,,250.0
+723,4740,,150.0
+723,4741,,200.0
+723,4742,,100.0
+723,4743,,50.0
+723,4744,,100.0
+723,4745,,25.0
+723,4746,,50.0
+723,4747,,50.0
+723,4748,,25.0
+724,4749,Gula Melaka,300.0
+724,4750,Coconut milk,100.0
+724,4751,Butter,225.0
+724,4752,Eggs,225.0
+724,4753,All-purpose flour,540.0
+724,4754,Gula Melaka,300.0
+724,4755,Rum,150.0
+724,4756,Longans,450.0
+725,4757,Hinanese Bengali style white bread,250.0
+725,4758,butter,100.0
+725,4759,Kaya,100.0
+725,4760,egg yolk,20.0
+726,4761,Bread,120.0
+726,4762,Cheese,80.0
+726,4763,Kimchi,100.0
+727,4764,All-Purpose Flour,1200.0
+727,4765,Bread Flour,550.0
+727,4766,Sugar,225.0
+727,4767,Salt,12.0
+727,4768,Yeast,15.0
+727,4769,Water,75.0
+727,4770,Butter,220.0
+728,4771,Pandan leaves,120.0
+728,4772,Coconut milk,400.0
+728,4773,Egg,120.0
+728,4774,Palm sugar,200.0
+728,4775,Salt,5.0
+728,4776,Oil,30.0
+728,4777,Flour,100.0
+729,,,
+730,4778,,100.0
+730,4779,,20.0
+730,4780,,50.0
+730,4781,,10.0
+730,4782,,10.0
+730,4783,,20.0
+730,4784,,10.0
+730,4785,Lao Gan Ma,50.0
+730,4786,,20.0
+730,4787,,20.0
+730,4788,,100.0
+730,4789,,50.0
+730,4790,,50.0
+730,4791,,10.0
+730,4792,,10.0
+730,4793,,10.0
+730,4794,,10.0
+730,4795,,10.0
+731,4796,Rose Syrup,100.0
+731,4797,Evaporated Milk,120.0
+731,4798,Pandan Leaves,20.0
+731,4799,Matcha Powder,10.0
+731,4800,Ice,150.0
+731,4801,Fresh Milk,120.0
+731,4802,Pandan Matcha Mix,50.0
+732,4803,spicy pollack roe,100.0
+732,4804,egg,50.0
+732,4805,cream,50.0
+732,4806,soy sauce,20.0
+732,4807,cheese,50.0
+732,4808,black pepper,5.0
+733,4809,Flour,250.0
+733,4810,Golden Syrup,60.0
+733,4811,Lye Water,60.0
+733,4812,Oil,15.0
+733,4813,Beef,250.0
+733,4814,Mushroom Duxelles,120.0
+733,4815,Parma Ham,70.0
+733,4816,Mustard,8.0
+733,4817,Pastry Dough,200.0
+734,4818,Ground Beef,250.0
+734,4819,Onion,150.0
+734,4820,Kimchi,200.0
+734,4821,Pasta,100.0
+734,4822,Ricotta Cheese,100.0
+734,4823,Mozzarella Cheese,100.0
+735,4824,Egg whites,120.0
+735,4825,Sugar,200.0
+735,4826,Corn flour,150.0
+735,4827,Egg yolks,50.0
+735,4828,Salt,5.0
+735,4829,Milk,100.0
+735,4830,Honey,60.0
+735,4831,Honey butter with butter,100.0
+735,4832,Soy sauce,20.0
+735,4833,Vanilla extract,10.0
+736,4834,,350.0
+736,4835,,100.0
+736,4836,,50.0
+736,4837,,50.0
+736,4838,,500.0
+737,4839,Peanut Butter,57.0
+737,4840,All-Purpose Flour,120.0
+737,4841,Granulated Sugar,110.0
+737,4842,Salt,5.0
+737,4843,Baking Powder,4.0
+737,4844,Oil,18.0
+737,4845,Sesame Oil,5.0
+737,4846,Peanuts,100.0
+738,4847,Pickles,450.0
+738,4848,Berries,150.0
+738,4849,Sweet Cream,200.0
+738,4850,Caramel,50.0
+739,4851,Flour,250.0
+739,4852,Yeast,7.0
+739,4853,Sugar,200.0
+739,4854,Milk,240.0
+739,4855,Butter,115.0
+739,4856,Pineapple Jam,240.0
+739,4857,Eggs,50.0
+739,4858,Salt,3.0
+739,4859,Sugar,5.0
+739,4860,Yeast Activator,20.0
+739,4861,Milk,240.0
+740,4862,Rice,100.0
+740,4863,Chicken Stock (homemade),400.0
+740,4864,Shredded Chicken,100.0
+740,4865,Abalone,25.0
+740,4866,Ginger,5.0
+740,4867,Spring Onions,5.0
+740,4868,Soy Sauce,5.0
+740,4869,Sesame Oil,5.0
+740,4870,Frozen Puff Pastry,100.0
+741,4871,Bacon,230.0
+741,4872,Guanciale,90.0
+741,4873,Potatoes,360.0
+741,4874,Egg,50.0
+741,4875,Parmesan Cheese,180.0
+741,4876,Black Pepper,5.0
+742,4877,Potatoes,200.0
+742,4878,Onions,80.0
+742,4879,Carrots,40.0
+742,4880,Chicken Breast,45.0
+742,4881,Whipped Cream,80.0
+742,4882,Japanese Curry Powder,8.0
+742,4883,Udon Noodles,180.0
+743,4884,Eggs,120.0
+743,4885,Butter,115.0
+743,4886,Milk,240.0
+743,4887,Sugar,5.0
+743,4888,Salt,1.0
+743,4889,Baking Powder,5.0
+743,4890,Vanilla,5.0
+743,4891,Cinnamon,2.0
+743,4892,Rice Paper,60.0
+744,4893,butter,120.0
+744,4894,sugar,80.0
+744,4895,instant coffee,20.0
+744,4896,egg,120.0
+744,4897,vanilla extract,5.0
+744,4898,all-purpose flour,200.0
+744,4899,baking powder,10.0
+744,4900,salt,10.0
+745,4901,Flour,450.0
+745,4902,Butter,90.0
+745,4903,Sugar,45.0
+745,4904,Eggs,120.0
+745,4905,Instant Coffee,18.0
+745,4906,Vanilla,4.0
+745,4907,Milk,90.0
+746,4908,,500.0
+746,4909,,200.0
+746,4910,,100.0
+746,4911,,1000.0
+746,4912,,50.0
+746,4913,,50.0
+747,4914,Mandarin Oranges,250.0
+747,4915,Sugar,200.0
+747,4916,Eggs,240.0
+747,4917,Flour,400.0
+747,4918,Baking Powder,5.0
+747,4919,Baking Soda,5.0
+747,4920,Salt,1.0
+747,4921,Palm Sugar,200.0
+747,4922,Butter,30.0
+747,4923,Cream,30.0
+748,4924,Cooked Rice,800.0
+748,4925,Seaweed Sheets,200.0
+748,4926,Sesame Seeds,20.0
+748,4927,Sesame Oil,15.0
+748,4928,Ground Beef Bulgogi,200.0
+748,4929,Super Ring,100.0
+749,4930,Eggs,320.0
+749,4931,Sugar,200.0
+749,4932,Heavy Cream,540.0
+749,4933,Thai Tea Leaves,10.0
+749,4934,Coconut Flakes,140.0
+749,4935,Unsalted Butter  for Greasing the Loaf Tin,14.0
+750,4936,Watermelon,300.0
+750,4937,Tomatoes,150.0
+750,4938,Mozzarella,50.0
+750,4939,Basil,10.0
+750,4940,Olive Oil,20.0
+750,4941,Balsamic Vinegar,10.0
+750,4942,Flaky Salt,2.0
+750,4943,Prosciutto,20.0
+751,4944,flour,300.0
+751,4945,sugar,20.0
+751,4946,salt,5.0
+751,4947,baking powder,10.0
+751,4948,yeast,5.0
+751,4949,egg,50.0
+751,4950,milk,190.0
+751,4951,tomato,150.0
+751,4952,mozzarella,120.0
+751,4953,prosciutto,100.0
+751,4954,arugula,20.0
+751,4955,olive oil,20.0
+751,4956,cured egg yolks,50.0
+751,4957,black pepper,5.0
+752,4958,Apple,150.0
+753,4959,Bagels,240.0
+753,4960,Butter,50.0
+753,4961,Honey,20.0
+753,4962,Salt,3.0
+753,4963,MSG,2.0
+753,4964,Parsley Powder,2.0
+754,4965,,800.0
+754,4966,,0.0
+754,4967,,50.0
+754,4968,,20.0
+754,4969,,50.0
+755,4970,banana,100.0
+755,4971,milk,100.0
+755,4972,whipping cream,200.0
+755,4973,vanilla,5.0
+755,4974,cinnamon powder,3.0
+755,4975,egg yolks,120.0
+755,4976,sugar,50.0
+756,4977,Salted Black Beans,230.0
+756,4978,Fried Dace,180.0
+756,4979,Garlic,30.0
+756,4980,Olive Oil,28.0
+756,4981,Pasta,370.0
+757,4982,Eggs,180.0
+757,4983,Sugar,364.0
+757,4984,Warm Milk,400.0
+757,4985,Butter,225.0
+757,4986,Vanilla,10.0
+757,4987,Glutinous Rice Flour,150.0
+757,4988,Tapioca Flour,100.0
+758,4989,Butter,112.0
+758,4990,Milo Powder,25.0
+758,4991,Cocoa Powder,25.0
+758,4992,Salt,5.0
+758,4993,Condensed Milk,150.0
+758,4994,Vanilla,5.0
+758,4995,Cream,100.0
+758,4996,Biscuits,100.0
+758,4997,Chocolate Sauce,200.0
+758,4998,Melted Chocolate,250.0
+759,4999,Cake Flour,90.0
+759,5000,Egg Yolks,120.0
+759,5001,Vanilla,5.0
+759,5002,Salt,2.5
+759,5003,Egg Whites,75.0
+759,5004,Sugar,36.0
+760,5005,Century Egg,100.0
+760,5006,Egg,50.0
+760,5007,Cheese,100.0
+760,5008,Bacon,50.0
+760,5009,Black Pepper,5.0
+761,5010,,1200.0
+761,5011,,200.0
+761,5012,,100.0
+761,5013,,100.0
+761,5014,,50.0
+761,5015,,100.0
+761,5016,,20.0
+761,5017,,
+762,5018,Chicken Breast,500.0
+762,5019,Ginger,25.0
+762,5020,Scallion,10.0
+762,5021,Salt,5.0
+762,5022,Pepper,5.0
+762,5023,Rice,100.0
+762,5024,Chicken Broth,25.0
+762,5025,Butter,100.0
+762,5026,Garlic,10.0
+762,5027,Ice Cream Scoop,0.0
+762,5028,Lime Juice,50.0
+762,5029,Chili Sauce,100.0
+762,5030,Ginger Sauce,50.0
+762,5031,Oil,50.0
+763,5032,,0.0
+763,5033,,0.0
+763,5034,,0.0
+763,5035,,0.0
+763,5036,,0.0
+763,5037,,0.0
+763,5038,,0.0
+763,5039,,0.0
+763,5040,,0.0
+763,5041,,1000.0
+764,5042,garlic,0.0
+764,5043,salt,0.0
+764,5044,spicy green chilies,100.0
+764,5045,sweeter chilies,100.0
+764,5046,soy sauce,50.0
+764,5047,vinegar,50.0
+764,5048,sesame,50.0
+764,5049,,100.0
+765,5050,Coco Crunch,30.0
+765,5051,Strawberries,120.0
+765,5052,Milk,240.0
+766,5053,,400.0
+766,5054,,0.0
+766,5055,,100.0
+766,5056,,50.0
+766,5057,,20.0
+766,5058,,200.0
+766,5059,,20.0
+766,5060,,0.0
+766,5061,,200.0
+766,5062,,200.0
+766,5063,,50.0
+766,5064,,20.0
+766,5065,,100.0
+766,5066,,50.0
+766,5067,,20.0
+766,5068,,200.0
+766,5069,,50.0
+766,5070,,20.0
+767,5071,Puff Pastry,1000.0
+767,5072,Cinnamon,2.5
+767,5073,Sugar,2.5
+767,5074,Milk,120.0
+768,5075,,600.0
+768,5076,,400.0
+768,5077,,100.0
+768,5078,,50.0
+768,5079,,5.0
+768,5080,,10.0
+768,5081,,5.0
+768,5082,,100.0
+769,5083, Chicken Breast ,500.0
+769,5084, Curry Paste ,50.0
+769,5085, Potatoes ,200.0
+769,5086, Carrots ,100.0
+769,5087, Durian ,250.0
+770,5088,Longan,100.0
+770,5089,Lo-Hon-Gor,50.0
+770,5090,Pandan,20.0
+770,5091,Gula Melaka,100.0
+770,5092,Vanilla Nescafe Espresso Concentrate,100.0
+771,,,
+772,5093,Persimmons,100.0
+772,5094,Sweet Potatoes,80.0
+772,5095,Goji Berries,30.0
+772,5096,Longans,30.0
+772,5097,Red Dates,30.0
+772,5098,Raisins,30.0
+772,5099,Gula Melaka,50.0
+772,5100,Butter,70.0
+772,5101,Eggs,120.0
+772,5102,Orange Zest,10.0
+772,5103,Orange Juice,50.0
+772,5104,Flour,1000.0
+772,5105,Baking Powder,10.0
+772,5106,Christmas Spices,10.0
+772,5107,Salt,5.0
+772,5108,Rum,100.0
+773,5109,,400.0
+773,5110,,200.0
+773,5111,,100.0
+773,5112,,50.0
+774,5113,,200.0
+774,5114,,100.0
+774,5115,,400.0
+774,5116,,20.0
+774,5117,,200.0
+774,5118,,10.0
+774,5119,,10.0
+774,5120,,2.5
+774,5121,,400.0
+774,5122,,500.0
+774,5123,,10.0
+774,5124,,10.0
+774,5125,,20.0
+774,5126,,200.0
+775,5127,White Bread,1200.0
+775,5128,Butter,100.0
+775,5129,Kaya,500.0
+775,5130,Egg Yolk,80.0
+776,,,
+777,5131,Bread flour,500.0
+777,5132,All-purpose flour,100.0
+777,5133,Sugar,20.0
+777,5134,Salt,10.0
+777,5135,Yeast,5.0
+777,5136,Water,0.0
+777,5137,Butter,140.0
+778,,,
+779,5138,Instant Coffee,6.0
+779,5139,Jaggery,50.0
+779,5140,All-Purpose Flour,364.0
+779,5141,White Rice,350.0
+779,5142,Tapioca Starch,120.0
+779,5143,Water,200.0
+779,5144,Granulated Sugar,364.0
+779,5145,Table Salt,6.0
+780,5146,Garlic,45.0
+780,5147,Ginger,20.0
+780,5148,Chilies,30.0
+780,5149,Sichuan Peppercorns,15.0
+780,5150,Five-Spice Powder,20.0
+780,5151,Lao Gan Ma,30.0
+780,5152,Egg,50.0
+780,5153,Cream,150.0
+780,5154,Soy Sauce,20.0
+780,5155,Sesame Oil,15.0
+780,5156,Spaghetti,350.0
+780,5157,Spring Onions,20.0
+781,5158,,200.0
+781,5159,,100.0
+781,5160,,100.0
+781,5161,,10.0
+781,5162,,5.0
+782,5163,Spicy Pollack Roe,50.0
+782,5164,Egg,50.0
+782,5165,Heavy Cream,120.0
+782,5166,Soy Sauce,30.0
+782,5167,Cheddar Cheese,100.0
+782,5168,Black Pepper,5.0
+783,5169,Flour,225.0
+783,5170,Golden Syrup,55.0
+783,5171,Lye Water,22.0
+783,5172,Oil,22.0
+783,5173,Beef,165.0
+783,5174,Mushroom Duxelles,110.0
+783,5175,Parma Ham,22.0
+783,5176,Mustard,5.0
+784,5177,Ground beef,100.0
+784,5178,Onions,50.0
+784,5179,Kimchi,20.0
+784,5180,Tomato sauce,100.0
+784,5181,Pasta,50.0
+784,5182,Ricotta,20.0
+784,5183,Mozzarella,20.0
+785,5184,Egg Whites,120.0
+785,5185,Sugar,50.0
+785,5186,Corn Flour,120.0
+785,5187,Egg Yolks,30.0
+785,5188,Flour,120.0
+785,5189,Salt,2.0
+785,5190,Milk,50.0
+786,,,
+787,5191,peanut butter,100.0
+787,5192,all-purpose flour,100.0
+787,5193,granulated sugar,100.0
+787,5194,salt,6.0
+787,5195,baking powder,10.0
+787,5196,oil,100.0
+787,5197,sesame oil,10.0
+788,5198,Sweet Cream,200.0
+788,5199,Caramel,100.0
+788,5200,Mixed Berries,150.0
+788,5201,Pickle Shavings,200.0
+789,5202,flour,200.0
+789,5203,yeast,10.0
+789,5204,milk,100.0
+789,5205,sugar,20.0
+789,5206,eggs,240.0
+789,5207,butter,50.0
+789,5208,pineapple jam,200.0
+790,5209,,89.0
+790,5210,,178.0
+790,5211,,28.0
+790,5212,,28.0
+790,5213,,36.0
+791,5214,Guanciale,114.0
+791,5215,Egg,50.0
+791,5216,Parmesan Cheese,50.0
+791,5217,Potatoes,250.0
+791,5218,Potato Starch,35.0
+791,5219,Water,35.0
+792,5220,potatoes,750.0
+792,5221,whipped cream,190.0
+792,5222,onions,135.0
+792,5223,carrots,90.0
+792,5224,chicken breast,190.0
+792,5225,Japanese curry powder,15.0
+792,5226,udon noodles,180.0
+793,5227,Eggs,100.0
+793,5228,Butter,50.0
+793,5229,Milk,50.0
+793,5230,Sugar,20.0
+793,5231,Salt,5.0
+793,5232,Baking Powder,5.0
+793,5233,Vanilla,5.0
+793,5234,Cinnamon,5.0
+793,5235,Rice Paper,200.0
+793,5236,Water,50.0
+794,5237,Butter,100.0
+794,5238,Sugar,50.0
+794,5239,Flour,240.0
+794,5240,Egg,50.0
+794,5241,Vanilla,10.0
+794,5242,Baking Powder,20.0
+794,5243,Salt,5.0
+794,5244,Coffee,10.0
+795,5245,Flour,250.0
+795,5246,Eggs,50.0
+795,5247,Sugar,20.0
+795,5248,Butter,50.0
+795,5249,Milk,20.0
+795,5250,Instant Coffee,10.0
+795,5251,Vanilla,10.0
+796,5252,Potatoes,450.0
+796,5253,Garlic,10.0
+796,5254,Garlic Oil,20.0
+796,5255,Salt,5.0
+796,5256,Salmon,225.0
+796,5257,Mayonnaise,30.0
+796,5258,Chopped Spring Onions,25.0
+796,5259,Tobiko,10.0
+797,5260,,200.0
+797,5261,,100.0
+797,5262,,45.0
+797,5263,,15.0
+797,5264,,6.0
+797,5265,,1000.0
+797,5266,,250.0
+797,5267,,500.0
+797,5268,,50.0
+798,5269,Super Ring,250.0
+798,5270,Cooked White Rice,450.0
+798,5271,Dried Seaweed Sheets,20.0
+798,5272,Sesame Seeds,25.0
+798,5273,Sesame Oil,15.0
+799,5274,Thai Tea Leaves,40.0
+799,5275,Heavy Cream,440.0
+799,5276,Sugar,113.0
+799,5277,Eggs,140.0
+799,5278,Coconut Flakes,113.0
+800,5279,Watermelon,180.0
+800,5280,Tomatoes,100.0
+800,5281,Mozzarella,80.0
+800,5282,Basil,10.0
+800,5283,Olive Oil,20.0
+800,5284,Balsamic Vinegar,30.0
+800,5285,Flaky Salt,10.0
+800,5286,Pepper,10.0
+800,5287,Prosciutto,60.0
+801,5288,flour,250.0
+801,5289,sugar,55.0
+801,5290,salt,11.0
+801,5291,yeast,20.0
+801,5292,egg,120.0
+801,5293,milk,140.0
+801,5294,olive oil,22.0
+801,5295,arugula,100.0
+801,5296,,55.0
+801,5297,black pepper,11.0
+802,5298,Apple,250.0
+802,5299,No additional ingredients needed,0.0
+803,5300,Bagels,300.0
+803,5301,Butter,100.0
+803,5302,Honey,200.0
+803,5303,Salt,10.0
+803,5304,MSG,5.0
+803,5305,Parsley Powder,5.0
+804,5306,Japanese Potatoes,400.0
+804,5307,Salmon,200.0
+804,5308,Garlic,10.0
+804,5309,Salt,3.0
+804,5310,Garlic Oil,30.0
+804,5311,Japanese Mayo,100.0
+804,5312,Spring Onions,20.0
+804,5313,Tobiko,20.0
+805,5314,Banana,150.0
+805,5315,Milk,125.0
+805,5316,Whipping cream,80.0
+805,5317,Vanilla,5.0
+805,5318,Cinnamon powder,3.0
+805,5319,Egg yolks,60.0
+805,5320,Sugar,25.0
+806,5321,,250.0
+806,5322,,200.0
+806,5323,,500.0
+806,5324,,6.0
+806,5325,,80.0
+806,5326,,80.0
+807,5327,Eggs,120.0
+807,5328,Sugar,364.0
+807,5329,Milk,240.0
+807,5330,Butter,224.0
+807,5331,Glutinous Rice Flour,80.0
+807,5332,Tapioca Flour,100.0
+807,5333,Vanilla,6.0
+808,5334,,200.0
+808,5335,butter,100.0
+808,5336,Milo powder,25.0
+808,5337,cocoa powder,25.0
+808,5338,salt,2.5
+808,5339,condensed milk,200.0
+808,5340,vanilla,10.0
+808,5341,cream,25.0
+808,5342,biscuits,100.0
+808,5343,chocolate sauce,25.0
+809,5344,Butter,50.0
+809,5345,Milk,28.5
+809,5346,Cake Flour,100.0
+809,5347,Egg Yolks,30.0
+809,5348,Vanilla,5.0
+809,5349,Salt,5.0
+809,5350,Egg Whites,120.0
+809,5351,Sugar,100.0
+810,5352,,50.0
+810,5353,,100.0
+810,5354,,50.0
+810,5355,,50.0
+810,5356,,10.0
+811,,,
+812,,,
+813,5357,chicken,500.0
+813,5358,onion,150.0
+813,5359,apple,100.0
+813,5360,carrot,100.0
+813,5361,napa cabbage,200.0
+813,5362,spring onion,20.0
+813,5363,ginger,20.0
+813,5364,goji berries,50.0
+814,5365,,0.0
+814,5366,,150.0
+814,5367,,100.0
+814,5368,,100.0
+814,5369,,20.0
+814,5370,,20.0
+814,5371,,50.0
+814,5372,,50.0
+815,5373,Cocoa Rice,0.0
+815,5374,Sugar,364.0
+815,5375,Strawberry Puree,180.0
+815,5376,Salt,10.0
+815,5377,Vanilla Extract,15.0
+816,5378,corn,1500.0
+816,5379,milk,700.0
+816,5380,corn cobs,100.0
+816,5381,egg yolks,240.0
+816,5382,sugar,200.0
+816,5383,flour,80.0
+816,5384,cornstarch,35.0
+816,5385,vanilla extract,5.0
+816,5386,rum,20.0
+816,5387,whipped cream,300.0
+816,5388,oats,100.0
+817,5389,Frozen Puff Pastry,500.0
+817,5390,,120.0
+817,5391,,30.0
+818,5392,Butter,113.4
+818,5393,Sugar,113.1
+818,5394,Egg,142.1
+818,5395,Flour,364.0
+818,5396,Baking Butter,56.2
+818,5397,Salt,3.2
+818,5398,Black Sesame Seeds,40.7
+818,5399,Black Sesame Paste,18.1
+819,5400,chicken,113.4
+819,5401,potatoes,56.8
+819,5402,carrots,56.8
+819,5403,curry paste,20.0
+819,5404,durian,225.0
+820,5405,,100.0
+820,5406,,100.0
+820,5407,,20.0
+820,5408,,30.0
+820,5409,,20.0
+821,5410,potatoes,500.0
+821,5411,oil,100.0
+821,5412,salt,10.0
+822,5413,Dried Persimmons,100.0
+822,5414,Sweet Potatoes,50.0
+822,5415,Goji Berries,20.0
+822,5416,Longans,30.0
+822,5417,Red Dates,25.0
+822,5418,Raisins,10.0
+822,5419,Gula Melaka,100.0
+822,5420,Butter,50.0
+822,5421,Eggs,120.0
+822,5422,Orange Zest and Juice,50.0
+822,5423,Korean Pear,20.0
+822,5424,Flour,200.0
+822,5425,Baking Powder,5.0
+822,5426,Christmas Spices,2.0
+822,5427,Salt,1.0
+822,5428,Rum,100.0
+823,5429,Kante,250.0
+823,5430,Condensed Milk,1200.0
+823,5431,Whipped Cream,1600.0
+823,5432,Kante Powder,50.0
+823,5433,Miso Caramel,600.0
+823,5434,Seaweed Snack,200.0
+824,5435,Gula Melaka,100.0
+824,5436,Coconut Milk,180.0
+824,5437,Butter,113.4
+824,5438,Sugar,364.0
+824,5439,Eggs,120.0
+824,5440,Rum Soaked Longans,200.0
+825,5441,Hinane Bengali white bread,250.0
+825,5442,,50.0
+825,5443,,150.0
+825,5444,,15.0
+826,5445,Bread,100.0
+826,5446,Cheese,50.0
+826,5447,Kimchi,100.0
+827,5448,Bread Flour,364.0
+827,5449,All-Purpose Flour,114.0
+827,5450,Sugar,21.0
+827,5451,Salt,11.0
+827,5452,Yeast,7.0
+827,5453,Water,350.0
+827,5454,Unsalted Butter,57.0
+828,,,
+829,5455,Gula Melaka,40.0
+829,5456,Flour,120.0
+829,5457,Water,0.0
+829,5458,Rice,23.5
+829,5459,Tapioca Flour,5.0
+829,5460,Salt,2.0
+829,5461,Nescafe Gold Intenso,35.0
+830,5462,,100.0
+830,5463,,25.0
+830,5464,,20.0
+830,5465,,20.0
+830,5466,,20.0
+830,5467,,20.0
+830,5468,,20.0
+830,5469,,20.0
+830,5470,,20.0
+830,5471,,20.0
+830,5472,,50.0
+831,5473,Rose Syrup,200.0
+831,5474,Evaporated Milk,170.0
+831,5475,Pandan Juice,150.0
+831,5476,Matcha Powder,20.0
+831,5477,Ice,100.0
+831,5478,Fresh Milk,50.0
+832,5479,Pasta,100.0
+832,5480,Mentaiko,100.0
+832,5481,Egg,50.0
+832,5482,Cream,50.0
+832,5483,Soy Sauce,20.0
+832,5484,Cheese,100.0
+832,5485,Black Pepper,5.0
+833,5486,Flour,200.0
+833,5487,Golden Syrup,100.0
+833,5488,Lye Water,50.0
+833,5489,Oil,20.0
+833,5490,Beef,150.0
+833,5491,Mushroom Duxelles,100.0
+833,5492,Parma Ham,50.0
+833,5493,Mustard,10.0
+833,5494,Pastry,100.0
+834,5495,Ground Beef,250.0
+834,5496,Onion,100.0
+834,5497,Kimchi,100.0
+834,5498,Tomato Sauce,300.0
+834,5499,Pasta,100.0
+834,5500,Ricotta Cheese,150.0
+834,5501,Mozzarella Cheese,120.0
+835,5502,Egg Whites,120.0
+835,5503,Sugar,100.0
+835,5504,Corn Flour,100.0
+835,5505,Egg Yolks,60.0
+835,5506,All-purpose flour,100.0
+835,5507,Salt,0.05
+835,5508,Milk,50.0
+835,5509,Honey,100.0
+835,5510,Soy Sauce,20.0
+835,5511,Vanilla Extract,5.0
+836,5512,Snow Fungus,200.0
+836,5513,Red Dates,100.0
+836,5514,Goji Berries,50.0
+836,5515,Dried Longans,50.0
+836,5516,Rock Sugar,100.0
+836,5517,Papaya,200.0
+837,5518,Peanut Butter,60.0
+837,5519,All-Purpose Flour,100.0
+837,5520,Granulated Sugar,50.0
+837,5521,Salt,5.0
+837,5522,Baking Powder,3.0
+837,5523,Vegetable Oil,25.0
+837,5524,Sesame Oil,10.0
+837,5525,Peanuts,60.0
+838,5526,Sweet Cream,250.0
+838,5527,Berries,250.0
+838,5528,Caramel Sauce,60.0
+838,5529,Pickle Shaved Ice,450.0
+839,5530,Flour,364.0
+839,5531,Yeast,30.0
+839,5532,Sugar,21.6
+839,5533,Eggs,120.0
+839,5534,Butter,36.4
+839,5535,Pineapple Juice,89.9
+839,5536,Sugar (for Jam),54.4
+839,5537,Spices (for Jam),4.25
+840,,,
+841,5538,Bacon or Guanciale,250.0
+841,5539,Potatoes,450.0
+841,5540,Egg,50.0
+841,5541,Parmesan Cheese,120.0
+841,5542,Black Pepper,5.0
+841,5543,Potato Starch,60.0
+842,5544,potatoes,200.0
+842,5545,whipped cream,50.0
+842,5546,onions,50.0
+842,5547,carrots,50.0
+842,5548,chicken breast,50.0
+842,5549,Japanese curry powder,10.0
+842,5550,udon noodles,75.0
+843,,,
+844,5551,Butter,50.0
+844,5552,Sugar,90.0
+844,5553,Flour,150.0
+844,5554,Baking Powder,4.0
+844,5555,Salt,4.0
+844,5556,Instant Coffee,5.0
+844,5557,Egg,50.0
+844,5558,Vanilla,10.0
+844,5559,Flaky Salt,10.0
+845,5560,Butter,55.0
+845,5561,Sugar,22.0
+845,5562,Eggs,120.0
+845,5563,Instant Coffee,5.0
+845,5564,Hot Water,0.0
+845,5565,Vanilla,5.0
+845,5566,Flour,227.0
+846,5567,potatoes,200.0
+846,5568,garlic,15.0
+846,5569,salt,5.0
+846,5570,salmon,200.0
+846,5571,Japanese mayo,50.0
+846,5572,spring onions,20.0
+846,5573,tobiko,10.0
+847,,,
+848,5574,,250.0
+848,5575,cooked rice,150.0
+848,5576,seaweed,10.0
+848,5577,sesame oil,10.0
+848,5578,ground beef bulgogi,200.0
+849,5579,Eggs,120.0
+849,5580,Sugar,100.0
+849,5581,Heavy Cream,250.0
+849,5582,Thai Tea Leaves,20.0
+849,5583,Coconut Flakes,100.0
+849,5584,Unsalted Butter,20.0
+850,5585,watermelon,150.0
+850,5586,tomatoes,80.0
+850,5587,mozzarella,60.0
+850,5588,basil,10.0
+850,5589,olive oil,30.0
+850,5590,balsamic vinegar,30.0
+850,5591,flaky salt,10.0
+850,5592,pepper,10.0
+850,5593,prosciutto,50.0
+851,,,
+852,5594,apple,150.0
+852,5595,refrigerator,10000.0
+852,5596,refrigerator,10000.0
+853,5597,bagel,2000.0
+853,5598,cooking oil,28.0
+853,5599,honey,400.0
+853,5600,salt,10.0
+853,5601,monosodium glutamate,10.0
+853,5602,parsley powder,10.0
+854,5603,,500.0
+854,5604,garlic,20.0
+854,5605,salt,5.0
+854,5606,salmon,250.0
+854,5607,Japanese mayo,100.0
+854,5608,spring onions,20.0
+854,5609,tobiko,50.0
+855,,,
+856,,,
+857,5610,egg,400.0
+857,5611,sugar,200.0
+857,5612,milk,250.0
+857,5613,melted butter,57.0
+857,5614,glutinous rice flour and tapioca flour,200.0
+857,5615,vanilla,5.0
+857,5616,classic kuih balu mold,100.0
+857,5617,sugar,100.0
+857,5618,melted butter,28.0
+858,,,
+859,5619,butter,115.0
+859,5620,milk,100.0
+859,5621,cake flour,250.0
+859,5622,egg yolks,120.0
+859,5623,vanilla,5.0
+859,5624,salt,3.0
+860,5625,century egg,120.0
+860,5626,egg,60.0
+860,5627,cheese,200.0
+860,5628,cooking oil,14.0
+860,5629,bacon,100.0
+860,5630,pasta,100.0
+861,5631,chicken,700.0
+861,5632,ginger,20.0
+861,5633,spring onion,20.0
+861,5634,salt,2.0
+861,5635,coconut milk,400.0
+861,5636,chili sauce,50.0
+862,5637,chicken,500.0
+862,5638,ginger,50.0
+862,5639,garlic,20.0
+862,5640,butter,100.0
+862,5641,rice,400.0
+862,5642,chili pepper,20.0
+862,5643,lime juice,50.0
+862,5644,garlic paste,20.0
+862,5645,oil,100.0
+863,5646,chicken,500.0
+863,5647,rice,200.0
+863,5648,garlic,10.0
+863,5649,apple,150.0
+863,5650,potato,100.0
+863,5651,ginger,20.0
+863,5652,goji berries,10.0
+863,5653,scallion,20.0
+863,5654,water,0.0
+864,5655,century egg,100.0
+864,5656,green chili,50.0
+864,5657,garlic,15.0
+864,5658,salt,5.0
+864,5659,soy sauce,50.0
+864,5660,vinegar,25.0
+864,5661,sesame,20.0
+865,5662,,0.0
+865,5663,,100.0
+865,5664,Coco Crunch,200.0
+866,5665,corn,2000.0
+866,5666,milk,240.0
+866,5667,brown butter,50.0
+866,5668,egg yolks,200.0
+866,5669,sugar,400.0
+866,5670,flour,500.0
+866,5671,cornstarch,100.0
+866,5672,vanilla,10.0
+866,5673,cooking oil,14.0
+866,5674,oats,350.0
+866,5675,whipped cream,350.0
+866,5676,rum,10.0
+867,5677,cinnamon sugar,20.0
+867,5678,croissant,240.0
+867,5679,milk,1000.0
+868,5680,egg,50.0
+868,5681,vanilla flour,30.0
+868,5682,salt,6.0
+868,5683,black sesame seeds,20.0
+868,5684,black sesame paste,20.0
+868,5685,Starbucks black sesame tong yuen,100.0
+869,,,
+870,5686,jaggery,70.0
+870,5687,,30.0
+870,5688,dried longan,70.0
+870,5689,dried lo-hon-gor,35.0
+870,5690,espresso,50.0
+870,5691,vanilla Nescafe espresso concentrate,100.0
+871,,,
+872,5692,pistachio,0.0
+872,5693,rum,50.0
+872,5694,butter,140.0
+872,5695,molasses,120.0
+872,5696,egg,180.0
+872,5697,Korean pear,90.0
+872,5698,spices,10.0
+872,5699,salt,5.0
+872,5700,dried banana,100.0
+872,5701,dried persimmon,90.0
+872,5702,dried longan,90.0
+872,5703,dried red date,90.0
+872,5704,raisin,90.0
+873,5705,,100.0
+873,5706,,120.0
+873,5707,,200.0
+873,5708,,100.0
+873,5709,,100.0
+874,5710,palm sugar,1400.0
+874,5711,coconut milk,400.0
+874,5712,butter,225.0
+874,5713,egg,240.0
+874,5714,palm sugar,1400.0
+874,5715,all-purpose flour,900.0
+874,5716,all-purpose flour,120.0
+874,5717,all-purpose flour,120.0
+874,5718,longan,300.0
+874,5719,rum,100.0
+875,5720,toasted bread,1200.0
+875,5721,butter,200.0
+875,5722,Kaya jam,600.0
+875,5723,egg,240.0
+876,5724,kimchi,200.0
+876,5725,bread,250.0
+876,5726,cheese,100.0
+876,5727,cooking oil,14.0
+877,5728,bread flour,1100.0
+877,5729,all purpose flour,350.0
+877,5730,sugar,50.0
+877,5731,salt,5.0
+877,5732,yeast,5.0
+877,5733,water,550.0
+877,5734,butter,400.0
+878,5735,pandan leaf,50.0
+878,5736,coconut milk,120.0
+878,5737,egg,100.0
+878,5738,palm sugar,100.0
+878,5739,oil,14.0
+878,5740,flour,50.0
+879,,,
+880,5741,garlic,10.0
+880,5742,ginger,20.0
+880,5743,chilies,20.0
+880,5744,Sichuan peppercorns,10.0
+880,5745,five-spice powder,5.0
+880,5746,Lao Gan Ma,10.0
+880,5747,egg,50.0
+880,5748,cream,10.0
+880,5749,soy sauce,10.0
+880,5750,sesame oil,5.0
+880,5751,spaghetti,100.0
+880,5752,spring onions,20.0
+881,5753,,0.0
+881,5754,cooking oil,14.0
+881,5755,,0.0
+881,5756,,0.0
+881,5757,,20.0
+881,5758,,0.0
+881,5759,,50.0
+882,,,
+883,5760,,100.0
+883,5761,,14.0
+883,5762,,20.0
+883,5763,,50.0
+883,5764,,100.0
+883,5765,Parma Ham,50.0
+883,5766,,50.0
+884,5767,ground beef,250.0
+884,5768,onion,100.0
+884,5769,kimchi,200.0
+884,5770,pasta,100.0
+884,5771,ricotta cheese,150.0
+884,5772,mozzarella cheese,150.0
+884,5773,tomato sauce,200.0
+885,5774,egg white,120.0
+885,5775,sugar,50.0
+885,5776,corn flour,120.0
+885,5777,egg,120.0
+885,5778,salt,4.0
+885,5779,milk,60.0
+886,5780,papaya,150.0
+886,5781,goji berries,50.0
+886,5782,longans,50.0
+886,5783,rock sugar,30.0
+886,5784,snow fungus,20.0
+886,5785,red dates,20.0
+887,5786,,250.0
+887,5787,all-purpose flour,100.0
+887,5788,sugar,200.0
+887,5789,salt,10.0
+887,5790,baking powder,25.0
+887,5791,oil,20.0
+887,5792,sesame oil,10.0
+887,5793,peanut butter,250.0
+888,5794,egg,100.0
+888,5795,cooking oil,14.0
+888,5796,berries,100.0
+888,5797,sweet cream,30.0
+888,5798,caramel,20.0
+888,5799,sugar,20.0
+888,5800,vinegar,20.0
+888,5801,garlic,5.0
+888,5802,black pepper,5.0
+889,5803,,1000.0
+889,5804,all-purpose flour,500.0
+889,5805,baking powder,50.0
+889,5806,sugar,500.0
+889,5807,salt,10.0
+889,5808,yeast,20.0
+889,5809,unsalted butter,500.0
+889,5810,pineapple jam,500.0
+890,5811,rice,200.0
+890,5812,peanut,120.0
+890,5813,egg,100.0
+890,5814,chili pepper,50.0
+890,5815,garlic,20.0
+890,5816,abalone,200.0
+890,5817,potato,150.0
+890,5818,soy sauce,50.0
+890,5819,cooking oil,140.0
+890,5820,puff pastry,300.0
+891,5821,bacon,150.0
+891,5822,guanciale,100.0
+891,5823,egg,120.0
+891,5824,parmesan cheese,50.0
+891,5825,black pepper,5.0
+891,5826,potato,300.0
+891,5827,potato starch,40.0
+891,5828,water,0.0
+892,5829,,300.0
+892,5830,,200.0
+892,5831,,250.0
+892,5832,Japanese curry,20.0
+892,5833,,100.0
+892,5834,,180.0
+892,5835,,100.0
+892,5836,,80.0
+892,5837,,14.0
+892,5838,,20.0
+892,5839,,20.0
+892,5840,,20.0
+892,5841,,20.0
+892,5842,,20.0
+893,,,
+894,5843,butter,100.0
+894,5844,sugar,200.0
+894,5845,instant coffee,20.0
+894,5846,egg,100.0
+894,5847,vanilla extract,10.0
+894,5848,flour,1800.0
+894,5849,baking powder,20.0
+894,5850,salt,5.0
+895,,,
+896,,,
+897,,,
+898,,,
+899,5851,,0.0
+899,5852,,100.0
+899,5853,,2000.0
+899,5854,,10.0
+899,5855,,50000.0
+900,5856,watermelon,150.0
+900,5857,tomato,120.0
+900,5858,mozzarella cheese,80.0
+900,5859,basil leaves,20.0
+900,5860,olive oil,10.0
+900,5861,balsamic vinegar,20.0
+900,5862,flaky salt,5.0
+900,5863,prosciutto,20.0
+901,5864,Flour,730.0
+901,5865,Sugar,56.0
+901,5866,Salt,28.0
+901,5867,Baking Powder,28.0
+901,5868,Yeast,28.0
+901,5869,Egg,50.0
+901,5870,Warm Milk,400.0
+901,5871,Tomato,500.0
+901,5872,Mozzarella,280.0
+901,5873,Prosciutto,110.0
+901,5874,Arugula,20.0
+901,5875,Olive Oil,140.0
+901,5876,Cured Egg Yolks,140.0
+901,5877,Black Pepper,4.0
+902,5878,Apple,136.0
+902,5879,Refrigerator,1000.0
+902,5880,Freezer,10000.0
+903,5881,Bagels,1200.0
+903,5882,Unsalted Butter,200.0
+903,5883,Honey,100.0
+903,5884,Salt,10.0
+903,5885,MSG,5.0
+903,5886,Parsley Powder,5.0
+904,5887,Potatoes,350.0
+904,5888,Garlic,30.0
+904,5889,Oil,50.0
+904,5890,Salt,5.0
+904,5891,Salmon,120.0
+904,5892,Japanese Mayo,100.0
+904,5893,Spring Onions,20.0
+904,5894,Tobiko,20.0
+905,5895,banana,100.0
+905,5896,milk,200.0
+905,5897,whipping cream,200.0
+905,5898,vanilla,10.0
+905,5899,cinnamon powder,2.0
+905,5900,egg yolks,60.0
+905,5901,sugar,100.0
+906,5902,,450.0
+906,5903,salted black beans,90.0
+906,5904,garlic,15.0
+906,5905,pasta,225.0
+906,5906,oil,22.5
+906,5907,dace,90.0
+907,5908,Eggs,240.0
+907,5909,Sugar,1000.0
+907,5910,Milk,1000.0
+907,5911,Butter,1700.0
+907,5912,Vanilla,10.0
+907,5913,Glutinous Rice Flour,364.0
+907,5914,Tapioca Flour,200.0
+907,5915,Butter (for greasing),850.0
+908,5916,butter,50.0
+908,5917,Milo powder,30.0
+908,5918,cocoa powder,30.0
+908,5919,salt,3.0
+908,5920,condensed milk,395.0
+908,5921,vanilla extract,5.0
+908,5922,cream,100.0
+908,5923,classic Mary biscuits,150.0
+908,5924,chocolate sauce,100.0
+908,5925,melted chocolate and cream (ganache),100.0
+909,5926,Butter,225.0
+909,5927,Milk,400.0
+909,5928,Cake Flour,900.0
+909,5929,Egg Yolks,160.0
+909,5930,Vanilla,8.0
+909,5931,Sugar,364.0
+909,5932,Salt,2.0
+910,5933,Century Egg,100.0
+910,5934,Egg,50.0
+910,5935,Parmesan Cheese,50.0
+910,5936,Black Pepper,5.0
+910,5937,Bacon,20.0
+910,5938,Spaghetti,100.0
+911,5939,chicken breast,550.0
+911,5940,coconut milk,200.0
+911,5941,ginger,25.0
+911,5942,spring onion,20.0
+911,5943,salt,5.0
+911,5944,chili sauce,25.0
+911,5945,rice,2000.0
+912,,,
+913,5946,chicken,500.0
+913,5947,onion,200.0
+913,5948,apple,150.0
+913,5949,carrot,100.0
+913,5950,napa cabbage,250.0
+913,5951,spring onion,50.0
+913,5952,ginger,20.0
+913,5953,goji berries,80.0
+914,5954,Century Eggs,150.0
+914,5955,Green Chilies,200.0
+914,5956,Garlic,20.0
+914,5957,Salt,5.0
+914,5958,Soy Sauce,50.0
+914,5959,Vinegar,20.0
+914,5960,Sesame,20.0
+914,5961,Rice,200.0
+915,5962,Rice,50000.0
+915,5963,Sugar,20000.0
+915,5964,Cocoa,50000.0
+915,5965,Milk,1000.0
+915,5966,Strawberry Flavor,50000.0
+916,5967,corn,800.0
+916,5968,milk,400.0
+916,5969,sugar,200.0
+916,5970,flour,400.0
+916,5971,cornstarch,30.0
+916,5972,egg yolks,200.0
+916,5973,whipped cream,200.0
+916,5974,oats,400.0
+916,5975,brown butter,20.0
+916,5976,rum,15.0
+916,5977,vanilla,5.0
+917,5978,Frozen Puff Pastry,150.0
+917,5979,Cinnamon Sugar,20.0
+917,5980,Croissants,150.0
+918,5981,Tong Yuen,200.0
+918,5982,Butter,225.0
+918,5983,Sugar,200.0
+918,5984,Egg,120.0
+918,5985,Vanilla Extract,5.0
+918,5986,All-purpose Flour,120.0
+918,5987,Black Sesame Seeds,50.0
+918,5988,Black Sesame Paste,30.0
+919,5989,Durian,200.0
+919,5990,Chicken breast,200.0
+919,5991,Potatoes,100.0
+919,5992,Carrots,100.0
+919,5993,Curry paste,50.0
+919,5994,Coconut milk,100.0
+920,5995,longan,100.0
+920,5996,longan flower bud,50.0
+920,5997,pandanus leaf,20.0
+920,5998,jaggery,50.0
+920,5999,Espresso,30.0
+921,6000,potatoes,500.0
+921,6001,oil,250.0
+921,6002,salt,5.0
+921,6003,pepper,5.0
+922,6004,Persimmons,50.0
+922,6005,Sweet Potatoes,20.0
+922,6006,Goji Berries,10.0
+922,6007,Longan,5.0
+922,6008,Red Dates,5.0
+922,6009,Raisins,5.0
+922,6010,Butter,100.0
+922,6011,Gula Melaka,50.0
+922,6012,Eggs,120.0
+922,6013,Orange Zest,5.0
+922,6014,Orange Juice,80.0
+922,6015,Korean Pear Bits,50.0
+922,6016,Flour,250.0
+922,6017,Baking Powder,20.0
+922,6018,Christmas Spices,10.0
+922,6019,Salt,5.0
+922,6020,Rum,50.0
+923,6021,Kante,450.0
+923,6022,Whipped cream,200.0
+923,6023,Condensed milk,270.0
+923,6024,Kante powder,8.0
+923,6025,Miso paste,40.0
+923,6026,Seaweed sheets,30.0
+1001,6571,Dried Persimmons,200.0
+1001,6572,Dried Sweet Potatoes,175.0
+1001,6573,Goji Berries,100.0
+1001,6574,Longans,50.0
+1001,6575,Red Dates,75.0
+1001,6576,Raisins,25.0
+1001,6577,Butter,113.0
+1001,6578,Gula Melaka,45.0
+1001,6579,Eggs,180.0
+1001,6580,Orange Zest,10.0
+1001,6581,Orange Juice,0.0
+1001,6582,Flour,289.0
+1001,6583,Baking Powder,5.0
+1001,6584,Christmas Spices,5.0
+1001,6585,Salt,3.0
+1002,,,
+1007,,,
+1008,6619,,0.0
+1009,6620,,0.0
+1010,6621,,0.0
+1011,6622,,1280.0
+1011,6623,,3.0
+1011,6624,,3.0
+1011,6625,,27.0
+1011,6626,,50.0
+1011,6627,,200.0
+1012,6628,,2000.0
+1012,6629,,2.0
+1012,6630,,2.0
+1012,6631,,250.0
+1012,6632,,250.0
+1012,6633,,250.0
+1012,6634,,250.0
+1012,6635,,2.0
+1012,6636,,250.0
+1012,6637,,2.0
+924,6027,Gula Melaka,234.0
+924,6028,,176.0
+924,6029,Butter,283.0
+924,6030,Coconut Milk,430.0
+924,6031,Eggs,240.0
+924,6032,Gula Melaka,114.0
+924,6033,Baking Powder,28.0
+924,6034,Baking Soda,14.0
+924,6035,Baking Salt,21.0
+924,6036,Rum,50.0
+924,6037,Coconut Milk,114.0
+925,6038,Hinane of Bengali style white bread,1000.0
+925,6039,Unsalted butter,250.0
+925,6040,Strawberry and red bean jam,120.0
+925,6041,Cured egg yolk,50.0
+926,6042,Cheese,115.0
+926,6043,Bread,120.0
+926,6044,Kimchi,100.0
+927,6045,Bread Flour,1200.0
+927,6046,All-Purpose Flour,800.0
+927,6047,Sugar,150.0
+927,6048,Salt,20.0
+927,6049,Yeast,10.0
+927,6050,Water,500.0
+927,6051,Butter,200.0
+928,6052,Pandan Leaves,20.0
+928,6053,Coconut Milk,400.0
+928,6054,Egg,50.0
+928,6055,Palm Sugar,150.0
+928,6056,Salt,2.0
+928,6057,Oil,20.0
+928,6058,Flour,120.0
+929,6059,Gula Melaka,300.0
+929,6060,Flour,120.0
+929,6061,Water,0.0
+929,6062,Nescafe Gold Intenso,20.0
+929,6063,Coconut Milk,1200.0
+929,6064,Rice,70.0
+929,6065,Tapioca Flour,80.0
+929,6066,Salt,6.0
+929,6067,Water,0.0
+929,6068,Coconut Oil,14.0
+930,6069,Garlic,30.0
+930,6070,Ginger,20.0
+930,6071,Chilies,10.0
+930,6072,Sichuan Peppercorns,10.0
+930,6073,Five-Spice Powder,10.0
+930,6074,Lao Gan Ma,40.0
+930,6075,Egg,50.0
+930,6076,Oil,150.0
+930,6077,Spaghetti,200.0
+930,6078,Soy Sauce,50.0
+930,6079,Sesame Oil,20.0
+930,6080,Spring Onions,20.0
+931,6081,Rose Syrup,500.0
+931,6082,Evaporated Milk,200.0
+931,6083,Fresh Pandan Leaves,200.0
+931,6084,Matcha Powder,20.0
+931,6085,Ice,500.0
+931,6086,Milk,200.0
+932,6087,Mentaiko,200.0
+932,6088,Egg,50.0
+932,6089,Cream,100.0
+932,6090,Soy Sauce,20.0
+932,6091,Cheese,100.0
+932,6092,Black Pepper,5.0
+932,6093,Pasta,300.0
+932,6094,Mayo,50.0
+933,6095,Flour,228.0
+933,6096,Golden Syrup,69.0
+933,6097,Lye Water,29.0
+933,6098,Oil,28.0
+933,6099,Beef,170.0
+933,6100,Mushroom Duxelles,57.0
+933,6101,Parma Ham,57.0
+933,6102,Mustard,6.0
+933,6103,Pastry,114.0
+934,6104,Ground Beef,150.0
+934,6105,Onions,100.0
+934,6106,Kimchi,50.0
+934,6107,Tomato Sauce,200.0
+934,6108,Pasta Pieces,50.0
+934,6109,Ricotta Cheese,50.0
+934,6110,Mozzarella Cheese,50.0
+935,6111,Egg whites,120.0
+935,6112,Sugar,10.0
+935,6113,Corn flour,25.0
+935,6114,Egg yolks,50.0
+935,6115,Flour,35.0
+935,6116,Salt,1.25
+935,6117,Milk,10.0
+935,6118,Honey,7.0
+935,6119,Butter,10.0
+935,6120,Soy sauce,5.0
+935,6121,Vanilla,2.5
+936,6122,,1000.0
+936,6123,,200.0
+936,6124,,150.0
+936,6125,,100.0
+936,6126,,400.0
+936,6127,,12000.0
+936,6128,,25000.0
+937,6129,Peanut Butter,300.0
+937,6130,All-Purpose Flour,120.0
+937,6131,Sugar,100.0
+937,6132,Salt,2.0
+937,6133,Baking Powder,7.0
+937,6134,Oil,140.0
+937,6135,Sesame Oil,14.0
+938,6136,Pineapple,1000.0
+938,6137,Strawberries,200.0
+938,6138,Mint Leaves,10.0
+938,6139,Cucumber,500.0
+938,6140,Yogurt,150.0
+938,6141,Caramel,100.0
+938,6142,Pickle Juice,150.0
+939,6143,All-purpose Flour,450.0
+939,6144,Active Dry Yeast,6.0
+939,6145,Sugar,200.0
+939,6146,Salt,6.0
+939,6147,Unsalted Butter,85.0
+939,6148,Eggs,50.0
+939,6149,Pineapple Juice,120.0
+939,6150,Pineapple Jam,200.0
+940,6151,rice,200.0
+940,6152,chicken stock,1000.0
+940,6153,shredded chicken,200.0
+940,6154,abalone,100.0
+940,6155,ginger,20.0
+940,6156,spring onions,50.0
+940,6157,soy sauce,10.0
+940,6158,sesame oil,20.0
+940,6159,frozen puff pastry,200.0
+941,6160,Guanciale or Bacon,300.0
+941,6161,Potato Starch,50.0
+941,6162,Egg Yolk,240.0
+941,6163,Parmesan Cheese,150.0
+941,6164,Black Pepper,5.0
+941,6165,Carbonara Noodles,800.0
+942,6166,potatoes,600.0
+942,6167,onions,150.0
+942,6168,carrots,250.0
+942,6169,chicken breast,600.0
+942,6170,Japanese curry,500.0
+942,6171,udon noodles,250.0
+942,6172,whipped cream,150.0
+943,6173,Eggs,120.0
+943,6174,Butter,50.0
+943,6175,Milk,80.0
+943,6176,Sugar,20.0
+943,6177,Salt,6.0
+943,6178,Baking Powder,20.0
+943,6179,Vanilla,5.0
+943,6180,Cinnamon,3.0
+943,6181,Rice Paper,200.0
+944,6182,Butter,227.0
+944,6183,Sugar,200.0
+944,6184,Instant Coffee,50.0
+944,6185,Egg,50.0
+944,6186,Vanilla,10.0
+944,6187,Flour,200.0
+944,6188,Baking Powder,30.0
+944,6189,Salt,10.0
+944,6190,Flaky Salt,20.0
+945,6191,,250.0
+945,6192,butter,50.0
+945,6193,sugar,15.0
+945,6194,eggs,50.0
+945,6195,instant coffee,10.0
+945,6196,water,30.0
+945,6197,vanilla,5.0
+945,6198,flour,120.0
+946,6199,Potatoes,200.0
+946,6200,Garlic oil,10.0
+946,6201,Salt,5.0
+946,6202,Salmon fillet,100.0
+946,6203,Japanese mayo,30.0
+946,6204,Spring onions,20.0
+946,6205,Tobiko,10.0
+947,6206,Mandarin Oranges,450.0
+947,6207,Sugar,180.0
+947,6208,Eggs,150.0
+947,6209,Flour,225.0
+947,6210,Baking Powder,5.0
+947,6211,Baking Soda,5.0
+947,6212,Salt,5.0
+947,6213,Butter,90.0
+947,6214,Palm Sugar,90.0
+947,6215,Cream,50.0
+948,6216,,200.0
+948,6217,,500.0
+948,6218,,100.0
+948,6219,,200.0
+948,6220,,200.0
+949,,,
+950,6221,Watermelon,500.0
+950,6222,Tomato,100.0
+950,6223,Mozzarella Cheese,80.0
+950,6224,Basil Leaf,20.0
+950,6225,Olive Oil,15.0
+950,6226,Balsamic Vinegar,150.0
+950,6227,Flaky Salt,5.0
+950,6228,Black Pepper,5.0
+950,6229,Prosciutto,50.0
+951,6230,Flour,100.0
+951,6231,Sugar,20.0
+951,6232,Salt,2.0
+951,6233,Baking Powder,15.0
+951,6234,Yeast,5.0
+951,6235,Egg,50.0
+951,6236,Milk,0.0
+951,6237,Tomato,100.0
+951,6238,Mozzarella,50.0
+951,6239,Prosciutto,50.0
+951,6240,Arugula,50.0
+951,6241,Olive Oil,10.0
+951,6242,Cured Egg Yolks,20.0
+951,6243,Black Pepper,2.0
+952,6244,apple,100.0
+953,6245,Bagel,150.0
+953,6246,Unsalted Butter,50.0
+953,6247,Honey,20.0
+953,6248,Salt,5.0
+953,6249,MSG (Monosodium Glutamate),1.0
+953,6250,Parsley Powder,2.0
+954,6251,Potatoes,250.0
+954,6252,Garlic Oil,15.0
+954,6253,Salt,5.0
+954,6254,Salmon,100.0
+954,6255,Japanese Mayo,15.0
+954,6256,Spring Onions,20.0
+954,6257,Tobiko,10.0
+955,6258,Banana,200.0
+955,6259,Milk,100.0
+955,6260,Whipping cream,150.0
+955,6261,Vanilla extract,6.0
+955,6262,Cinnamon powder,2.0
+955,6263,Egg yolks,120.0
+955,6264,Sugar,50.0
+956,6265,Fried Dace,200.0
+956,6266,Salted Black Beans,150.0
+956,6267,Chopped Garlic,30.0
+956,6268,Oil,55.0
+956,6269,Pasta,200.0
+957,6270,,0.0
+957,6271,,500.0
+957,6272,,500.0
+957,6273,,50.0
+957,6274,,0.0
+957,6275,,25.0
+957,6276,,25.0
+958,6277,,
+958,6278,,
+958,6279,,
+958,6280,,
+958,6281,,
+958,6282,,
+959,6283,Butter,250.0
+959,6284,Milk,100.0
+959,6285,Cake Flour,250.0
+959,6286,Egg Yolks,45.0
+959,6287,Vanilla,5.0
+959,6288,Salt,3.75
+960,6289,Century Egg,100.0
+960,6290,Egg,50.0
+960,6291,Cheese,200.0
+960,6292,Black Pepper,5.0
+960,6293,Bacon,100.0
+961,6294,chicken breast,550.0
+961,6295,ginger,30.0
+961,6296,spring onion,25.0
+961,6297,coconut milk,240.0
+961,6298,instant chili sauce,60.0
+962,6299,chicken,500.0
+962,6300,ginger,25.0
+962,6301,scallion,50.0
+962,6302,,1.0
+962,6303,rice,250.0
+962,6304,chicken broth,1000.0
+962,6305,butter,15.0
+962,6306,,50.0
+962,6307,,10.0
+962,6308,lime juice,20.0
+962,6309,,50.0
+962,6310,,25.0
+963,6311,onion,150.0
+963,6312,apple,150.0
+963,6313,carrot,100.0
+963,6314,napa cabbage,200.0
+963,6315,chicken,800.0
+963,6316,spring onions,50.0
+963,6317,ginger,20.0
+963,6318,goji berries,30.0
+964,6319,,120.0
+964,6320,,150.0
+964,6321,garlic,30.0
+964,6322,salt,10.0
+964,6323,soy sauce,50.0
+964,6324,vinegar,20.0
+964,6325,sesame seeds,20.0
+964,6326,century egg,200.0
+965,6327,Coco Crunch,900.0
+965,6328,Strawberries,200.0
+966,6329,flour,250.0
+966,6330,sugar,150.0
+966,6331,egg yolks,120.0
+966,6332,milk,250.0
+966,6333,corn cobs,150.0
+966,6334,butter,50.0
+966,6335,vanilla extract,10.0
+966,6336,rum,50.0
+966,6337,whipped cream,500.0
+966,6338,oats,100.0
+966,6339,salt,10.0
+967,6340,Frozen Puff Pastry,250.0
+967,6341,Cinnamon Sugar ( approx. 1/4 cup ),30.0
+967,6342,Milk ( approx. 1 cup ),240.0
+968,6343,Butter,100.0
+968,6344,Sugar,50.0
+968,6345,Egg,50.0
+968,6346,Flour,100.0
+968,6347,Baking Butter,20.0
+968,6348,Salt,5.0
+968,6349,Black Sesame Seeds,20.0
+968,6350,Black Sesame Paste,10.0
+968,6351,Starbucks Black Sesame Tong Yuen,200.0
+969,6352,Chicken Breast or Thighs,540.0
+969,6353,Potatoes (2-3 medium-sized),340.0
+969,6354,Carrots (2-3 medium-sized),280.0
+969,6355,Durian (1 whole),250.0
+969,6356,Store-bought Curry Paste (2-3 tablespoons),28.0
+970,6357,Longan,100.0
+970,6358,Longan Flower,50.0
+970,6359,Pandan Leaves,50.0
+970,6360,Coconut Sugar,50.0
+970,6361,Vanilla Espresso,100.0
+971,,,
+972,6362,Butter,250.0
+972,6363,Gula Melaka,200.0
+972,6364,Eggs,120.0
+972,6365,Orange,30.0
+972,6366,Flour,500.0
+972,6367,Baking Powder,30.0
+972,6368,Christmas Spices,20.0
+972,6369,Salt,10.0
+972,6370,Persimmons,100.0
+972,6371,Sweet Potatoes,50.0
+972,6372,Goji Berries,100.0
+972,6373,Longans,50.0
+972,6374,Red Dates,100.0
+972,6375,Raisins,50.0
+972,6376,Rum,250.0
+973,6377,Kante,150.0
+973,6378,Condensed Milk,100.0
+973,6379,Whipped Cream,100.0
+973,6380,Kante Powder,20.0
+973,6381,Miso,100.0
+973,6382,Seaweed Snack,50.0
+974,6383,gula melaka,100.0
+974,6384,coconut milk,120.0
+974,6385,butter,60.0
+974,6386,sugar,100.0
+974,6387,eggs,120.0
+974,6388,rum-soaked longans,80.0
+975,6389,Hinaneese of Bengali style white bread,300.0
+975,6390,Butter,200.0
+975,6391,Kaya,500.0
+975,6392,Egg yolk,150.0
+976,6393,cheese,200.0
+976,6394,grilled bread,350.0
+976,6395,kimchi,100.0
+977,6396,,800.0
+977,6397,,400.0
+977,6398,,100.0
+977,6399,,20.0
+977,6400,,5000.0
+978,6401,pandan leaves,20.0
+978,6402,coconut milk,400.0
+978,6403,egg,50.0
+978,6404,sugar,200.0
+978,6405,salt,5.0
+978,6406,oil,20.0
+978,6407,flour,150.0
+979,6408,Gula Melaka,120.0
+979,6409,Flour,364.0
+979,6410,Rice,0.0
+979,6411,Tapioca Flour,218.0
+979,6412,Water,0.0
+979,6413,Coffee,50.0
+979,6414,Sugar,397.0
+979,6415,Salt,5.0
+980,6416,garlic,10.0
+980,6417,ginger,10.0
+980,6418,chilies,20.0
+980,6419,Sichuan peppercorns,10.0
+980,6420,five-spice powder,10.0
+980,6421,Lao Gan Ma,20.0
+980,6422,egg,50.0
+980,6423,cream,100.0
+980,6424,soy sauce,50.0
+980,6425,sesame oil,20.0
+980,6426,spaghetti,400.0
+980,6427,spring onions,20.0
+981,6428,,200.0
+981,6429,Rose Syrup,50.0
+981,6430,Evaporated Milk,150.0
+981,6431,Fresh Pandan Leaves,100.0
+981,6432,Matcha Powder,20.0
+982,6433,Spicy Pollack Roe,85.0
+982,6434,,50.0
+982,6435,,30.0
+982,6436,,10.0
+982,6437,,55.0
+982,6438,,5.0
+982,6439,,200.0
+982,6440,,10.0
+983,6441,Flour,364.0
+983,6442,Golden syrup,227.4
+983,6443,Lye water,0.0
+983,6444,Oil,35.4
+983,6445,Beef,227.2
+983,6446,Mushroom duxelles,115.2
+983,6447,Parmham,113.4
+983,6448,Mustard,10.9
+983,6449,Pastry,227.4
+984,6450,Ground Beef,200.0
+984,6451,Onion,100.0
+984,6452,Kimchi,50.0
+984,6453,Tomato Sauce,200.0
+984,6454,Pasta Pieces,50.0
+984,6455,Ricotta Cheese,150.0
+984,6456,Mozzarella Cheese,150.0
+985,6457,Egg Whites,120.0
+985,6458,Sugar,50.0
+985,6459,Corn Flour,100.0
+985,6460,Egg Yolks,50.0
+985,6461,Flour,100.0
+985,6462,Salt,5.0
+985,6463,Milk,200.0
+985,6464,Honey,50.0
+985,6465,Soy Sauce,25.0
+985,6466,Vanilla,5.0
+986,6467,Snow Fungus,200.0
+986,6468,Red Dates,50.0
+986,6469,Goji Berries,20.0
+986,6470,Dried Longans,30.0
+986,6471,Papaya,200.0
+987,6472,Peanut Butter,118.0
+987,6473,All-Purpose Flour,120.0
+987,6474,Sugar,100.0
+987,6475,Salt,3.0
+987,6476,Baking Powder,15.0
+987,6477,Oil,55.0
+987,6478,Sesame Oil,3.0
+987,6479,Peanuts,120.0
+988,6480,Sweet Cream,0.0
+988,6481,Caramel Sauce,0.0
+988,6482,Berries,100.0
+988,6483,Pickles,1500.0
+989,6484,all-purpose flour,250.0
+989,6485,sugar,100.0
+989,6486,active dry yeast,5.0
+989,6487,unsalted butter  softened,100.0
+989,6488,eggs,50.0
+989,6489,water,150.0
+989,6490,pineapple jam,50.0
+989,6491,salt,5.0
+989,6492,sugar (for egg wash),20.0
+989,6493,water (for egg wash),30.0
+989,6494,unsalted butter (for egg wash),20.0
+989,6495,egg (for egg wash),50.0
+989,6496,sugar (for egg wash),20.0
+989,6497,water (for egg wash),30.0
+990,6498,,200.0
+990,6499,,150.0
+990,6500,,80.0
+990,6501,,700.0
+990,6502,,1000.0
+990,6503,,3000.0
+991,,,
+992,6504,Potatoes,200.0
+992,6505,Onions,50.0
+992,6506,Carrots,25.0
+992,6507,Chicken,50.0
+992,6508,Japanese Curry,50.0
+992,6509,Udon Noodles,100.0
+992,6510,Whipped Cream,50.0
+993,6511,Eggs,120.0
+993,6512,Butter,115.0
+993,6513,Milk,240.0
+993,6514,Sugar,10.0
+993,6515,Salt,2.0
+993,6516,Baking Powder,5.0
+993,6517,Vanilla,5.0
+993,6518,Cinnamon,3.0
+993,6519,Rice Paper,80.0
+994,6520,,100.0
+994,6521,,0.0
+994,6522,,3.0
+994,6523,,21.0
+994,6524,,3.0
+994,6525,,6.0
+994,6526,,3.0
+994,6527,,100.0
+994,6528,,0.0
+995,6529,,1000.0
+995,6530,Butter,120.0
+995,6531,Sugar,200.0
+995,6532,Eggs,50.0
+995,6533,Instant Coffee,20.0
+995,6534,Vanilla,10.0
+995,6535,Flour,1000.0
+996,6536,Potatoes,450.0
+996,6537,,20.0
+996,6538,Salmon,150.0
+996,6539,Japanese Mayo,30.0
+996,6540,Spring Onions,20.0
+996,6541,Tobiko,10.0
+997,6542,mandarin oranges,1000.0
+997,6543,butter,170.0
+997,6544,palm sugar,200.0
+997,6545,heavy cream,240.0
+997,6546,eggs,120.0
+997,6547,all-purpose flour,110.0
+997,6548,baking powder,20.0
+997,6549,baking soda,15.0
+997,6550,salt,5.0
+998,6551,,2000.0
+998,6552,cooked white rice,800.0
+998,6553,seaweed sheets,100.0
+998,6554,sesame seeds,50.0
+998,6555,sesame oil,20.0
+998,6556,ground beef bulgogi,300.0
+999,6557,Eggs,240.0
+999,6558,Sugar,364.0
+999,6559,Heavy Cream,2272.0
+999,6560,Thai Tea Leaves,10.0
+999,6561,Coconut Flakes,1152.0
+1000,6562,Watermelon,120.0
+1000,6563,Tomatoes,50.0
+1000,6564,Mozzarella,20.0
+1000,6565,Basil,10.0
+1000,6566,Olive Oil,20.0
+1000,6567,Balsamic Vinegar,100.0
+1000,6568,Flaky Salt,20.0
+1000,6569,Pepper,10.0
+1000,6570,Prosciutto,60.0
+1003,6586,,450.0
+1003,6587,,200.0
+1003,6588,,10.0
+1003,6589,,20.0
+1003,6590,,800.0
+1003,6591,,50.0
+1003,6592,,3200.0
+1004,6593,,250.0
+1004,6594,,200.0
+1004,6595,,50.0
+1004,6596,,120.0
+1004,6597,,100.0
+1004,6598,,20.0
+1004,6599,,200.0
+1004,6600,,200.0
+1004,6601,,100.0
+1005,6602,,400.0
+1005,6603,,120.0
+1005,6604,,200.0
+1005,6605,,100.0
+1005,6606,,150.0
+1005,6607,,20.0
+1005,6608,,10.0
+1005,6609,,20.0
+1005,6610,,2.0
+1006,6611,,2500.0
+1006,6612,,1000.0
+1006,6613,,2000.0
+1006,6614,,150001.0
+1006,6615,,20004.2
+1006,6616,,5000010.0
+1006,6617,,2.0
+1006,6618,,1000020.0
